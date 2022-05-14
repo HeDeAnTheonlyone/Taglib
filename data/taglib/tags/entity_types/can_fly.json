@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:flying_mob",
+        "#taglib:flying_object"
+    ]
+}

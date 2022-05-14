@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:evoker",
+    "minecraft:ravager",
+    "minecraft:piglin_brute",
+    "minecraft:iron_golem",
+    "minecraft:illusioner",
+    "minecraft:guardian",
+    "minecraft:giant",
+    "minecraft:enderman",
+    "minecraft:elder_guardian"
+  ]
+}

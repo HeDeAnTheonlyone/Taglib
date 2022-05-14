@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:turtle",
+        "minecraft:drowned",
+        "#taglib:guardians",
+        "#taglib:water_only_mobs"
+    ]
+}

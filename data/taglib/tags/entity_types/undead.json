@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:wither_skeleton",
+        "minecraft:wither",
+        "minecraft:zombified_piglin",
+        "minecraft:zombie_horse",
+        "minecraft:skeleton_horse",
+        "minecraft:husk",
+        "#taglib:burns_in_sunlight"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:boat",
+        "minecraft:pig",
+        "minecraft:llama",
+        "minecraft:strider",
+        "#taglib:horse"
+    ]
+}

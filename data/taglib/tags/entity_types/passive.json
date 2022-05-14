@@ -1,0 +1,30 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:bat",
+        "minecraft:cat",
+        "minecraft:chicken",
+        "minecraft:cow",
+        "minecraft:donkey",
+        "minecraft:fox",
+        "minecraft:horse",
+        "minecraft:mooshroom",
+        "minecraft:mule",
+        "minecraft:ocelot",
+        "minecraft:parrot",
+        "minecraft:pig",
+        "minecraft:rabbit",
+        "minecraft:sheep",
+        "minecraft:skeleton_horse",
+        "minecraft:squid",
+        "minecraft:strider",
+        "minecraft:turtle",
+        "minecraft:villager",
+        "minecraft:wandering_trader",
+        "minecraft:zombie_horse",
+        "minecraft:axolotl",
+        "minecraft:goat",
+        "minecraft:glow_squid",
+        "#taglib:fish"
+    ]
+}

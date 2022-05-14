@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:zombie",
+        "minecraft:husk",
+        "minecraft:drowned",
+        "#skeletons",
+        "#taglib:piglins"
+    ]
+}

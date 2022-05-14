@@ -1,0 +1,8 @@
+{
+    "values": [
+        "minecraft:cat",
+        "minecraft:wolf",
+        "#taglib:horse",
+        "minecraft:llama"
+    ]
+}
