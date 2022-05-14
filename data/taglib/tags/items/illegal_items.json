@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:structure_block",
+        "minecraft:debug_stick",
+        "minecraft:jigsaw",
+        "minecraft:bedrock",
+        "minecraft:end_portal_frame",
+        "minecraft:knowledge_book",
+        "#taglib:spawn_eggs",
+        "#taglib:command_blocks",
+        "#taglib:invisible_touchable_blocks"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:spawn_eggs",
+        "#taglib:normal_eggs"
+    ]
+}

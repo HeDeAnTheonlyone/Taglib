@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:light",
+        "minecraft:structure_void",
+        "minecraft:barrier"
+    ]
+}

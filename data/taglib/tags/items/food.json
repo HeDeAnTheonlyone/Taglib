@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:bread",
+        "minecraft:dried_kelp",
+        "#taglib:food_in_a_bowl",
+        "#taglib:meat",
+        "#taglib:fish",
+        "#taglib:sweets",
+        "#taglib:fruits",
+        "#taglib:vegetables",
+        "#taglib:effect_reseter",
+        "#taglib:bad_food"
+    ]
+}

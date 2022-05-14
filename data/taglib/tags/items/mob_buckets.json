@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:axolotl_bucket",
+        "#taglib:fish_buckets"
+    ]
+}

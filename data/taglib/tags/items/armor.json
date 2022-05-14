@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:turtle_helmet",
+        "#taglib:leather_armor",
+        "#taglib:chainmail_armor",
+        "#taglib:golden_armor",
+        "#taglib:iron_armor",
+        "#taglib:diamond_armor",
+        "#taglib:netherite_armor"
+    ]
+}

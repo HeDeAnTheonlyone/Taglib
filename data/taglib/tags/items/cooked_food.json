@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:baked_potato",
+        "#taglib:cooked_meat",
+        "#taglib:cooked_fish"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:cooked_meat",
+        "#taglib:uncooked_meat"
+    ]
+}

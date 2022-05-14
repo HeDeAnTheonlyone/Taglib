@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:weathered_copper",
+        "minecraft:weathered_cut_copper",
+        "minecraft:waxed_weathered_copper",
+        "minecraft:waxed_weathered_copper"
+    ]
+}

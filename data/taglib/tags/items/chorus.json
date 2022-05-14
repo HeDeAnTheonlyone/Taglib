@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:chorus_flower",
+        "minecraft:chorus_plant",
+        "minecraft:chorus_fruit",
+        "minecraft:popped_chorus_fruit"
+    ]
+}

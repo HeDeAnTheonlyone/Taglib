@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:melee_weapons",
+        "#taglib:ranged_weapons"
+    ]
+}

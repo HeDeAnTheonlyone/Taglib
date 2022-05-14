@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:barrel",
+        "minecraft:hopper",
+        "minecraft:dropper",
+        "minecraft:dispenser",
+        "#taglib:shulker_boxes",
+        "#taglib:furnaces",
+        "#taglib:chests"
+    ]
+}
