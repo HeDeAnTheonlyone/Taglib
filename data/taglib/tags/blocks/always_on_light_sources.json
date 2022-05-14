@@ -1,0 +1,26 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:conduit",
+        "minecraft:glowstone",
+        "minecraft:jack_o_lantern",
+        "minecraft:sea_lantern",
+        "minecraft:lava_cauldron",
+        "minecraft:beacon",
+        "minecraft:sea_pickle",
+        "minecraft:shroomlight",
+        "minecraft:end_rod",
+        "minecraft:crying_obsidian",
+        "minecraft:ender_chest",
+        "minecraft:glow_lichen",
+        "minecraft:brown_mushroom",
+        "minecraft:brewing_stand",
+        "minecraft:dragon_egg",
+        "minecraft:end_portal_frame",
+        "#portals",
+        "#taglib:lanterns",
+        "#taglib:torches",
+        "#taglib:amethyst_clusters",
+        "#taglib:hot_blocks"
+    ]
+}

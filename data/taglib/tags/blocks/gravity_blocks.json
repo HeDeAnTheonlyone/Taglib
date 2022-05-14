@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:gravel",
+        "minecraft:scaffolding",
+        "minecraft:pointed_dripstone",
+        "#sand",
+        "#taglib:anvils"
+    ]
+}

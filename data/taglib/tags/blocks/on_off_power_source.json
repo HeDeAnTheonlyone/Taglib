@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:daylight_detector",
+        "minecraft:lightning_rod",
+        "minecraft:observer",
+        "minecraft:detector_rail",
+        "#taglib:manual_power_sources"
+    ]
+}

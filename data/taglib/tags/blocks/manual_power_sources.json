@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:lever",
+        "minecraft:tripwire_hook",
+        "minecraft:trapped_chest",
+        "minecraft:target",
+        "#buttons",
+        "#pressure_plates"
+    ]
+}

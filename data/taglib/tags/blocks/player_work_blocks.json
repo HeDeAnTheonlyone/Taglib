@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:crafting_table",
+        "minecraft:smithing_table",
+        "minecraft:loom",
+        "minecraft:composter",
+        "minecraft:cartography_table",
+        "minecraft:grindstone",
+        "#campfires",
+        "#taglib:furnaces"
+    ]
+}

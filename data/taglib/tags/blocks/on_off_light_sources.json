@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:light",
+        "minecraft:redstone_lamp",
+        "minecraft:respawn_anchor",
+        "minecraft:cave_vines",
+        "minecraft:cave_vines_plant",
+        "minecraft:furnace",
+        "minecraft:smoker",
+        "minecraft:blast_furnace",
+        "minecraft:candle",
+        "minecraft:candle_cake",
+        "minecraft:redstone_ore",
+        "minecraft:repeater",
+        "minecraft:sculk_sensor",
+        "#campfires"
+    ]
+}

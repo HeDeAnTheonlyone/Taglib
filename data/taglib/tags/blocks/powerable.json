@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:activator_rail",
+        "minecraft:powered_rail",
+        "minecraft:piston",
+        "#taglib:pistons",
+        "minecraft:repeater",
+        "minecraft:comparator",
+        "minecraft:dropper",
+        "minecraft:dispenser",
+        "minecraft:redstone_lamp",
+        "minecraft:tnt",
+        "minecraft:note_block",
+        "#doors",
+        "#trapdoors",
+        "#fence_gates",
+        "minecraft:hopper"
+    ]
+}

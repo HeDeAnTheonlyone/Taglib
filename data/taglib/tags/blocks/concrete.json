@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:concrete_powder",
+        "#taglib:hardened_concrete"
+    ]
+}
