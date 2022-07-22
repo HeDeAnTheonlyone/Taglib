@@ -9,6 +9,7 @@
         "minecraft:phantom",
         "minecraft:vex",
         "minecraft:wither",
-        "minecraft:ghast"
+        "minecraft:ghast",
+        "minecraft:allay"
     ]
 }

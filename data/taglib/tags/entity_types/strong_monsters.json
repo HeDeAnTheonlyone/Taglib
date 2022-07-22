@@ -9,6 +9,7 @@
     "minecraft:guardian",
     "minecraft:giant",
     "minecraft:enderman",
-    "minecraft:elder_guardian"
+    "minecraft:elder_guardian",
+    "minecraft:warden"
   ]
 }

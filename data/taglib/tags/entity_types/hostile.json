@@ -29,6 +29,7 @@
         "minecraft:illusioner",
         "minecraft:guardian",
         "minecraft:elder_guardian",
+        "minecraft:warden",
         "#taglib:boss_monsters"
     ]
 }

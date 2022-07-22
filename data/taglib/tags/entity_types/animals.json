@@ -32,6 +32,8 @@
     "minecraft:axolotl",
     "minecraft:goat",
     "minecraft:glow_squid",
+    "minecraft:frog",
+    "minecraft:tadpole",
     "#taglib:fish"
   ]
 }

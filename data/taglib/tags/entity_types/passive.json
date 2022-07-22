@@ -25,6 +25,9 @@
         "minecraft:axolotl",
         "minecraft:goat",
         "minecraft:glow_squid",
+        "minecraft:allay",
+        "minecraft:tadpole",
+        "minecraft:frog",
         "#taglib:fish"
     ]
 }
