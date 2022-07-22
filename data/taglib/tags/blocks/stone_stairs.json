@@ -32,6 +32,7 @@
         "minecraft:deepslate_tile_stairs",
         "minecraft:blackstone_stairs",
         "minecraft:polished_blackstone_stairs",
-        "minecraft:polished_blackstone_brick_stairs"
+        "minecraft:polished_blackstone_brick_stairs",
+        "minecraft:mud_brick_stairs"
     ]
 }

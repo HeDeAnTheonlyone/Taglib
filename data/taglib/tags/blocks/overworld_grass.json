@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "grass",
+        "tall_grass",
+        "seagrass",
+        "tall_seagrass",
+        "fern",
+        "large_fern"
+    ]
+}

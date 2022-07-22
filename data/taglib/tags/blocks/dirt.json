@@ -8,6 +8,7 @@
         "minecraft:rooted_dirt",
         "minecraft:podzol",
         "minecraft:mycelium",
-        "minecraft:farmland"
+        "minecraft:farmland",
+        "minecraft:mud"
     ]
 }

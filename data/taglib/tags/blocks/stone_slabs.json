@@ -35,6 +35,7 @@
         "minecraft:deepslate_tile_slab",
         "minecraft:blackstone_slab",
         "minecraft:polished_blackstone_slab",
-        "minecraft:polished_blackstone_brick_slab"
+        "minecraft:polished_blackstone_brick_slab",
+        "minecraft:mud_brick_slab"
     ]
 }

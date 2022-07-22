@@ -1,11 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:vine",
-        "#cave_vines",
-        "minecraft:weeping_vines",
-        "minecraft:weeping_vines_plant",
-        "minecraft:twisting_vines",
-        "minecraft:twisting_vines_plant"
+        "#taglib:overworld_vines",
+        "#taglib:nether_vines"
     ]
 }

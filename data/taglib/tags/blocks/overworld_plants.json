@@ -1,0 +1,28 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:spore_blossom",
+        "minecraft:dead_bush",
+        "minecraft:sea_pickle",
+        "minecraft:glow_lichen",
+        "minecraft:sugar_cane",
+        "minecraft:kelp_plant",
+        "minecraft:hanging_roots",
+        "minecraft:cactus",
+        "minecraft:lily_pad",
+        "minecraft:brown_mushroom",
+        "minecraft:red_mushroom",
+        "#saplings",
+        "#small_flowers",
+        "#tall_flowers",
+        "#coral_plants",
+        "#crops",
+        "#flowers",
+        "#leaves",
+        "#taglib:overworld_grass",
+        "#taglib:overworld_vines",
+        "#taglib:dripleafes",
+        "#taglib:bamboo",
+        "#taglib:corals"
+    ]
+}
