@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         "minecraft:axolotl_bucket",
+        "minecraft:tadpole_bucket",
         "#taglib:fish_buckets"
     ]
 }
