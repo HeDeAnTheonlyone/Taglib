@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         "minecraft:bedrock",
+        "minecraft:reinforced_deepslate",
         "#taglib:obsidian"
     ]
 }
