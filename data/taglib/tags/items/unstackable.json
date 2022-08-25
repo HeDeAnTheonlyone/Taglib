@@ -3,6 +3,7 @@
     "values": [
         "#minecraft:beds",
         "#minecraft:boats",
+        "#minecraft:music_discs",
         "#taglib:armor",
         "#taglib:weapons",
         "#taglib:filled_buckets",
