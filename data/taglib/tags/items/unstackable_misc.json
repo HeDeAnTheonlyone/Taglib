@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:shield",
+        "minecraft:totem_of_undying",
+        "minecraft:shulker_box",
+        "minecraft:elytra",
+        "minecraft:enchanted_book",
+        "minecraft:writable_book"
+    ]
+}

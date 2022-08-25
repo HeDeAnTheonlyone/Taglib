@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        "#minecraft:beds",
+        "#minecraft:boats",
+        "#taglib:armor",
+        "#taglib:weapons",
+        "#taglib:filled_buckets",
+        "#taglib:potions",
+        "#taglib:horse_armor",
+        "#taglib:minecarts",
+        "#taglib:unstackable_tools",
+        "#taglib:unstackable_foods",
+        "#taglib:unstackable_misc",
+        "minecraft:debug_stick"
+    ]
+}

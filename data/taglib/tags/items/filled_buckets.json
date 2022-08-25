@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:water_bucket",
+        "minecraft:lava_bucket",
+        "minecraft:milk_bucket",
+        "minecraft:powder_snow_bucket",
+        "#taglib:mob_buckets"
+    ]
+}
