@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:pickaxes",
+        "#taglib:axes",
+        "#taglib:shovels",
+        "#taglib:hoes",
+        "#taglib:item_on_a_stick",
+        "minecraft:flint_and_steel",
+        "minecraft:fishing_rod",
+        "minecraft:spyglass",
+        "minecraft:shears",
+        "minecraft:bundle"
+    ]
+}

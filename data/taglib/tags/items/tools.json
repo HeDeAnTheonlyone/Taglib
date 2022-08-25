@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:unstackable_tools",
+        "minecraft:compass",
+        "minecraft:recovery_compass",
+        "minecraft:clock",
+        "minecraft:lead",
+        "minecraft:name_tag"
+    ]
+}

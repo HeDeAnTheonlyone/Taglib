@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:horse_armor",
+        "minecraft:saddle"
+    ]
+}
