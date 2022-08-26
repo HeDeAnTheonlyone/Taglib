@@ -10,6 +10,7 @@
         "#taglib:potions",
         "#taglib:horse_armor",
         "#taglib:minecarts",
+        "#taglib:shulker_boxes",
         "#taglib:unstackable_tools",
         "#taglib:unstackable_foods",
         "#taglib:unstackable_misc",
