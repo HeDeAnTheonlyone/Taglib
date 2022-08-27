@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+      "#minecraft:banners",
+      "#minecraft:signs",
+      "minecraft:written_book",
+      "minecraft:honey_bottle",
+      "minecraft:snowball",
+      "minecraft:egg",
+      "minecraft:ender_pearl",
+      "minecraft:armor_stand"
+  ]
+}
