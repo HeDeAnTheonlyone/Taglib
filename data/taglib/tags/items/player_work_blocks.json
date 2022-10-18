@@ -7,7 +7,7 @@
         "minecraft:composter",
         "minecraft:cartography_table",
         "minecraft:grindstone",
-        "#campfires",
+        "#taglib:campfires",
         "#taglib:furnaces"
     ]
 }
