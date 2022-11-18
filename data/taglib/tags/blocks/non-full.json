@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "#c:shulker_boxes",
+        "#minecraft:slabs",
+        "#minecraft:stairs",
+        "#minecraft:fences",
+        "#minecraft:fence_gates",
+        "#minecraft:walls",
+        "#taglib:dripleafes",
+        "#taglib:chests"
+        "minecraft:farmland",
+        "minecraft:honey_block",
+        "minecraft:cactus",
+        "minecraft:bell",
+        "minecraft:soul_sand",
+        "minecraft:mud",
+        "minecraft:snow",
+        "minecraft:lectern",
+        "minecraft:brewing_stand"
+    ]
+}
