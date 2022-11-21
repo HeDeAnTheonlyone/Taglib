@@ -30,6 +30,7 @@
         "#minecraft:small_flowers",
         "#minecraft:tall_flowers",
         "#minecraft:fire",
+        "#taglib:air",
         "#taglib:grass",
         "#taglib:non_block_corrals",
         "#taglib:torches",
