@@ -1,7 +1,7 @@
 # Taglib
 A tags library for minecraft data packs
 
-https://www.planetminecraft.com/data-pack/taglib/
+https://www.planetminecraft.com/data-pack/taglib/<br>
 https://modrinth.com/datapack/taglib
 
 Taglib is, as the name already said, a tags library.
