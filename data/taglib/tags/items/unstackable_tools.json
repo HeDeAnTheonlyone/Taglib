@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "#taglib:pickaxes",
-        "#taglib:axes",
-        "#taglib:shovels",
-        "#taglib:hoes",
+        "#minecraft:pickaxes",
+        "#minecraft:axes",
+        "#minecraft:shovels",
+        "#minecraft:hoes",
         "#taglib:item_on_a_stick",
         "minecraft:flint_and_steel",
         "minecraft:fishing_rod",
