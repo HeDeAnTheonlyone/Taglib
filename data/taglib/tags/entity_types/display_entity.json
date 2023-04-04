@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+      "minecraft:block_display",
+      "minecraft:text_display",
+      "minecraft:item_display"
+    ]
+  }

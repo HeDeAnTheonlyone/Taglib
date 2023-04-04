@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "#taglib:display_entity",
+        "#taglib:markerlike"
+    ]
+  }

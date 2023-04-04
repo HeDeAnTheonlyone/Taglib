@@ -5,6 +5,8 @@
     "minecraft:marker",
     "minecraft:area_effect_cloud",
     "minecraft:item_frame",
-    "minecraft:glow_item_frame"
+    "minecraft:glow_item_frame",
+    "minecraft:interaction",
+    "#taglib:display_entity"
   ]
 }
