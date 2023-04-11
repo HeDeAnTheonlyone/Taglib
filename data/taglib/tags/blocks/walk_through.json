@@ -32,7 +32,7 @@
         "#minecraft:fire",
         "#taglib:air",
         "#taglib:grass",
-        "#taglib:non_block_corrals",
+        "#taglib:non_block_corals",
         "#taglib:torches",
         "#taglib:vines",
         "#taglib:fluids"

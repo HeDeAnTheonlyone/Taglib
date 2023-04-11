@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#corals",
+        "#minecraft:corals",
         "#taglib:coral_fans",
         "#taglib:dead_coral_plant",
         "#taglib:dead_coral_fans",
