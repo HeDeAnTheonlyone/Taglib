@@ -12,4 +12,4 @@ With this library, you're prepared for everything you possibly wanna do in your 
 I always add new tags to hopefully make it the biggest and best tags library to ever exist
 and to eventually cover everything you could potentially need.
 
-If you consider using this library in your data pack please credit me.
+If you consider using this library in your data pack please mention this pack.
