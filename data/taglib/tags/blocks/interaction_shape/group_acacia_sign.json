@@ -1,0 +1,31 @@
+{
+  "values": [
+    "minecraft:acacia_sign",
+    "minecraft:bamboo_sign",
+    "minecraft:birch_sign",
+    "minecraft:black_banner",
+    "minecraft:blue_banner",
+    "minecraft:brown_banner",
+    "minecraft:crimson_sign",
+    "minecraft:cyan_banner",
+    "minecraft:dark_oak_sign",
+    "minecraft:gray_banner",
+    "minecraft:green_banner",
+    "minecraft:jungle_sign",
+    "minecraft:light_blue_banner",
+    "minecraft:light_gray_banner",
+    "minecraft:lime_banner",
+    "minecraft:magenta_banner",
+    "minecraft:mangrove_sign",
+    "minecraft:oak_sign",
+    "minecraft:orange_banner",
+    "minecraft:pink_banner",
+    "minecraft:purple_banner",
+    "minecraft:red_banner",
+    "minecraft:spruce_sign",
+    "minecraft:twisting_vines_plant",
+    "minecraft:warped_sign",
+    "minecraft:white_banner",
+    "minecraft:yellow_banner"
+  ]
+}

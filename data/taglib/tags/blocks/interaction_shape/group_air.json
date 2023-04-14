@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:bubble_column",
+    "minecraft:cave_air",
+    "minecraft:lava",
+    "minecraft:light",
+    "minecraft:moving_piston",
+    "minecraft:void_air",
+    "minecraft:water"
+  ]
+}
