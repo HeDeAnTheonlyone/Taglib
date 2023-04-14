@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:creeper_wall_head",
+    "minecraft:dragon_wall_head",
+    "minecraft:player_wall_head",
+    "minecraft:skeleton_wall_skull",
+    "minecraft:wither_skeleton_wall_skull",
+    "minecraft:zombie_wall_head"
+  ]
+}
