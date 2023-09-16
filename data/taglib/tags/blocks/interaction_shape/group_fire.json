@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:fire"
+    { "required": false, "id": "minecraft:fire" }
   ]
 }

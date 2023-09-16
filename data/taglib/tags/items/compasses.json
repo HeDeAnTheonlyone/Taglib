@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:compass",
-        "minecraft:recovery_compass"
+        { "required": false, "id": "minecraft:compass" },
+        { "required": false, "id": "minecraft:recovery_compass" }
     ]
 }

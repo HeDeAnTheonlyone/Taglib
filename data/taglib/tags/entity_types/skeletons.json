@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:skeleton",
-        "minecraft:stray",
-        "minecraft:skeleton_horse",
-        "minecraft:wither_skeleton"
+        { "required": false, "id": "minecraft:skeleton" },
+        { "required": false, "id": "minecraft:stray" },
+        { "required": false, "id": "minecraft:skeleton_horse" },
+        { "required": false, "id": "minecraft:wither_skeleton" }
     ]
 }

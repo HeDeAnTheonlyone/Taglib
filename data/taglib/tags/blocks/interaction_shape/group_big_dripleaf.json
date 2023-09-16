@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:big_dripleaf"
+    { "required": false, "id": "minecraft:big_dripleaf" }
   ]
 }

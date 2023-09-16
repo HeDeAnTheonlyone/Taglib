@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:axolotl",
-        "minecraft:dolphin",
-        "minecraft:tadpole",
-        "#taglib:squids",
-        "#taglib:fish"
+        { "required": false, "id": "minecraft:axolotl" },
+        { "required": false, "id": "minecraft:dolphin" },
+        { "required": false, "id": "minecraft:tadpole" },
+        { "required": false, "id": "#taglib:squids" },
+        { "required": false, "id": "#taglib:fish" }
     ]
 }

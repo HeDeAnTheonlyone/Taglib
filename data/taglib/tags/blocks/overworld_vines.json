@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:vine",
+        { "required": false, "id": "minecraft:vine" },
         "#cave_vines"
     ]
 }

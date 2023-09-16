@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:furnace",
-        "minecraft:blast_furnace",
-        "minecraft:smoker"
+        { "required": false, "id": "minecraft:furnace" },
+        { "required": false, "id": "minecraft:blast_furnace" },
+        { "required": false, "id": "minecraft:smoker" }
     ]
 }

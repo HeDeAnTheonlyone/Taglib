@@ -1,12 +1,12 @@
 {
     "replace": false,
     "values": [
-        "minecraft:barrel",
-        "minecraft:hopper",
-        "minecraft:dropper",
-        "minecraft:dispenser",
-        "#taglib:shulker_boxes",
-        "#taglib:furnaces",
-        "#taglib:chests"
+        { "required": false, "id": "minecraft:barrel" },
+        { "required": false, "id": "minecraft:hopper" },
+        { "required": false, "id": "minecraft:dropper" },
+        { "required": false, "id": "minecraft:dispenser" },
+        { "required": false, "id": "#taglib:shulker_boxes" },
+        { "required": false, "id": "#taglib:furnaces" },
+        { "required": false, "id": "#taglib:chests" }
     ]
 }

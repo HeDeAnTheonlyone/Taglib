@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:ladder"
+    { "required": false, "id": "minecraft:ladder" }
   ]
 }

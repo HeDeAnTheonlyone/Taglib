@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:egg",
-        "minecraft:turtle_egg",
-        "minecraft:dragon_egg"
+        { "required": false, "id": "minecraft:egg" },
+        { "required": false, "id": "minecraft:turtle_egg" },
+        { "required": false, "id": "minecraft:dragon_egg" }
     ]
 }

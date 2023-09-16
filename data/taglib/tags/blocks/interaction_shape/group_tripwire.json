@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:tripwire"
+    { "required": false, "id": "minecraft:tripwire" }
   ]
 }

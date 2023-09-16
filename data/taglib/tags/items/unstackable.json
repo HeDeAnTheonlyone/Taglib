@@ -1,19 +1,19 @@
 {
     "replace": false,
     "values": [
-        "#minecraft:beds",
-        "#minecraft:boats",
-        "#minecraft:music_discs",
-        "#taglib:armor",
-        "#taglib:weapons",
-        "#taglib:filled_buckets",
-        "#taglib:potions",
-        "#taglib:horse_armor",
-        "#taglib:minecarts",
-        "#taglib:shulker_boxes",
-        "#taglib:unstackable_tools",
-        "#taglib:unstackable_foods",
-        "#taglib:unstackable_misc",
-        "minecraft:debug_stick"
+        { "required": false, "id": "#minecraft:beds" },
+        { "required": false, "id": "#minecraft:boats" },
+        { "required": false, "id": "#minecraft:music_discs" },
+        { "required": false, "id": "#taglib:armor" },
+        { "required": false, "id": "#taglib:weapons" },
+        { "required": false, "id": "#taglib:filled_buckets" },
+        { "required": false, "id": "#taglib:potions" },
+        { "required": false, "id": "#taglib:horse_armor" },
+        { "required": false, "id": "#taglib:minecarts" },
+        { "required": false, "id": "#taglib:shulker_boxes" },
+        { "required": false, "id": "#taglib:unstackable_tools" },
+        { "required": false, "id": "#taglib:unstackable_foods" },
+        { "required": false, "id": "#taglib:unstackable_misc" },
+        { "required": false, "id": "minecraft:debug_stick" }
     ]
 }

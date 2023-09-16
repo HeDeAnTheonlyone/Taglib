@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:obsidian",
-        "minecraft:crying_obsidian"
+        { "required": false, "id": "minecraft:obsidian" },
+        { "required": false, "id": "minecraft:crying_obsidian" }
     ]
 }

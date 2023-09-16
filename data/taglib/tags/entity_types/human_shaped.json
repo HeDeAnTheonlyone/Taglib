@@ -1,11 +1,11 @@
 {
     "replace": false,
     "values": [
-        "minecraft:villager",
-        "minecraft:wandering_trader",
-        "minecraft:zombie_villager",
-        "minecraft:vindicator",
-        "minecraft:pillager",
-        "#taglib:magic_user"
+        { "required": false, "id": "minecraft:villager" },
+        { "required": false, "id": "minecraft:wandering_trader" },
+        { "required": false, "id": "minecraft:zombie_villager" },
+        { "required": false, "id": "minecraft:vindicator" },
+        { "required": false, "id": "minecraft:pillager" },
+        { "required": false, "id": "#taglib:magic_user" }
     ]
 }

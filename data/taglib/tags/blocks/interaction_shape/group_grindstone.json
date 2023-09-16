@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:grindstone"
+    { "required": false, "id": "minecraft:grindstone" }
   ]
 }

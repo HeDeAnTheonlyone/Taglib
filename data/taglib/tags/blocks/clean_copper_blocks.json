@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:copper_block",
-        "minecraft:cut_copper",
-        "minecraft:waxed_copper_block",
-        "minecraft:waxed_cut_copper"
+        { "required": false, "id": "minecraft:copper_block" },
+        { "required": false, "id": "minecraft:cut_copper" },
+        { "required": false, "id": "minecraft:waxed_copper_block" },
+        { "required": false, "id": "minecraft:waxed_cut_copper" }
     ]
 }

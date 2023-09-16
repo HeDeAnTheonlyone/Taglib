@@ -2,6 +2,6 @@
     "replace": false,
     "values": [
         "#terracotta",
-        "#taglib:glazed_terracotta"
+        { "required": false, "id": "#taglib:glazed_terracotta" }
     ]
 }

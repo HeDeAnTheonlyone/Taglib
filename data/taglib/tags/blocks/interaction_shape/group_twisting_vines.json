@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:twisting_vines"
+    { "required": false, "id": "minecraft:twisting_vines" }
   ]
 }

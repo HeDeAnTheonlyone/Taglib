@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:waxed_copper_block",
-        "minecraft:waxed_exposed_copper",
-        "minecraft:waxed_oxidized_copper",
-        "minecraft:waxed_weathered_copper"
+        { "required": false, "id": "minecraft:waxed_copper_block" },
+        { "required": false, "id": "minecraft:waxed_exposed_copper" },
+        { "required": false, "id": "minecraft:waxed_oxidized_copper" },
+        { "required": false, "id": "minecraft:waxed_weathered_copper" }
     ]
 }

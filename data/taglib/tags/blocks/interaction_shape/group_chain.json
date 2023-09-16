@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:chain"
+    { "required": false, "id": "minecraft:chain" }
   ]
 }

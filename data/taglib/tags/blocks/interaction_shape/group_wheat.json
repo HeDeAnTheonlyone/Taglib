@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:wheat"
+    { "required": false, "id": "minecraft:wheat" }
   ]
 }

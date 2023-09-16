@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:chorus_flower",
-        "minecraft:chorus_plant",
-        "minecraft:chorus_fruit",
-        "minecraft:popped_chorus_fruit"
+        { "required": false, "id": "minecraft:chorus_flower" },
+        { "required": false, "id": "minecraft:chorus_plant" },
+        { "required": false, "id": "minecraft:chorus_fruit" },
+        { "required": false, "id": "minecraft:popped_chorus_fruit" }
     ]
 }

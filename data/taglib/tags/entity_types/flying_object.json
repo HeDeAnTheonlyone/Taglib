@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:eye_of_ender",
-        "minecraft:fireball",
-        "minecraft:shulker_bullet",
-        "#taglib:fireballs"
+        { "required": false, "id": "minecraft:eye_of_ender" },
+        { "required": false, "id": "minecraft:fireball" },
+        { "required": false, "id": "minecraft:shulker_bullet" },
+        { "required": false, "id": "#taglib:fireballs" }
     ]
 }

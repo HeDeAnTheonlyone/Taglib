@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:overworld_vines",
-        "#taglib:nether_vines"
+        { "required": false, "id": "#taglib:overworld_vines" },
+        { "required": false, "id": "#taglib:nether_vines" }
     ]
 }

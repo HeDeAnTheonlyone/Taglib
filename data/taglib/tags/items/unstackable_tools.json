@@ -1,15 +1,15 @@
 {
     "replace": false,
     "values": [
-        "#minecraft:pickaxes",
-        "#minecraft:axes",
-        "#minecraft:shovels",
-        "#minecraft:hoes",
-        "#taglib:item_on_a_stick",
-        "minecraft:flint_and_steel",
-        "minecraft:fishing_rod",
-        "minecraft:spyglass",
-        "minecraft:shears",
-        "minecraft:bundle"
+        { "required": false, "id": "#minecraft:pickaxes" },
+        { "required": false, "id": "#minecraft:axes" },
+        { "required": false, "id": "#minecraft:shovels" },
+        { "required": false, "id": "#minecraft:hoes" },
+        { "required": false, "id": "#taglib:item_on_a_stick" },
+        { "required": false, "id": "minecraft:flint_and_steel" },
+        { "required": false, "id": "minecraft:fishing_rod" },
+        { "required": false, "id": "minecraft:spyglass" },
+        { "required": false, "id": "minecraft:shears" },
+        { "required": false, "id": "minecraft:bundle" }
     ]
 }

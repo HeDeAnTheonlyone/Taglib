@@ -1,13 +1,13 @@
 {
     "replace": false,
     "values": [
-        "minecraft:crafting_table",
-        "minecraft:smithing_table",
-        "minecraft:loom",
-        "minecraft:composter",
-        "minecraft:cartography_table",
-        "minecraft:grindstone",
+        { "required": false, "id": "minecraft:crafting_table" },
+        { "required": false, "id": "minecraft:smithing_table" },
+        { "required": false, "id": "minecraft:loom" },
+        { "required": false, "id": "minecraft:composter" },
+        { "required": false, "id": "minecraft:cartography_table" },
+        { "required": false, "id": "minecraft:grindstone" },
         "#campfires",
-        "#taglib:furnaces"
+        { "required": false, "id": "#taglib:furnaces" }
     ]
 }

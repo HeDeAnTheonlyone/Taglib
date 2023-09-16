@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:bucket",
-        "#taglib:filled_buckets"
+        { "required": false, "id": "minecraft:bucket" },
+        { "required": false, "id": "#taglib:filled_buckets" }
     ]
 }

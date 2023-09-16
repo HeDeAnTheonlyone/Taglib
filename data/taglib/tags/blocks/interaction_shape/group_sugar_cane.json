@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:sugar_cane",
-    "minecraft:tall_seagrass"
+    { "required": false, "id": "minecraft:sugar_cane" },
+    { "required": false, "id": "minecraft:tall_seagrass" }
   ]
 }

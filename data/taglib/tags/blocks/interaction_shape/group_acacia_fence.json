@@ -1,15 +1,15 @@
 {
   "values": [
-    "minecraft:acacia_fence",
-    "minecraft:bamboo_fence",
-    "minecraft:birch_fence",
-    "minecraft:crimson_fence",
-    "minecraft:dark_oak_fence",
-    "minecraft:jungle_fence",
-    "minecraft:mangrove_fence",
-    "minecraft:nether_brick_fence",
-    "minecraft:oak_fence",
-    "minecraft:spruce_fence",
-    "minecraft:warped_fence"
+    { "required": false, "id": "minecraft:acacia_fence" },
+    { "required": false, "id": "minecraft:bamboo_fence" },
+    { "required": false, "id": "minecraft:birch_fence" },
+    { "required": false, "id": "minecraft:crimson_fence" },
+    { "required": false, "id": "minecraft:dark_oak_fence" },
+    { "required": false, "id": "minecraft:jungle_fence" },
+    { "required": false, "id": "minecraft:mangrove_fence" },
+    { "required": false, "id": "minecraft:nether_brick_fence" },
+    { "required": false, "id": "minecraft:oak_fence" },
+    { "required": false, "id": "minecraft:spruce_fence" },
+    { "required": false, "id": "minecraft:warped_fence" }
   ]
 }

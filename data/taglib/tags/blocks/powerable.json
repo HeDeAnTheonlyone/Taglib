@@ -1,20 +1,20 @@
 {
     "replace": false,
     "values": [
-        "minecraft:activator_rail",
-        "minecraft:powered_rail",
-        "minecraft:piston",
-        "#taglib:pistons",
-        "minecraft:repeater",
-        "minecraft:comparator",
-        "minecraft:dropper",
-        "minecraft:dispenser",
-        "minecraft:redstone_lamp",
-        "minecraft:tnt",
-        "minecraft:note_block",
+        { "required": false, "id": "minecraft:activator_rail" },
+        { "required": false, "id": "minecraft:powered_rail" },
+        { "required": false, "id": "minecraft:piston" },
+        { "required": false, "id": "#taglib:pistons" },
+        { "required": false, "id": "minecraft:repeater" },
+        { "required": false, "id": "minecraft:comparator" },
+        { "required": false, "id": "minecraft:dropper" },
+        { "required": false, "id": "minecraft:dispenser" },
+        { "required": false, "id": "minecraft:redstone_lamp" },
+        { "required": false, "id": "minecraft:tnt" },
+        { "required": false, "id": "minecraft:note_block" },
         "#doors",
         "#trapdoors",
         "#fence_gates",
-        "minecraft:hopper"
+        { "required": false, "id": "minecraft:hopper" }
     ]
 }

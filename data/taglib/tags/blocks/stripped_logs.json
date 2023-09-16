@@ -1,12 +1,12 @@
 {
   "values": [
-    "#taglib:stripped_acacia_logs",
-    "#taglib:stripped_birch_logs",
-    "#taglib:stripped_cherry_logs",
-    "#taglib:stripped_dark_oak_logs",
-    "#taglib:stripped_jungle_logs",
-    "#taglib:stripped_mangrove_logs",
-    "#taglib:stripped_oak_logs",
-    "#taglib:stripped_spruce_logs"
+    { "required": false, "id": "#taglib:stripped_acacia_logs" },
+    { "required": false, "id": "#taglib:stripped_birch_logs" },
+    { "required": false, "id": "#taglib:stripped_cherry_logs" },
+    { "required": false, "id": "#taglib:stripped_dark_oak_logs" },
+    { "required": false, "id": "#taglib:stripped_jungle_logs" },
+    { "required": false, "id": "#taglib:stripped_mangrove_logs" },
+    { "required": false, "id": "#taglib:stripped_oak_logs" },
+    { "required": false, "id": "#taglib:stripped_spruce_logs" }
   ]
 }

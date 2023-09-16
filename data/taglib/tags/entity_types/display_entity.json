@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-      "minecraft:block_display",
-      "minecraft:text_display",
-      "minecraft:item_display"
+      { "required": false, "id": "minecraft:block_display" },
+      { "required": false, "id": "minecraft:text_display" },
+      { "required": false, "id": "minecraft:item_display" }
     ]
   }

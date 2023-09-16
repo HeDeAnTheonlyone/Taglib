@@ -1,8 +1,8 @@
 {
     "values": [
-        "minecraft:cod",
-        "minecraft:salmon",
-        "minecraft:pufferfish",
-        "minecraft:tropical_fish"
+        { "required": false, "id": "minecraft:cod" },
+        { "required": false, "id": "minecraft:salmon" },
+        { "required": false, "id": "minecraft:pufferfish" },
+        { "required": false, "id": "minecraft:tropical_fish" }
     ]
 }

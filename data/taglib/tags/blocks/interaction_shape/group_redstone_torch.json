@@ -1,7 +1,7 @@
 {
   "values": [
-    "minecraft:redstone_torch",
-    "minecraft:soul_torch",
-    "minecraft:torch"
+    { "required": false, "id": "minecraft:redstone_torch" },
+    { "required": false, "id": "minecraft:soul_torch" },
+    { "required": false, "id": "minecraft:torch" }
   ]
 }

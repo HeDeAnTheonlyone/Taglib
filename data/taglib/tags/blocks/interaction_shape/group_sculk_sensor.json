@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:sculk_sensor"
+    { "required": false, "id": "minecraft:sculk_sensor" }
   ]
 }

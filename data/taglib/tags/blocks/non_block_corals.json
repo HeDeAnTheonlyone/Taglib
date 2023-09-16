@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "#minecraft:corals",
-        "#taglib:coral_fans",
-        "#taglib:dead_coral_plant",
-        "#taglib:dead_coral_fans",
-        "#taglib:dead_coral_wall_fans"
+        { "required": false, "id": "#minecraft:corals" },
+        { "required": false, "id": "#taglib:coral_fans" },
+        { "required": false, "id": "#taglib:dead_coral_plant" },
+        { "required": false, "id": "#taglib:dead_coral_fans" },
+        { "required": false, "id": "#taglib:dead_coral_wall_fans" }
     ]
 }

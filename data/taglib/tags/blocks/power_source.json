@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:always_on_power_source",
-        "#taglib:on_off_power_source"
+        { "required": false, "id": "#taglib:always_on_power_source" },
+        { "required": false, "id": "#taglib:on_off_power_source" }
     ]
 }

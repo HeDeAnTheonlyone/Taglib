@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:dead_brain_coral",
-        "minecraft:dead_bubble_coral",
-        "minecraft:dead_fire_coral",
-        "minecraft:dead_horn_coral",
-        "minecraft:dead_tube_coral"
+        { "required": false, "id": "minecraft:dead_brain_coral" },
+        { "required": false, "id": "minecraft:dead_bubble_coral" },
+        { "required": false, "id": "minecraft:dead_fire_coral" },
+        { "required": false, "id": "minecraft:dead_horn_coral" },
+        { "required": false, "id": "minecraft:dead_tube_coral" }
     ]
 }

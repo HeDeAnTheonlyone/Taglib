@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:boat",
-        "minecraft:pig",
-        "minecraft:llama",
-        "minecraft:strider",
-        "#taglib:horse"
+        { "required": false, "id": "minecraft:boat" },
+        { "required": false, "id": "minecraft:pig" },
+        { "required": false, "id": "minecraft:llama" },
+        { "required": false, "id": "minecraft:strider" },
+        { "required": false, "id": "#taglib:horse" }
     ]
 }

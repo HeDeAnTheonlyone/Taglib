@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:slime_block",
-        "minecraft:honey_block",
-        "minecraft:sticky_piston"
+        { "required": false, "id": "minecraft:slime_block" },
+        { "required": false, "id": "minecraft:honey_block" },
+        { "required": false, "id": "minecraft:sticky_piston" }
     ]
 }

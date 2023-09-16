@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:kelp",
-    "minecraft:stonecutter"
+    { "required": false, "id": "minecraft:kelp" },
+    { "required": false, "id": "minecraft:stonecutter" }
   ]
 }

@@ -1,15 +1,15 @@
 {
   "values": [
-    "minecraft:acacia_door",
-    "minecraft:bamboo_door",
-    "minecraft:birch_door",
-    "minecraft:crimson_door",
-    "minecraft:dark_oak_door",
-    "minecraft:iron_door",
-    "minecraft:jungle_door",
-    "minecraft:mangrove_door",
-    "minecraft:oak_door",
-    "minecraft:spruce_door",
-    "minecraft:warped_door"
+    { "required": false, "id": "minecraft:acacia_door" },
+    { "required": false, "id": "minecraft:bamboo_door" },
+    { "required": false, "id": "minecraft:birch_door" },
+    { "required": false, "id": "minecraft:crimson_door" },
+    { "required": false, "id": "minecraft:dark_oak_door" },
+    { "required": false, "id": "minecraft:iron_door" },
+    { "required": false, "id": "minecraft:jungle_door" },
+    { "required": false, "id": "minecraft:mangrove_door" },
+    { "required": false, "id": "minecraft:oak_door" },
+    { "required": false, "id": "minecraft:spruce_door" },
+    { "required": false, "id": "minecraft:warped_door" }
   ]
 }

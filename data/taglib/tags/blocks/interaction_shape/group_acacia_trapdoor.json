@@ -1,15 +1,15 @@
 {
   "values": [
-    "minecraft:acacia_trapdoor",
-    "minecraft:bamboo_trapdoor",
-    "minecraft:birch_trapdoor",
-    "minecraft:crimson_trapdoor",
-    "minecraft:dark_oak_trapdoor",
-    "minecraft:iron_trapdoor",
-    "minecraft:jungle_trapdoor",
-    "minecraft:mangrove_trapdoor",
-    "minecraft:oak_trapdoor",
-    "minecraft:spruce_trapdoor",
-    "minecraft:warped_trapdoor"
+    { "required": false, "id": "minecraft:acacia_trapdoor" },
+    { "required": false, "id": "minecraft:bamboo_trapdoor" },
+    { "required": false, "id": "minecraft:birch_trapdoor" },
+    { "required": false, "id": "minecraft:crimson_trapdoor" },
+    { "required": false, "id": "minecraft:dark_oak_trapdoor" },
+    { "required": false, "id": "minecraft:iron_trapdoor" },
+    { "required": false, "id": "minecraft:jungle_trapdoor" },
+    { "required": false, "id": "minecraft:mangrove_trapdoor" },
+    { "required": false, "id": "minecraft:oak_trapdoor" },
+    { "required": false, "id": "minecraft:spruce_trapdoor" },
+    { "required": false, "id": "minecraft:warped_trapdoor" }
   ]
 }

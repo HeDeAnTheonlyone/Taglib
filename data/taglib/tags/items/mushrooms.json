@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:brown_mushroom",
-        "minecraft:red_mushroom",
-        "minecraft:crimson_fungus",
-        "minecraft:warped_fungus"
+        { "required": false, "id": "minecraft:brown_mushroom" },
+        { "required": false, "id": "minecraft:red_mushroom" },
+        { "required": false, "id": "minecraft:crimson_fungus" },
+        { "required": false, "id": "minecraft:warped_fungus" }
     ]
 }

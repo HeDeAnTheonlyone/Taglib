@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:lantern",
-        "minecraft:soul_lantern"
+        { "required": false, "id": "minecraft:lantern" },
+        { "required": false, "id": "minecraft:soul_lantern" }
     ]
 }

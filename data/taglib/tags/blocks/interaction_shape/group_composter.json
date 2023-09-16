@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:composter"
+    { "required": false, "id": "minecraft:composter" }
   ]
 }

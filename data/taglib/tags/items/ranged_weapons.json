@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:bow",
-        "minecraft:crossbow",
-        "minecraft:trident"
+        { "required": false, "id": "minecraft:bow" },
+        { "required": false, "id": "minecraft:crossbow" },
+        { "required": false, "id": "minecraft:trident" }
     ]
 }

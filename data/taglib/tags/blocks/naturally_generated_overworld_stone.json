@@ -1,15 +1,15 @@
 {
     "replace": false,
     "values": [
-        "minecraft:stone",
-        "minecraft:diorite",
-        "minecraft:smooth_basalt",
-        "minecraft:tuff",
-        "minecraft:calcite",
-        "minecraft:deepslate",
-        "minecraft:granite",
-        "minecraft:andesite",
-        "minecraft:infested_stone",
-        "minecraft:infested_deepslate"
+        { "required": false, "id": "minecraft:stone" },
+        { "required": false, "id": "minecraft:diorite" },
+        { "required": false, "id": "minecraft:smooth_basalt" },
+        { "required": false, "id": "minecraft:tuff" },
+        { "required": false, "id": "minecraft:calcite" },
+        { "required": false, "id": "minecraft:deepslate" },
+        { "required": false, "id": "minecraft:granite" },
+        { "required": false, "id": "minecraft:andesite" },
+        { "required": false, "id": "minecraft:infested_stone" },
+        { "required": false, "id": "minecraft:infested_deepslate" }
     ]
 }

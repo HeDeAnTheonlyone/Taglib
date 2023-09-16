@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:cake",
-        "minecraft:cookie",
-        "minecraft:pumpkin_pie"
+        { "required": false, "id": "minecraft:cake" },
+        { "required": false, "id": "minecraft:cookie" },
+        { "required": false, "id": "minecraft:pumpkin_pie" }
     ]
 }

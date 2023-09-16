@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:glow_lichen",
-    "minecraft:sculk_vein"
+    { "required": false, "id": "minecraft:glow_lichen" },
+    { "required": false, "id": "minecraft:sculk_vein" }
   ]
 }

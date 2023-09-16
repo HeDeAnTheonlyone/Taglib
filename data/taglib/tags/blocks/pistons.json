@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:piston",
-        "minecraft:sticky_piston"
+        { "required": false, "id": "minecraft:piston" },
+        { "required": false, "id": "minecraft:sticky_piston" }
     ]
 }

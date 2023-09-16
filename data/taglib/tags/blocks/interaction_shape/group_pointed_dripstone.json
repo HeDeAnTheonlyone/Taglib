@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:pointed_dripstone"
+    { "required": false, "id": "minecraft:pointed_dripstone" }
   ]
 }

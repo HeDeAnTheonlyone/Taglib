@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:jukebox",
-        "minecraft:note_block"
+        { "required": false, "id": "minecraft:jukebox" },
+        { "required": false, "id": "minecraft:note_block" }
     ]
 }

@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:witch",
-        "minecraft:evoker",
-        "minecraft:illusioner"
+        { "required": false, "id": "minecraft:witch" },
+        { "required": false, "id": "minecraft:evoker" },
+        { "required": false, "id": "minecraft:illusioner" }
     ]
 }

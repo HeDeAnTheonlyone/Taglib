@@ -1,7 +1,7 @@
 {
     "values": [
-        "minecraft:magma_block",
-        "minecraft:lava",
+        { "required": false, "id": "minecraft:magma_block" },
+        { "required": false, "id": "minecraft:lava" },
         "#fire"
     ]
 }

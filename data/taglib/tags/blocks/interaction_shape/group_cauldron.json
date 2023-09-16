@@ -1,8 +1,8 @@
 {
   "values": [
-    "minecraft:cauldron",
-    "minecraft:lava_cauldron",
-    "minecraft:powder_snow_cauldron",
-    "minecraft:water_cauldron"
+    { "required": false, "id": "minecraft:cauldron" },
+    { "required": false, "id": "minecraft:lava_cauldron" },
+    { "required": false, "id": "minecraft:powder_snow_cauldron" },
+    { "required": false, "id": "minecraft:water_cauldron" }
   ]
 }

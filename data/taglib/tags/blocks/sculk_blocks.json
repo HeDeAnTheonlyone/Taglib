@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:sculk",
-        "minecraft:sculk_catalyst",
-        "minecraft:sculk_sensor",
-        "minecraft:sculk_shrieker",
-        "minecraft:sculk_vein"
+        { "required": false, "id": "minecraft:sculk" },
+        { "required": false, "id": "minecraft:sculk_catalyst" },
+        { "required": false, "id": "minecraft:sculk_sensor" },
+        { "required": false, "id": "minecraft:sculk_shrieker" },
+        { "required": false, "id": "minecraft:sculk_vein" }
     ]
 }

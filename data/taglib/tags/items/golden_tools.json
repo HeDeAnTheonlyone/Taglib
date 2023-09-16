@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:golden_sword",
-        "minecraft:golden_pickaxe",
-        "minecraft:golden_axe",
-        "minecraft:golden_shovel",
-        "minecraft:golden_hoe"
+        { "required": false, "id": "minecraft:golden_sword" },
+        { "required": false, "id": "minecraft:golden_pickaxe" },
+        { "required": false, "id": "minecraft:golden_axe" },
+        { "required": false, "id": "minecraft:golden_shovel" },
+        { "required": false, "id": "minecraft:golden_hoe" }
     ]
 }

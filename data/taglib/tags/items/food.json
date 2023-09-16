@@ -1,15 +1,15 @@
 {
     "replace": false,
     "values": [
-        "minecraft:bread",
-        "minecraft:dried_kelp",
-        "#taglib:food_in_a_bowl",
-        "#taglib:meat",
-        "#taglib:fish",
-        "#taglib:sweets",
-        "#taglib:fruits",
-        "#taglib:vegetables",
-        "#taglib:effect_reseter",
-        "#taglib:bad_food"
+        { "required": false, "id": "minecraft:bread" },
+        { "required": false, "id": "minecraft:dried_kelp" },
+        { "required": false, "id": "#taglib:food_in_a_bowl" },
+        { "required": false, "id": "#taglib:meat" },
+        { "required": false, "id": "#taglib:fish" },
+        { "required": false, "id": "#taglib:sweets" },
+        { "required": false, "id": "#taglib:fruits" },
+        { "required": false, "id": "#taglib:vegetables" },
+        { "required": false, "id": "#taglib:effect_reseter" },
+        { "required": false, "id": "#taglib:bad_food" }
     ]
 }

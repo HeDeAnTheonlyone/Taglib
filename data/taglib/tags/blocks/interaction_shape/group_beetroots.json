@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:beetroots"
+    { "required": false, "id": "minecraft:beetroots" }
   ]
 }

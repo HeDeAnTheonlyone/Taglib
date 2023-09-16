@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:redstone_wire"
+    { "required": false, "id": "minecraft:redstone_wire" }
   ]
 }

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:guardian",
-        "minecraft:elder_guardian"
+        { "required": false, "id": "minecraft:guardian" },
+        { "required": false, "id": "minecraft:elder_guardian" }
     ]
 }

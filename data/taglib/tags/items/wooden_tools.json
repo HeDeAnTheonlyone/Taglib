@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:wooden_sword",
-        "minecraft:wooden_pickaxe",
-        "minecraft:wooden_axe",
-        "minecraft:wooden_shovel",
-        "minecraft:wooden_hoe"
+        { "required": false, "id": "minecraft:wooden_sword" },
+        { "required": false, "id": "minecraft:wooden_pickaxe" },
+        { "required": false, "id": "minecraft:wooden_axe" },
+        { "required": false, "id": "minecraft:wooden_shovel" },
+        { "required": false, "id": "minecraft:wooden_hoe" }
     ]
 }

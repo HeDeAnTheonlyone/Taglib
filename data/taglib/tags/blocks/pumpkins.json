@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:pumpkin",
-        "minecraft:carved_pumpkin",
+        { "required": false, "id": "minecraft:pumpkin" },
+        { "required": false, "id": "minecraft:carved_pumpkin" },
         "jack_o_lantern"
     ]
 }

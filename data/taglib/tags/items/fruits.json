@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:chorus_fruit",
-        "#taglib:berries",
-        "#taglib:apples"
+        { "required": false, "id": "minecraft:chorus_fruit" },
+        { "required": false, "id": "#taglib:berries" },
+        { "required": false, "id": "#taglib:apples" }
     ]
 }

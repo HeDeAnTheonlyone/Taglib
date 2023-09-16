@@ -1,15 +1,15 @@
 {
     "replace": false,
     "values": [
-        "minecraft:bee",
-        "minecraft:bat",
-        "minecraft:blaze",
-        "minecraft:ender_dragon",
-        "minecraft:parrot",
-        "minecraft:phantom",
-        "minecraft:vex",
-        "minecraft:wither",
-        "minecraft:ghast",
-        "minecraft:allay"
+        { "required": false, "id": "minecraft:bee" },
+        { "required": false, "id": "minecraft:bat" },
+        { "required": false, "id": "minecraft:blaze" },
+        { "required": false, "id": "minecraft:ender_dragon" },
+        { "required": false, "id": "minecraft:parrot" },
+        { "required": false, "id": "minecraft:phantom" },
+        { "required": false, "id": "minecraft:vex" },
+        { "required": false, "id": "minecraft:wither" },
+        { "required": false, "id": "minecraft:ghast" },
+        { "required": false, "id": "minecraft:allay" }
     ]
 }

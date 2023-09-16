@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:bell"
+    { "required": false, "id": "minecraft:bell" }
   ]
 }

@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "minecraft:bedrock",
-        "minecraft:reinforced_deepslate",
-        "#taglib:obsidian"
+        { "required": false, "id": "minecraft:bedrock" },
+        { "required": false, "id": "minecraft:reinforced_deepslate" },
+        { "required": false, "id": "#taglib:obsidian" }
     ]
 }

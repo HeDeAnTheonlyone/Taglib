@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:cake"
+    { "required": false, "id": "minecraft:cake" }
   ]
 }

@@ -1,11 +1,11 @@
 {
     "replace": false,
     "values": [
-        "minecraft:minecart",
-        "minecraft:tnt_minecart",
-        "minecraft:furnace_minecart",
-        "minecraft:hopper_minecart",
-        "minecraft:chest_minecart",
-        "minecraft:command_block_minecart"
+        { "required": false, "id": "minecraft:minecart" },
+        { "required": false, "id": "minecraft:tnt_minecart" },
+        { "required": false, "id": "minecraft:furnace_minecart" },
+        { "required": false, "id": "minecraft:hopper_minecart" },
+        { "required": false, "id": "minecraft:chest_minecart" },
+        { "required": false, "id": "minecraft:command_block_minecart" }
     ]
 }

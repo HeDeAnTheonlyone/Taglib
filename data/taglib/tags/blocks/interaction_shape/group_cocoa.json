@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:cocoa"
+    { "required": false, "id": "minecraft:cocoa" }
   ]
 }

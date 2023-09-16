@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:sea_pickle"
+    { "required": false, "id": "minecraft:sea_pickle" }
   ]
 }

@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:cod_bucket",
-        "minecraft:salmon_bucket",
-        "minecraft:tropical_fish_bucket",
-        "minecraft:pufferfish_bucket"
+        { "required": false, "id": "minecraft:cod_bucket" },
+        { "required": false, "id": "minecraft:salmon_bucket" },
+        { "required": false, "id": "minecraft:tropical_fish_bucket" },
+        { "required": false, "id": "minecraft:pufferfish_bucket" }
     ]
 }

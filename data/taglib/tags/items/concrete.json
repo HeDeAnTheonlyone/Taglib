@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:concrete_powder",
-        "#taglib:hardened_concrete"
+        { "required": false, "id": "#taglib:concrete_powder" },
+        { "required": false, "id": "#taglib:hardened_concrete" }
     ]
 }

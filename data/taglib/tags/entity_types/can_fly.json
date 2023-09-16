@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:flying_mob",
-        "#taglib:flying_object"
+        { "required": false, "id": "#taglib:flying_mob" },
+        { "required": false, "id": "#taglib:flying_object" }
     ]
 }

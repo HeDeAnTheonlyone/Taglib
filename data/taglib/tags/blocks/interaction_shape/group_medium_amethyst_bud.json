@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:medium_amethyst_bud"
+    { "required": false, "id": "minecraft:medium_amethyst_bud" }
   ]
 }

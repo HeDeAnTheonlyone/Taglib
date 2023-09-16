@@ -1,12 +1,12 @@
 {
     "replace": false,
     "values": [
-        "minecraft:turtle_helmet",
-        "#taglib:leather_armor",
-        "#taglib:chainmail_armor",
-        "#taglib:golden_armor",
-        "#taglib:iron_armor",
-        "#taglib:diamond_armor",
-        "#taglib:netherite_armor"
+        { "required": false, "id": "minecraft:turtle_helmet" },
+        { "required": false, "id": "#taglib:leather_armor" },
+        { "required": false, "id": "#taglib:chainmail_armor" },
+        { "required": false, "id": "#taglib:golden_armor" },
+        { "required": false, "id": "#taglib:iron_armor" },
+        { "required": false, "id": "#taglib:diamond_armor" },
+        { "required": false, "id": "#taglib:netherite_armor" }
     ]
 }

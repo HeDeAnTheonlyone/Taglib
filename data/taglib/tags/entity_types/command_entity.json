@@ -1,12 +1,12 @@
 {
   "replace": false,
   "values": [
-    "minecraft:armor_stand",
-    "minecraft:marker",
-    "minecraft:area_effect_cloud",
-    "minecraft:item_frame",
-    "minecraft:glow_item_frame",
-    "minecraft:interaction",
-    "#taglib:display_entity"
+    { "required": false, "id": "minecraft:armor_stand" },
+    { "required": false, "id": "minecraft:marker" },
+    { "required": false, "id": "minecraft:area_effect_cloud" },
+    { "required": false, "id": "minecraft:item_frame" },
+    { "required": false, "id": "minecraft:glow_item_frame" },
+    { "required": false, "id": "minecraft:interaction" },
+    { "required": false, "id": "#taglib:display_entity" }
   ]
 }

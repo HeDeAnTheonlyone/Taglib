@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:tripwire_hook"
+    { "required": false, "id": "minecraft:tripwire_hook" }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "values": [
-    "minecraft:creeper_head",
-    "minecraft:dragon_head",
-    "minecraft:player_head",
-    "minecraft:skeleton_skull",
-    "minecraft:wither_skeleton_skull",
-    "minecraft:zombie_head"
+    { "required": false, "id": "minecraft:creeper_head" },
+    { "required": false, "id": "minecraft:dragon_head" },
+    { "required": false, "id": "minecraft:player_head" },
+    { "required": false, "id": "minecraft:skeleton_skull" },
+    { "required": false, "id": "minecraft:wither_skeleton_skull" },
+    { "required": false, "id": "minecraft:zombie_head" }
   ]
 }

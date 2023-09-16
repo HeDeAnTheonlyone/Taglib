@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:nether_portal"
+    { "required": false, "id": "minecraft:nether_portal" }
   ]
 }

@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:end_portal"
+    { "required": false, "id": "minecraft:end_portal" }
   ]
 }

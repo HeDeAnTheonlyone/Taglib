@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:lily_pad"
+    { "required": false, "id": "minecraft:lily_pad" }
   ]
 }

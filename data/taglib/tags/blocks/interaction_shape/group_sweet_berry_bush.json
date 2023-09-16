@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:sweet_berry_bush"
+    { "required": false, "id": "minecraft:sweet_berry_bush" }
   ]
 }

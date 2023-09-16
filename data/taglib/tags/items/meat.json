@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:cooked_meat",
-        "#taglib:uncooked_meat"
+        { "required": false, "id": "#taglib:cooked_meat" },
+        { "required": false, "id": "#taglib:uncooked_meat" }
     ]
 }

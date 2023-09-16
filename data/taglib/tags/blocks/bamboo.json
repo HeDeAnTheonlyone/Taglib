@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "bamboo",
-        "bamboo_sapling"
+        { "required": false, "id": "minecraft:bamboo" },
+        { "required": false, "id": "minecraft:bamboo_sapling" }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:water",
-        "minecraft:lava"
+        { "required": false, "id": "minecraft:water" },
+        { "required": false, "id": "minecraft:lava" }
     ]
 }

@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:mangrove_propagule"
+    { "required": false, "id": "minecraft:mangrove_propagule" }
   ]
 }

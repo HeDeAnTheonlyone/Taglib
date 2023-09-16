@@ -1,12 +1,12 @@
 {
     "replace": false,
     "values": [
-        "minecraft:wither_skeleton",
-        "minecraft:wither",
-        "minecraft:zombified_piglin",
-        "minecraft:zombie_horse",
-        "minecraft:skeleton_horse",
-        "minecraft:husk",
-        "#taglib:burns_in_sunlight"
+        { "required": false, "id": "minecraft:wither_skeleton" },
+        { "required": false, "id": "minecraft:wither" },
+        { "required": false, "id": "minecraft:zombified_piglin" },
+        { "required": false, "id": "minecraft:zombie_horse" },
+        { "required": false, "id": "minecraft:skeleton_horse" },
+        { "required": false, "id": "minecraft:husk" },
+        { "required": false, "id": "#taglib:burns_in_sunlight" }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:food_in_a_bowl",
-        "minecraft:cake"
+        { "required": false, "id": "#taglib:food_in_a_bowl" },
+        { "required": false, "id": "minecraft:cake" }
     ]
 }

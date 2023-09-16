@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:brewing_stand"
+    { "required": false, "id": "minecraft:brewing_stand" }
   ]
 }

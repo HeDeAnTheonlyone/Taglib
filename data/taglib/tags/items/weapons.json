@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:melee_weapons",
-        "#taglib:ranged_weapons"
+        { "required": false, "id": "#taglib:melee_weapons" },
+        { "required": false, "id": "#taglib:ranged_weapons" }
     ]
 }

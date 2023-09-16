@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:dirt_path",
-    "minecraft:farmland"
+    { "required": false, "id": "minecraft:dirt_path" },
+    { "required": false, "id": "minecraft:farmland" }
   ]
 }

@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:frogspawn"
+    { "required": false, "id": "minecraft:frogspawn" }
   ]
 }

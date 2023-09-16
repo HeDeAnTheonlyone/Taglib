@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:nether_wart"
+    { "required": false, "id": "minecraft:nether_wart" }
   ]
 }

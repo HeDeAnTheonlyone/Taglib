@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:zombie",
-        "minecraft:husk",
-        "minecraft:drowned",
+        { "required": false, "id": "minecraft:zombie" },
+        { "required": false, "id": "minecraft:husk" },
+        { "required": false, "id": "minecraft:drowned" },
         "#skeletons",
-        "#taglib:piglins"
+        { "required": false, "id": "#taglib:piglins" }
     ]
 }

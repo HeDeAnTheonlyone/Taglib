@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:kelp",
-        "minecraft:carrot",
-        "minecraft:potato",
-        "minecraft:beetroot",
-        "minecraft:pumpkin"
+        { "required": false, "id": "minecraft:kelp" },
+        { "required": false, "id": "minecraft:carrot" },
+        { "required": false, "id": "minecraft:potato" },
+        { "required": false, "id": "minecraft:beetroot" },
+        { "required": false, "id": "minecraft:pumpkin" }
     ]
 }

@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:turtle_egg"
+    { "required": false, "id": "minecraft:turtle_egg" }
   ]
 }

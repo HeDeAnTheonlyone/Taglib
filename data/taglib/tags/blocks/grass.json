@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#taglib:overworld_grass",
-        "#taglib:nether_grass"
+        { "required": false, "id": "#taglib:overworld_grass" },
+        { "required": false, "id": "#taglib:nether_grass" }
     ]
 }

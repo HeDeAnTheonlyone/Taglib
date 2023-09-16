@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:vine"
+    { "required": false, "id": "minecraft:vine" }
   ]
 }

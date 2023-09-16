@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:carrots",
-    "minecraft:potatoes"
+    { "required": false, "id": "minecraft:carrots" },
+    { "required": false, "id": "minecraft:potatoes" }
   ]
 }

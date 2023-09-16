@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:shield",
-        "minecraft:totem_of_undying",
-        "minecraft:elytra",
-        "minecraft:enchanted_book",
-        "minecraft:writable_book"
+        { "required": false, "id": "minecraft:shield" },
+        { "required": false, "id": "minecraft:totem_of_undying" },
+        { "required": false, "id": "minecraft:elytra" },
+        { "required": false, "id": "minecraft:enchanted_book" },
+        { "required": false, "id": "minecraft:writable_book" }
     ]
 }

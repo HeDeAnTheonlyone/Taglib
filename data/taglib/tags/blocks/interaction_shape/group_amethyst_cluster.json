@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:amethyst_cluster"
+    { "required": false, "id": "minecraft:amethyst_cluster" }
   ]
 }

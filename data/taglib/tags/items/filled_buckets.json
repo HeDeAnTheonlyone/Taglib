@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:water_bucket",
-        "minecraft:lava_bucket",
-        "minecraft:milk_bucket",
-        "minecraft:powder_snow_bucket",
-        "#taglib:mob_buckets"
+        { "required": false, "id": "minecraft:water_bucket" },
+        { "required": false, "id": "minecraft:lava_bucket" },
+        { "required": false, "id": "minecraft:milk_bucket" },
+        { "required": false, "id": "minecraft:powder_snow_bucket" },
+        { "required": false, "id": "#taglib:mob_buckets" }
     ]
 }

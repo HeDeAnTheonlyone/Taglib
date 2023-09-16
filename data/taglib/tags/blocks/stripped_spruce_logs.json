@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:stripped_spruce_log",
-    "minecraft:stripped_spruce_wood"
+    { "required": false, "id": "minecraft:stripped_spruce_log" },
+    { "required": false, "id": "minecraft:stripped_spruce_wood" }
   ]
 }

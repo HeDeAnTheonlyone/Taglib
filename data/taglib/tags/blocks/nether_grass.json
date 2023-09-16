@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "nether_sprouts",
-        "crimson_roots",
-        "warped_roots"
+        { "required": false, "id": "minecraft:nether_sprouts" },
+        { "required": false, "id": "minecraft:crimson_roots" },
+        { "required": false, "id": "minecraft:warped_roots" }
     ]
 }

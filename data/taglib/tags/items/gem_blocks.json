@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:diamond_block",
-        "minecraft:emerald_block",
-        "minecraft:lapis_block",
-        "minecraft:quartz_block",
-        "minecraft:amethyst_block"
+        { "required": false, "id": "minecraft:diamond_block" },
+        { "required": false, "id": "minecraft:emerald_block" },
+        { "required": false, "id": "minecraft:lapis_block" },
+        { "required": false, "id": "minecraft:quartz_block" },
+        { "required": false, "id": "minecraft:amethyst_block" }
     ]
 }

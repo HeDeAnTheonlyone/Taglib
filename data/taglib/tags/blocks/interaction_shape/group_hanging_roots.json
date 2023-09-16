@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:hanging_roots"
+    { "required": false, "id": "minecraft:hanging_roots" }
   ]
 }

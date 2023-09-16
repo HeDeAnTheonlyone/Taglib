@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:cod",
-        "minecraft:salmon"
+        { "required": false, "id": "minecraft:cod" },
+        { "required": false, "id": "minecraft:salmon" }
     ]
 }

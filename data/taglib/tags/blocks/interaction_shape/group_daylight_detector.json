@@ -1,5 +1,5 @@
 {
   "values": [
-    "minecraft:daylight_detector"
+    { "required": false, "id": "minecraft:daylight_detector" }
   ]
 }

@@ -1,9 +1,9 @@
 {
     "replace": false,
     "values": [
-        "minecraft:copper_ingot",
-        "minecraft:gold_ingot",
-        "minecraft:iron_ingot",
-        "minecraft:netherite_ingot"
+        { "required": false, "id": "minecraft:copper_ingot" },
+        { "required": false, "id": "minecraft:gold_ingot" },
+        { "required": false, "id": "minecraft:iron_ingot" },
+        { "required": false, "id": "minecraft:netherite_ingot" }
     ]
 }

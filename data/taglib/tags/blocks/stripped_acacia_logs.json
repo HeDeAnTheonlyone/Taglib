@@ -1,6 +1,6 @@
 {
   "values": [
-    "minecraft:stripped_acacia_log",
-    "minecraft:stripped_acacia_wood"
+    { "required": false, "id": "minecraft:stripped_acacia_log" },
+    { "required": false, "id": "minecraft:stripped_acacia_wood" }
   ]
 }

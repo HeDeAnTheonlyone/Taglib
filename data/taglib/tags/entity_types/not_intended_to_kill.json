@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "minecraft:warden"
+        { "required": false, "id": "minecraft:warden" }
     ]
 }

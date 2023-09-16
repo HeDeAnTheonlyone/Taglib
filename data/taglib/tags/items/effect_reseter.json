@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:milk_bucket",
-        "minecraft:honey_bottle"
+        { "required": false, "id": "minecraft:milk_bucket" },
+        { "required": false, "id": "minecraft:honey_bottle" }
     ]
 }

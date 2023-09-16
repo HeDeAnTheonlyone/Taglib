@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:daylight_detector",
-        "minecraft:lightning_rod",
-        "minecraft:observer",
-        "minecraft:detector_rail",
-        "#taglib:manual_power_sources"
+        { "required": false, "id": "minecraft:daylight_detector" },
+        { "required": false, "id": "minecraft:lightning_rod" },
+        { "required": false, "id": "minecraft:observer" },
+        { "required": false, "id": "minecraft:detector_rail" },
+        { "required": false, "id": "#taglib:manual_power_sources" }
     ]
 }

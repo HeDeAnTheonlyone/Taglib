@@ -1,9 +1,9 @@
 {
     "values": [
-        "minecraft:horse",
-        "minecraft:donkey",
-        "minecraft:mule",
-        "minecraft:zombie_horse",
-        "minecraft:skeleton_horse"
+        { "required": false, "id": "minecraft:horse" },
+        { "required": false, "id": "minecraft:donkey" },
+        { "required": false, "id": "minecraft:mule" },
+        { "required": false, "id": "minecraft:zombie_horse" },
+        { "required": false, "id": "minecraft:skeleton_horse" }
         ]
 }

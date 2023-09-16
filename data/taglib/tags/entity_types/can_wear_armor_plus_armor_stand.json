@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "minecraft:armor_stand",
-        "#taglib:can_wear_armor"
+        { "required": false, "id": "minecraft:armor_stand" },
+        { "required": false, "id": "#taglib:can_wear_armor" }
     ]
 }

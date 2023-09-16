@@ -1,9 +1,9 @@
 {
     "values": [
-        "minecraft:cat",
-        "minecraft:wolf",
-        "minecraft:llama",
-        "minecraft:allay",
-        "#taglib:horse"
+        { "required": false, "id": "minecraft:cat" },
+        { "required": false, "id": "minecraft:wolf" },
+        { "required": false, "id": "minecraft:llama" },
+        { "required": false, "id": "minecraft:allay" },
+        { "required": false, "id": "#taglib:horse" }
     ]
 }

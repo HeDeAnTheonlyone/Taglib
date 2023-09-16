@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        "minecraft:diamond_sword",
-        "minecraft:diamond_pickaxe",
-        "minecraft:diamond_axe",
-        "minecraft:diamond_shovel",
-        "minecraft:diamond_hoe"
+        { "required": false, "id": "minecraft:diamond_sword" },
+        { "required": false, "id": "minecraft:diamond_pickaxe" },
+        { "required": false, "id": "minecraft:diamond_axe" },
+        { "required": false, "id": "minecraft:diamond_shovel" },
+        { "required": false, "id": "minecraft:diamond_hoe" }
     ]
 }
