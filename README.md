@@ -1,5 +1,8 @@
 # Taglib
-A tags library for minecraft data packs
+A tags library for Minecraft data packs
+
+You can use this library in every version but some tags might be incomplete.
+Tags are complete till version: `1.19.4`
 
 https://www.planetminecraft.com/data-pack/taglib/<br>
 https://modrinth.com/datapack/taglib
