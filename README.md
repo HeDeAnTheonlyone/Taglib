@@ -2,7 +2,7 @@
 A tags library for Minecraft data packs
 
 You can use this library in every version but some tags might be incomplete.<br>
-Tags are complete up to version: `1.19.4`
+Tags are fully complete up to version: `1.19.4`
 
 https://www.planetminecraft.com/data-pack/taglib/<br>
 https://modrinth.com/datapack/taglib
