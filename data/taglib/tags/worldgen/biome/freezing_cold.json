@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:cold_ocean" },
+        { "required": false, "id": "minecraft:deep_cold_ocean" },
+        { "required": false, "id": "minecraft:dripstone_caves" },
+        { "required": false, "id": "minecraft:the_void" },
+        { "required": false, "id": "#minecraft:is_taiga" },
+        { "required": false, "id": "#minecraft:spawns_cold_variant_frogs" }
+    ]
+}

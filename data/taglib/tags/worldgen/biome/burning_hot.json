@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:desert" },
+        { "required": false, "id": "#minecraft:is_badlands" },
+        { "required": false, "id": "#minecraft:is_jungle" },
+        { "required": false, "id": "#minecraft:is_nether" },
+        { "required": false, "id": "#minecraft:is_savanna" }
+    ]
+}
