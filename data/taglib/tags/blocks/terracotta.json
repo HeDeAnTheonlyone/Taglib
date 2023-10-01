@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        "#terracotta",
+        { "required": false, "id": "#minecraft:terracotta" },
         { "required": false, "id": "#taglib:glazed_terracotta" }
     ]
 }

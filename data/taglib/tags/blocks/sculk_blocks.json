@@ -5,6 +5,7 @@
         { "required": false, "id": "minecraft:sculk_catalyst" },
         { "required": false, "id": "minecraft:sculk_sensor" },
         { "required": false, "id": "minecraft:sculk_shrieker" },
-        { "required": false, "id": "minecraft:sculk_vein" }
+        { "required": false, "id": "minecraft:sculk_vein" },
+        { "required": false, "id": "#taglib:sculk_sensors" }
     ]
 }

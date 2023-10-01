@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:sculk_sensor" },
+        { "required": false, "id": "minecraft:calibrated_sculk_sensor" }
+    ]
+}

@@ -5,7 +5,7 @@
         { "required": false, "id": "minecraft:hopper" },
         { "required": false, "id": "minecraft:dropper" },
         { "required": false, "id": "minecraft:dispenser" },
-        "#shulker_boxes",
+        { "required": false, "id": "#minecraft:shulker_boxes" },
         { "required": false, "id": "#taglib:furnaces" },
         { "required": false, "id": "#taglib:chests" }
     ]

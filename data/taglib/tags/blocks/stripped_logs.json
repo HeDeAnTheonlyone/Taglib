@@ -1,5 +1,6 @@
 {
   "values": [
+    { "required": false, "id": "minecraft:stripped_bamboo_block" },
     { "required": false, "id": "#taglib:stripped_acacia_logs" },
     { "required": false, "id": "#taglib:stripped_birch_logs" },
     { "required": false, "id": "#taglib:stripped_cherry_logs" },

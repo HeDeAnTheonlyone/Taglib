@@ -71,6 +71,8 @@
         { "required": false, "id": "minecraft:warden_spawn_egg" },
         { "required": false, "id": "minecraft:frog_spawn_egg" },
         { "required": false, "id": "minecraft:tadpole_spawn_egg" },
-        { "required": false, "id": "minecraft:allay_spawn_egg" }
+        { "required": false, "id": "minecraft:allay_spawn_egg" },
+        { "required": false, "id": "minecraft:camel_spawn_egg" },
+        { "required": false, "id": "minecraft:sniffer_spawn_egg" }
     ]
 }
