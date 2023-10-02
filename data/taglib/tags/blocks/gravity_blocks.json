@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
+        { "required": false, "id": "#taglib:concrete_powder" },
         { "required": false, "id": "minecraft:gravel" },
         { "required": false, "id": "minecraft:scaffolding" },
         { "required": false, "id": "minecraft:pointed_dripstone" },
