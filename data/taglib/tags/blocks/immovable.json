@@ -1,8 +1,9 @@
 {
     "replace": false,
     "values": [
-        { "required": false, "id": "minecraft:bedrock" },
-        { "required": false, "id": "minecraft:reinforced_deepslate" },
-        { "required": false, "id": "#taglib:obsidian" }
+        { "required": false, "id": "minecraft:dropper" },
+        { "required": false, "id": "minecraft:dispenser" },
+        { "required": false, "id": "#taglib:obsidian" },
+        { "required": false, "id": "#minecraft:features_cannot_replace" }
     ]
 }
