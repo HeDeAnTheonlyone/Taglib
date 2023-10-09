@@ -1,9 +1,30 @@
 {
     "replace": false,
     "values": [
+        { "required": false, "id": "minecraft:conduit" },
         { "required": false, "id": "minecraft:dropper" },
         { "required": false, "id": "minecraft:dispenser" },
-        { "required": false, "id": "#taglib:obsidian" },
-        { "required": false, "id": "#minecraft:features_cannot_replace" }
+        { "required": false, "id": "minecraft:daylight_detector" },
+        { "required": false, "id": "minecraft:hopper" },
+        { "required": false, "id": "minecraft:bedrock" },
+        { "required": false, "id": "minecraft:beacon" },
+        { "required": false, "id": "minecraft:barrel" }
+        { "required": false, "id": "minecraft:bee_nest" },
+        { "required": false, "id": "minecraft:beehive" },
+        { "required": false, "id": "minecraft:grindstone" },
+        { "required": false, "id": "minecraft:lodestone" },
+        { "required": false, "id": "minecraft:lectern" },
+        { "required": false, "id": "minecraft:respawn_anchor" }
+        { "required": false, "id": "minecraft:enchanting_table" },
+        { "required": false, "id": "minecraft:reinforced_deepslate" },
+        { "required": false, "id": "minecraft:end_portal_frame" },
+        { "required": false, "id": "minecraft:spawner" },
+        { "required": false, "id": "minecraft:barrier" },
+        { "required": false, "id": "minecraft:jigsaw" },
+        { "required": false, "id": "minecraft:structure_block" },
+        { "required": false, "id": "#taglib:chests" },
+        { "required": false, "id": "#taglib:furnaces" },
+        { "required": false, "id": "#taglib:command_blocks" },
+        { "required": false, "id": "#taglib:obsidian" }
     ]
 }
