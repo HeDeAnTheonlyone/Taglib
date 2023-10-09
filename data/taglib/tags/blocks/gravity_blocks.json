@@ -5,7 +5,7 @@
         { "required": false, "id": "minecraft:gravel" },
         { "required": false, "id": "minecraft:scaffolding" },
         { "required": false, "id": "minecraft:pointed_dripstone" },
-        "#sand",
+        { "required": false, "id": "#minecraft:sand" },
         { "required": false, "id": "#taglib:anvils" }
     ]
 }
