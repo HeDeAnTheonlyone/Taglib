@@ -5,6 +5,7 @@
         { "required": false, "id": "minecraft:cat" },
         { "required": false, "id": "minecraft:chicken" },
         { "required": false, "id": "minecraft:cow" },
+        { "required": false, "id": "minecraft:camel" },
         { "required": false, "id": "minecraft:donkey" },
         { "required": false, "id": "minecraft:fox" },
         { "required": false, "id": "minecraft:horse" },
@@ -28,6 +29,7 @@
         { "required": false, "id": "minecraft:allay" },
         { "required": false, "id": "minecraft:tadpole" },
         { "required": false, "id": "minecraft:frog" },
+        { "required": false, "id": "minecraft:sniffer" },
         { "required": false, "id": "#taglib:fish" }
     ]
 }
