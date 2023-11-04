@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:zombie" },
+        { "required": false, "id": "minecraft:drowned"},
+        { "required": false, "id": "minecraft:husk"},
+        { "required": false, "id": "minecraft:zombie_villager" }
+    ]
+
+}

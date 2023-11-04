@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:villager" },
+        { "required": false, "id": "minecraft:wandering_trader" },
+        { "required": false, "id": "minecraft:vindicator" },
+        { "required": false, "id": "minecraft:pillager" },
+        { "required": false, "id": "minecraft:skeleton"},
+        { "required": false, "id": "minecraft:wither_skeleton"},
+        { "required": false, "id": "minecraft:stray"},
+        { "required": false, "id": "#taglib:overworld_zombies"},
+        { "required": false, "id": "#taglib:magic_user" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:llama" },
+        { "required": false, "id": "minecraft:trader_llama"}
+    ]
+}

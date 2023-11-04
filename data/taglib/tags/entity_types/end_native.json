@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:enderman"},
+        { "required": false, "id": "minecraft:shulker"},
+        { "required": false, "id": "minecraft:ender_dragon"}
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:spiders" },
+        { "required": false, "id": "minecraft:cave_spider"}
+    ]
+}
