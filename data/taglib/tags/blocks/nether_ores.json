@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:nether_gold_ore" },
+        { "required": false, "id": "minecraft:nether_quartz_ore"}
+    ]
+}

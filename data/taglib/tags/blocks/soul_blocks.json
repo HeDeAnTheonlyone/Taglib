@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"values": [
+		{ "required": false, "id": "minecraft:soul_sand"},
+		{ "required": false, "id": "minecraft:soul_soil"}
+	]
+}

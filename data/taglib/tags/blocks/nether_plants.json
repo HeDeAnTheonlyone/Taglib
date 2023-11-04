@@ -1,8 +1,9 @@
 {
     "replace": false,
     "values": [
-        "crimson_fungus",
-        "warped_fungus",
+        { "required": false, "id": "minecraft:nether_wart"},
+        { "required": false, "id": "minecraft:crimson_fungus"},
+        { "required": false, "id": "minecraft:warped_fungus"},
         { "required": false, "id": "#taglib:nether_grass" },
         { "required": false, "id": "#taglib:nether_vines" }
         

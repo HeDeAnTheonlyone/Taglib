@@ -1,0 +1,30 @@
+{
+	"replace": false,
+	"values": [
+		{ "required": false, "id": "minecraft:air"},
+		{ "required": false, "id": "minecraft:bedrock"},
+		{ "required": false, "id": "minecraft:chorus_flower"},
+		{ "required": false, "id": "minecraft:chorus_plant"},
+		{ "required": false, "id": "minecraft:end_stone"},
+		{ "required": false, "id": "minecraft:obsidian"},
+		{ "required": false, "id": "minecraft:dragon_egg"},
+		{ "required": false, "id": "minecraft:end_gateway"},
+		{ "required": false, "id": "minecraft:end_portal"},
+		{ "required": false, "id": "minecraft:end_portal_frame"},
+		{ "required": false, "id": "minecraft:fire"},
+		{ "required": false, "id": "minecraft:iron_bars"},
+		{ "required": false, "id": "minecraft:torch"},
+		{ "required": false, "id": "minecraft:brewing_stand"},
+		{ "required": false, "id": "minecraft:chest"},
+		{ "required": false, "id": "minecraft:dragon_head"},
+		{ "required": false, "id": "minecraft:end_stone_bricks"},
+		{ "required": false, "id": "minecraft:ender_chest"},
+		{ "required": false, "id": "minecraft:magenta_banner"},
+		{ "required": false, "id": "minecraft:ladder"},
+		{ "required": false, "id": "minecraft:magenta_stained_glass"},
+		{ "required": false, "id": "minecraft:purpur_block"},
+		{ "required": false, "id": "minecraft:purpur_slab"},
+		{ "required": false, "id": "minecraft:purpur_stairs"},
+		{ "required": false, "id": "minecraft:purpur_pillar"}
+	]
+}
