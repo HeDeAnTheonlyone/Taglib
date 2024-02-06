@@ -14,6 +14,7 @@
         { "required": false, "id": "minecraft:redstone_ore" },
         { "required": false, "id": "minecraft:repeater" },
         { "required": false, "id": "minecraft:sculk_sensor" },
-        "#campfires"
+        { "required": false, "id": "minecraft:copper_bulb" },
+        { "required": false, "id": "#mineccraft:campfires" }
     ]
 }
