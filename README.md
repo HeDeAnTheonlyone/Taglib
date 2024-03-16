@@ -9,7 +9,7 @@ https://modrinth.com/datapack/taglib
 
 Taglib is, as the name already said, a tags library.
 
-It currently `adds 390` new blocks, entity, item, and biome tags for you to use.
+It currently `adds 393` new blocks, entity, item, and biome tags for you to use.
 With this library, you're prepared for everything you possibly wanna do in your data packs.
 
 I always add new tags to hopefully make it the biggest and best tags library to ever exist
