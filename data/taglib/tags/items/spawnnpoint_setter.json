@@ -2,6 +2,6 @@
     "replace": false,
     "values": [
         { "required": false, "id": "minecraft:respawn_anchor" },
-        "#beds"
+        { "required": false, "id": "#minecraft:beds" }
     ]
 }
