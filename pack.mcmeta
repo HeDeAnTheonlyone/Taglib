@@ -1,7 +1,7 @@
 {
     "pack": {
         "pack_format": 9,
-        "supported_formats": {"min_inclusive": 9, "max_inclusive": 41},
+        "supported_formats": {"min_inclusive": 9, "max_inclusive": 1000000},
         "description": "A tag library by HeDeAn"
     }
 }
