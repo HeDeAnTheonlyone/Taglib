@@ -51,6 +51,7 @@
         { "required": false, "id": "minecraft:skeleton" },
         { "required": false, "id": "minecraft:skeleton_horse" },
         { "required": false, "id": "minecraft:slime" },
+        { "required": false, "id": "minecraft:sniffer" },
         { "required": false, "id": "minecraft:spider" },
         { "required": false, "id": "minecraft:squid" },
         { "required": false, "id": "minecraft:stray" },
@@ -71,6 +72,7 @@
         { "required": false, "id": "minecraft:zombie" },
         { "required": false, "id": "minecraft:zombie_horse" },
         { "required": false, "id": "minecraft:zombie_villager" },
-        { "required": false, "id": "minecraft:zombified_piglin" }
+        { "required": false, "id": "minecraft:zombified_piglin" },
+        { "required": false, "id": "minecraft:armadillo" }
     ]
 }

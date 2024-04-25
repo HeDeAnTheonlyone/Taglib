@@ -10,6 +10,7 @@
          { "required": false, "id": "minecraft:angler_pottery_sherd" },
          { "required": false, "id": "minecraft:apple" },
          { "required": false, "id": "minecraft:archer_pottery_sherd" },
+         { "required": false, "id": "minecraft:armadillo_scute" },
          { "required": false, "id": "minecraft:armor_stand" },
          { "required": false, "id": "minecraft:arms_up_pottery_sherd" },
          { "required": false, "id": "minecraft:arrow" },
@@ -326,7 +327,7 @@
          { "required": false, "id": "minecraft:saddle" },
          { "required": false, "id": "minecraft:salmon" },
          { "required": false, "id": "minecraft:salmon_bucket" },
-         { "required": false, "id": "minecraft:scute" },
+         { "required": false, "id": "minecraft:turtle_scute" },
          { "required": false, "id": "minecraft:seagrass" },
          { "required": false, "id": "minecraft:sea_pickle" },
          { "required": false, "id": "minecraft:sentry_armor_trim_smithing_template" },
@@ -345,6 +346,7 @@
          { "required": false, "id": "minecraft:snowball" },
          { "required": false, "id": "minecraft:soul_campfire" },
          { "required": false, "id": "minecraft:soul_lantern" },
+         { "required": false, "id": "minecraft:armadillo_spawn_egg" },
          { "required": false, "id": "minecraft:bat_spawn_egg" },
          { "required": false, "id": "minecraft:bee_spawn_egg" },
          { "required": false, "id": "minecraft:cat_spawn_egg" },
@@ -497,6 +499,7 @@
          { "required": false, "id": "minecraft:lily_of_the_valley" },
          { "required": false, "id": "minecraft:cornflower" },
          { "required": false, "id": "minecraft:torchflower" },
-         { "required": false, "id": "minecraft:wither_rose" }
+         { "required": false, "id": "minecraft:wither_rose" },
+         { "required": false, "id": "minecraft:wolf_armor" }
         ]
     }

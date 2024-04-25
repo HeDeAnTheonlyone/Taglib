@@ -4,7 +4,8 @@
         { "required": false, "id": "minecraft:zombie" },
         { "required": false, "id": "minecraft:husk" },
         { "required": false, "id": "minecraft:drowned" },
-        "#skeletons",
+        { "required": false, "id": "minecraft:wolf" },
+        { "required": false, "id": "#minecraft:skeletons" },
         { "required": false, "id": "#taglib:piglins" }
     ]
 }

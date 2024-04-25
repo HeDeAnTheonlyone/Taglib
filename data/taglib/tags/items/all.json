@@ -716,7 +716,8 @@
         { "required": false, "id": "minecraft:structure_block" },
         { "required": false, "id": "minecraft:jigsaw" },
         { "required": false, "id": "minecraft:turtle_helmet" },
-        { "required": false, "id": "minecraft:scute" },
+        { "required": false, "id": "minecraft:turtle_scute" },
+        { "required": false, "id": "minecraft:armadillo_scute" },
         { "required": false, "id": "minecraft:flint_and_steel" },
         { "required": false, "id": "minecraft:apple" },
         { "required": false, "id": "minecraft:bow" },
@@ -914,6 +915,7 @@
         { "required": false, "id": "minecraft:ender_eye" },
         { "required": false, "id": "minecraft:glistering_melon_slice" },
         { "required": false, "id": "minecraft:allay_spawn_egg" },
+        { "required": false, "id": "minecraft:armadillo_spawn_egg" },
         { "required": false, "id": "minecraft:axolotl_spawn_egg" },
         { "required": false, "id": "minecraft:bat_spawn_egg" },
         { "required": false, "id": "minecraft:bee_spawn_egg" },
@@ -1152,6 +1154,7 @@
         { "required": false, "id": "minecraft:verdant_froglight" },
         { "required": false, "id": "minecraft:pearlescent_froglight" },
         { "required": false, "id": "minecraft:frogspawn" },
-        { "required": false, "id": "minecraft:echo_shard" }
+        { "required": false, "id": "minecraft:echo_shard" },
+        { "required": false, "id": "minecraft:wolf_armor" }
     ]
 }
