@@ -36,6 +36,7 @@
     { "required": false, "id": "minecraft:frog" },
     { "required": false, "id": "minecraft:tadpole" },
     { "required": false, "id": "minecraft:sniffer" },
+    { "required": false, "id": "minecraft:armadillo" },
     { "required": false, "id": "#taglib:fish" }
   ]
 }
