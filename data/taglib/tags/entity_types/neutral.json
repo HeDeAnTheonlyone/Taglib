@@ -14,7 +14,6 @@
         { "required": false, "id": "minecraft:panda" },
         { "required": false, "id": "minecraft:piglin" },
         { "required": false, "id": "minecraft:zombified_piglin" },
-        { "required": false, "id": "minecraft:polar_bear" },
-        { "required": false, "id": "minecraft:armadillo" }
+        { "required": false, "id": "minecraft:polar_bear" }
     ]
 }
