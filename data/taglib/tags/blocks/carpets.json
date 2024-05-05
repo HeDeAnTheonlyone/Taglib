@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:moss_carpet" },
+        { "required": false, "id": "#taglib:wool_carpets" }
+    ]
+}

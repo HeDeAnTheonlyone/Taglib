@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "#minecraft:banners" },
+        { "required": false, "id": "#minecraft:candles" },
+        { "required": false, "id": "#minecraft:candle_cakes" },
+        { "required": false, "id": "#minecraft:wool" },
+        { "required": false, "id": "#minecraft:beds" },
+        { "required": false, "id": "#minecraft:shulker_boxes" },
+        { "required": false, "id": "#taglib:concrete" },
+        { "required": false, "id": "#taglib:concrete_powder" },
+        { "required": false, "id": "#taglib:glass" },
+        { "required": false, "id": "#taglib:terracotta" },
+        { "required": false, "id": "#taglib:glazed_terracotta" },
+        { "required": false, "id": "#taglib:wool_carpets" }
+    ]
+}
