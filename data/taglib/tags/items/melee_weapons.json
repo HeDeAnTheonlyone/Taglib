@@ -2,6 +2,7 @@
     "replace": false,
     "values": [
         { "required": false, "id": "minecraft:trident" },
+        { "required": false, "id": "minecraft:mace" },
         { "required": false, "id": "#taglib:swords" }
     ]
 }

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "replace": false, "id": "minecraft:aqua_affinity" },
+        { "replace": false, "id": "minecraft:depth_stride" },
+        { "replace": false, "id": "minecraft:respiration" },
+        { "replace": false, "id": "minecraft:riptide" }
+    ]
+}

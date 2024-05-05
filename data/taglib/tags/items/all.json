@@ -1172,6 +1172,7 @@
         { "required": false, "id": "minecraft:pearlescent_froglight" },
         { "required": false, "id": "minecraft:frogspawn" },
         { "required": false, "id": "minecraft:echo_shard" },
-        { "required": false, "id": "minecraft:wolf_armor" }
+        { "required": false, "id": "minecraft:wolf_armor" },
+        { "required": false, "id": "#taglib:2d_item" }
     ]
 }

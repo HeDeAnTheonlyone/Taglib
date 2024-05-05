@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "replace": false, "id": "minecraft:fire_aspect" },
+        { "replace": false, "id": "minecraft:flame" }
+    ]
+}

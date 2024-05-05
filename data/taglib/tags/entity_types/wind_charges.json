@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:wind_charge" },
+        { "required": false, "id": "minecraft:breeze_wind_charge" }
+    ]
+}

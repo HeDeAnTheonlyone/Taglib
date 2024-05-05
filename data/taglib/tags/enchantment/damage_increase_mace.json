@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "replace": false, "id": "minecraft:density" },
+        { "replace": false, "id": "minecraft:sharpness" },
+        { "replace": false, "id": "minecraft:smite" },
+        { "replace": false, "id": "minecraft:bane_of_arthropods" }
+    ]
+}

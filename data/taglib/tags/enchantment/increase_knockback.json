@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "replace": false, "id": "minecraft:knockback" },
+        { "replace": false, "id": "minecraft:punch" }
+    ]
+}
