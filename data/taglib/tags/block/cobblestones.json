@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:cobblestone" },
+        { "required": false, "id": "minecraft:cobbled_deepslate" },
+        { "required": false, "id": "minecraft:mossy_cobblestone" }
+    ]
+}

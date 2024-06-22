@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:wheat_seeds" },
+        { "required": false, "id": "minecraft:pumpkin_seeds" },
+        { "required": false, "id": "minecraft:melon_seeds" },
+        { "required": false, "id": "minecraft:beetroot_seeds" },
+        { "required": false, "id": "minecraft:cocoa_beans" },
+        { "required": false, "id": "minecraft:torchflower_seeds" }
+    ]
+}

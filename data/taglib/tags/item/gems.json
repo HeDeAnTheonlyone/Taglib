@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:diamond" },
+        { "required": false, "id": "minecraft:emerald" },
+        { "required": false, "id": "minecraft:lapis_lazuli" },
+        { "required": false, "id": "minecraft:quartz" },
+        { "required": false, "id": "minecraft:amethyst_shard" },
+        { "required": false, "id": "minecraft:flint" }
+    ]
+}

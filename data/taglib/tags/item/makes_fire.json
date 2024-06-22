@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:flint_and_steel" },
+        { "required": false, "id": "minecraft:fire_charge" }
+    ]
+}

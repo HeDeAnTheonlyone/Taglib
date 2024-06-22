@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:small_amethyst_bud" },
+        { "required": false, "id": "minecraft:medium_amethyst_bud" },
+        { "required": false, "id": "minecraft:large_amethyst_bud" },
+        { "required": false, "id": "minecraft:amethyst_cluster" }
+    ]
+}

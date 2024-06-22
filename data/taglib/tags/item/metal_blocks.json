@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:copper_block" },
+        { "required": false, "id": "minecraft:gold_block" },
+        { "required": false, "id": "minecraft:iron_block" },
+        { "required": false, "id": "minecraft:netherite_block" }
+    ]
+}

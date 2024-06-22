@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:globe_banner_pattern" },
+        { "required": false, "id": "minecraft:skull_banner_pattern" },
+        { "required": false, "id": "minecraft:flower_banner_pattern" },
+        { "required": false, "id": "minecraft:mojang_banner_pattern" },
+        { "required": false, "id": "minecraft:piglin_banner_pattern" },
+        { "required": false, "id": "minecraft:creeper_banner_pattern" },
+        { "required": false, "id": "minecraft:flow_banner_pattern" },
+        { "required": false, "id": "minecraft:guster_banner_pattern" }
+    ]
+}

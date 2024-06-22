@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:obsidian" },
+        { "required": false, "id": "minecraft:crying_obsidian" }
+    ]
+}

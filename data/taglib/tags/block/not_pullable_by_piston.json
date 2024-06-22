@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "#taglib:immovable" },
+        { "required": false, "id": "#taglib:glazed_terracotta" }
+    ]
+}

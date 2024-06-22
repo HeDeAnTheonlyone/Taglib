@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:carrot_on_a_stick" },
+        { "required": false, "id": "minecraft:warped_fungus_on_a_stick" }
+    ]
+}

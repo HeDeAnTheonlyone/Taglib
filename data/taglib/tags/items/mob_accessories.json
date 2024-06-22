@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:saddle" },
-        { "required": false, "id": "minecraft:wolf_armor" },
-        { "required": false, "id": "#minecraft:wool_carpets" },
-        { "required": false, "id": "#taglib:armor/horse_armor" }
-    ]
-}

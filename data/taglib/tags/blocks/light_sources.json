@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:always_on_light_sources" },
-        { "required": false, "id": "#taglib:on_off_light_sources" }
-    ]
-}

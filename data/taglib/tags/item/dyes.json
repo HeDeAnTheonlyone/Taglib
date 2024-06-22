@@ -1,0 +1,21 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:red_dye" },
+        { "required": false, "id": "minecraft:blue_dye" },
+        { "required": false, "id": "minecraft:cyan_dye" },
+        { "required": false, "id": "minecraft:gray_dye" },
+        { "required": false, "id": "minecraft:lime_dye" },
+        { "required": false, "id": "minecraft:pink_dye" },
+        { "required": false, "id": "minecraft:black_dye" },
+        { "required": false, "id": "minecraft:brown_dye" },
+        { "required": false, "id": "minecraft:green_dye" },
+        { "required": false, "id": "minecraft:white_dye" },
+        { "required": false, "id": "minecraft:orange_dye" },
+        { "required": false, "id": "minecraft:purple_dye" },
+        { "required": false, "id": "minecraft:yellow_dye" },
+        { "required": false, "id": "minecraft:magenta_dye" },
+        { "required": false, "id": "minecraft:light_blue_dye" },
+        { "required": false, "id": "minecraft:light_gray_dye" }
+    ]
+}

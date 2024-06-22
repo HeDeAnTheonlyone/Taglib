@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:light" },
+        { "required": false, "id": "minecraft:structure_void" },
+        { "required": false, "id": "minecraft:barrier" }
+    ]
+}

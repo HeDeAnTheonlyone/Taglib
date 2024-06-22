@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:sponge" },
+        { "required": false, "id": "minecraft:wet_sponge" }
+    ]
+}

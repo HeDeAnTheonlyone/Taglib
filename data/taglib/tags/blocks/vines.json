@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:overworld_vines" },
-        { "required": false, "id": "#taglib:nether/nether_vines" }
-    ]
-}

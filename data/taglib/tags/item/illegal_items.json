@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:structure_block" },
+        { "required": false, "id": "minecraft:debug_stick" },
+        { "required": false, "id": "minecraft:jigsaw" },
+        { "required": false, "id": "minecraft:bedrock" },
+        { "required": false, "id": "minecraft:end_portal_frame" },
+        { "required": false, "id": "minecraft:knowledge_book" },
+        { "required": false, "id": "#taglib:spawn_eggs" },
+        { "required": false, "id": "#taglib:command_blocks" },
+        { "required": false, "id": "#taglib:invisible_touchable_blocks" }
+    ]
+}

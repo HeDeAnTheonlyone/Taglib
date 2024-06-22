@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:glass_bottle" },
+        { "required": false, "id": "minecraft:honey_bottle" },
+        { "required": false, "id": "minecraft:experience_bottle" },
+        { "required": false, "id": "minecraft:potion" }
+    ]
+}

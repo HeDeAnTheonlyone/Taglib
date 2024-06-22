@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:grass" },
+        { "required": false, "id": "minecraft:tall_grass" },
+        { "required": false, "id": "minecraft:seagrass" },
+        { "required": false, "id": "minecraft:tall_seagrass" },
+        { "required": false, "id": "minecraft:fern" },
+        { "required": false, "id": "minecraft:large_fern" }
+    ]
+}

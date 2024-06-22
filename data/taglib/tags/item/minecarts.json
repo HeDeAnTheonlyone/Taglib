@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:minecart" },
+        { "required": false, "id": "minecraft:tnt_minecart" },
+        { "required": false, "id": "minecraft:furnace_minecart" },
+        { "required": false, "id": "minecraft:hopper_minecart" },
+        { "required": false, "id": "minecraft:chest_minecart" },
+        { "required": false, "id": "minecraft:command_block_minecart" }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:light" },
+        { "required": false, "id": "minecraft:redstone_lamp" },
+        { "required": false, "id": "minecraft:respawn_anchor" },
+        { "required": false, "id": "minecraft:cave_vines" },
+        { "required": false, "id": "minecraft:cave_vines_plant" },
+        { "required": false, "id": "minecraft:furnace" },
+        { "required": false, "id": "minecraft:smoker" },
+        { "required": false, "id": "minecraft:blast_furnace" },
+        { "required": false, "id": "minecraft:candle" },
+        { "required": false, "id": "minecraft:candle_cake" },
+        { "required": false, "id": "minecraft:redstone_ore" },
+        { "required": false, "id": "minecraft:repeater" },
+        { "required": false, "id": "minecraft:sculk_sensor" },
+        { "required": false, "id": "minecraft:copper_bulb" },
+        { "required": false, "id": "#minecraft:campfires" }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:composter" },
+        { "required": false, "id": "minecraft:fletching_table" },
+        { "required": false, "id": "minecraft:lectern" },
+        { "required": false, "id": "minecraft:barrel" },
+        { "required": false, "id": "minecraft:smoker" },
+        { "required": false, "id": "minecraft:brewing_stand" },
+        { "required": false, "id": "minecraft:cauldron" },
+        { "required": false, "id": "minecraft:smithing_table" },
+        { "required": false, "id": "minecraft:cartography_table" },
+        { "required": false, "id": "minecraft:stonecutter" },
+        { "required": false, "id": "minecraft:blast_furnace" },
+        { "required": false, "id": "minecraft:loom" },
+        { "required": false, "id": "minecraft:grindstone" }
+    ]
+}

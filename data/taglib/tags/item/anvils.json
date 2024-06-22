@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:anvil" },
+        { "required": false, "id": "minecraft:chipped_anvil" },
+        { "required": false, "id": "minecraft:damaged_anvil" }
+    ]
+}

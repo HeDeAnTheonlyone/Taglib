@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:nether_wart" },
+        { "required": false, "id": "minecraft:gunpowder" },
+        { "required": false, "id": "minecraft:spider_eye" },
+        { "required": false, "id": "minecraft:fermented_spider_eye" },
+        { "required": false, "id": "minecraft:ghast_tear" },
+        { "required": false, "id": "minecraft:rabbit_foot" },
+        { "required": false, "id": "minecraft:blaze_powder" },
+        { "required": false, "id": "minecraft:glistering_melon_slice" },
+        { "required": false, "id": "minecraft:sugar" },
+        { "required": false, "id": "minecraft:magma_cream" },
+        { "required": false, "id": "minecraft:redstone" },
+        { "required": false, "id": "minecraft:dragon_breath" },
+        { "required": false, "id": "minecraft:pufferfish" },
+        { "required": false, "id": "minecraft:golden_carrot" },
+        { "required": false, "id": "minecraft:turtle_helmet" },
+        { "required": false, "id": "minecraft:phantom_membrane" },
+        { "required": false, "id": "minecraft:breeze_rod" },
+        { "required": false, "id": "minecraft:cobweb" },
+        { "required": false, "id": "minecraft:slime_block" },
+        { "required": false, "id": "minecraft:stone" }
+    ]
+}
