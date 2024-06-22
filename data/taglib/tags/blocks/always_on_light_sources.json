@@ -17,7 +17,7 @@
         { "required": false, "id": "minecraft:brewing_stand" },
         { "required": false, "id": "minecraft:dragon_egg" },
         { "required": false, "id": "minecraft:end_portal_frame" },
-        { "required": false, "id":"#portals" },
+        { "required": false, "id": "#minecraft:portals" },
         { "required": false, "id": "#taglib:froglights" },
         { "required": false, "id": "#taglib:lanterns" },
         { "required": false, "id": "#taglib:torches" },

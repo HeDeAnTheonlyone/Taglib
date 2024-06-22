@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:waxed_exposed_copper" },
+        { "required": false, "id": "minecraft:waxed_exposed_chiseled_copper" },
+        { "required": false, "id": "minecraft:waxed_exposed_copper_grate" },
+        { "required": false, "id": "minecraft:waxed_exposed_cut_copper" },
+        { "required": false, "id": "minecraft:waxed_exposed_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:waxed_exposed_cut_copper_slab" },
+        { "required": false, "id": "minecraft:waxed_exposed_copper_door" },
+        { "required": false, "id": "minecraft:waxed_exposed_copper_trapdoor" },
+        { "required": false, "id": "minecraft:waxed_exposed_copper_bulb" }
+    ]
+}

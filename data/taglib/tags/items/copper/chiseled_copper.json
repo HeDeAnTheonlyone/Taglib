@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:chiseled_copper" },
+        { "required": false, "id": "minecraft:exposed_chiseled_copper" },
+        { "required": false, "id": "minecraft:weathered_chiseled_copper" },
+        { "required": false, "id": "minecraft:oxidized_chiseled_copper" },
+        { "required": false, "id": "minecraft:waxed_chiseled_copper" },
+        { "required": false, "id": "minecraft:waxed_exposed_chiseled_copper" },
+        { "required": false, "id": "minecraft:waxed_weathered_chiseled_copper" },
+        { "required": false, "id": "minecraft:waxed_oxidized_chiseled_copper" }
+    ]
+}

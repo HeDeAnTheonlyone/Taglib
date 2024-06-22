@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:axolotl_bucket" },
-        { "required": false, "id": "minecraft:tadpole_bucket" },
-        { "required": false, "id": "#taglib:fish_buckets" }
-    ]
-}

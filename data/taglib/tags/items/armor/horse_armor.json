@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:leather_horse_armor" },
+        { "required": false, "id": "minecraft:golden_horse_armor" },
+        { "required": false, "id": "minecraft:iron_horse_armor" },
+        { "required": false, "id": "minecraft:diamond_horse_armor" }
+    ]
+}

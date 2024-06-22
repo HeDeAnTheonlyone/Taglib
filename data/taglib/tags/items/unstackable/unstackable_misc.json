@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:totem_of_undying" },
+        { "required": false, "id": "minecraft:elytra" },
+        { "required": false, "id": "minecraft:enchanted_book" },
+        { "required": false, "id": "minecraft:writable_book" },
+        { "required": false, "id": "minecraft:goat_horn" },
+        { "required": false, "id": "#taglib:banner_patterns" },
+        { "required": false, "id": "#taglib:music_disc" }
+    ]
+}

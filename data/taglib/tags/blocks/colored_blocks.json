@@ -9,7 +9,7 @@
         { "required": false, "id": "#minecraft:shulker_boxes" },
         { "required": false, "id": "#taglib:concrete" },
         { "required": false, "id": "#taglib:concrete_powder" },
-        { "required": false, "id": "#taglib:glass" },
+        { "required": false, "id": "#taglib:glass/glass" },
         { "required": false, "id": "#taglib:terracotta" },
         { "required": false, "id": "#taglib:glazed_terracotta" },
         { "required": false, "id": "#taglib:wool_carpets" }

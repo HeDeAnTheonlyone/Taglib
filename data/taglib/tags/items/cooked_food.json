@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:baked_potato" },
-        { "required": false, "id": "#taglib:cooked_meat" },
-        { "required": false, "id": "#taglib:cooked_fish" }
-    ]
-}

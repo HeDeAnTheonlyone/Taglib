@@ -74,6 +74,7 @@
         { "required": false, "id": "minecraft:allay_spawn_egg" },
         { "required": false, "id": "minecraft:camel_spawn_egg" },
         { "required": false, "id": "minecraft:sniffer_spawn_egg" },
-        { "required": false, "id": "minecraft:armadillo_spawn_egg" }
+        { "required": false, "id": "minecraft:armadillo_spawn_egg" },
+        { "required": false, "id": "minecraft:bogged_spawn_egg" }
     ]
 }

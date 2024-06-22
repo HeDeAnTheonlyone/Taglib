@@ -30,6 +30,7 @@
         { "required": false, "id": "minecraft:guardian" },
         { "required": false, "id": "minecraft:elder_guardian" },
         { "required": false, "id": "minecraft:warden" },
+        { "required": false, "id": "minecraft:breeze" },
         { "required": false, "id": "#taglib:boss_monsters" }
     ]
 }

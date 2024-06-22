@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:fire_charge" },
+        { "required": false, "id": "minecraft:wind_charge" }
+    ]
+}

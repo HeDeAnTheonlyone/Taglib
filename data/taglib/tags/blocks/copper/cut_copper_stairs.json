@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:cut_copper_stairs" },
+        { "required": false, "id": "minecraft:exposed_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:weathered_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:oxidized_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:waxed_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:waxed_exposed_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:waxed_weathered_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:waxed_oxidized_cut_copper_stairs" }
+    ]
+}

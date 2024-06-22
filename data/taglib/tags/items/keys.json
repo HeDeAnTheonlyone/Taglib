@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:trial_key" },
+        { "required": false, "id": "minecraft:ominous_trial_key" }
+    ]
+}

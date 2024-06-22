@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:waxed_copper_block" },
+        { "required": false, "id": "minecraft:waxed_chiseled_copper" },
+        { "required": false, "id": "minecraft:waxed_copper_grate" },
+        { "required": false, "id": "minecraft:waxed_cut_copper" },
+        { "required": false, "id": "minecraft:waxed_cut_copper_stairs" },
+        { "required": false, "id": "minecraft:waxed_cut_copper_slab" },
+        { "required": false, "id": "minecraft:waxed_copper_door" },
+        { "required": false, "id": "minecraft:waxed_copper_trapdoor" },
+        { "required": false, "id": "minecraft:waxed_copper_bulb" }
+    ]
+}

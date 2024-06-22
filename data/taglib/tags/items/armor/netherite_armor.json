@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:netherite_helmet" },
+        { "required": false, "id": "minecraft:netherite_chestplate" },
+        { "required": false, "id": "minecraft:netherite_leggings" },
+        { "required": false, "id": "minecraft:netherite_boots" }
+    ]
+}

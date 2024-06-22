@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:golden_sword" },
+        { "required": false, "id": "minecraft:golden_pickaxe" },
+        { "required": false, "id": "minecraft:golden_axe" },
+        { "required": false, "id": "minecraft:golden_shovel" },
+        { "required": false, "id": "minecraft:golden_hoe" }
+    ]
+}

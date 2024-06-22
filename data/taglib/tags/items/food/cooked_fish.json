@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:cooked_cod" },
+        { "required": false, "id": "minecraft:cooked_salmon" }
+    ]
+}

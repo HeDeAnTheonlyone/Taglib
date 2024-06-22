@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:copper_block" },
+        { "required": false, "id": "minecraft:exposed_copper" },
+        { "required": false, "id": "minecraft:weathered_copper" },
+        { "required": false, "id": "minecraft:oxidized_copper" },
+        { "required": false, "id": "minecraft:waxed_copper_block" },
+        { "required": false, "id": "minecraft:waxed_exposed_copper" },
+        { "required": false, "id": "minecraft:waxed_weathered_copper" },
+        { "required": false, "id": "minecraft:waxed_oxidized_copper" }
+    ]
+}

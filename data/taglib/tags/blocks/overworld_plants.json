@@ -23,6 +23,6 @@
         { "required": false, "id": "#taglib:overworld_vines" },
         { "required": false, "id": "#taglib:dripleafes" },
         { "required": false, "id": "#taglib:bamboo" },
-        { "required": false, "id": "#taglib:corals" }
+        { "required": false, "id": "#taglib:coral/corals" }
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:porkchop" },
+        { "required": false, "id": "minecraft:beef" },
+        { "required": false, "id": "minecraft:chicken" },
+        { "required": false, "id": "minecraft:rabbit" },
+        { "required": false, "id": "minecraft:mutton" }
+    ]
+}

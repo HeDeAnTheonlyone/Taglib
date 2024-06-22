@@ -1,0 +1,17 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "#minecraft:beds" },
+        { "required": false, "id": "#minecraft:boats" },
+        { "required": false, "id": "#taglib:armor/armor" },
+        { "required": false, "id": "#taglib:weapon/weapons" },
+        { "required": false, "id": "#taglib:bucket/filled_buckets" },
+        { "required": false, "id": "#taglib:potions" },
+        { "required": false, "id": "#taglib:armor/horse_armor" },
+        { "required": false, "id": "#taglib:minecarts" },
+        { "required": false, "id": "#taglib:shulker_boxes" },
+        { "required": false, "id": "#taglib:unstackable/unstackable_tools" },
+        { "required": false, "id": "#taglib:unstackable/unstackable_foods" },
+        { "required": false, "id": "#taglib:unstackable/unstackable_misc" }
+    ]
+}

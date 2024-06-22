@@ -32,7 +32,7 @@
         { "required": false, "id": "#minecraft:fire" },
         { "required": false, "id": "#taglib:air" },
         { "required": false, "id": "#taglib:grass" },
-        { "required": false, "id": "#taglib:non_block_corals" },
+        { "required": false, "id": "#taglib:coral/non_block_corals" },
         { "required": false, "id": "#taglib:torches" },
         { "required": false, "id": "#taglib:vines" },
         { "required": false, "id": "#taglib:fluids" }

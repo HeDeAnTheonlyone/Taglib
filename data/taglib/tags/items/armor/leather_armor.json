@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:leather_helmet" },
+        { "required": false, "id": "minecraft:leather_chestplate" },
+        { "required": false, "id": "minecraft:leather_leggings" },
+        { "required": false, "id": "minecraft:leather_boots" }
+    ]
+}

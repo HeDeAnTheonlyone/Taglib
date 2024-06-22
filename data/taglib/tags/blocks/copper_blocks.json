@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:normal_copper_blocks" },
-        { "required": false, "id": "#taglib:cut_copper_blocks" },
-        { "required": false, "id": "#taglib:waxed_copper_blocks" },
-        { "required": false, "id": "#taglib:waxed_cut_copper_blocks" }
-    ]
-}

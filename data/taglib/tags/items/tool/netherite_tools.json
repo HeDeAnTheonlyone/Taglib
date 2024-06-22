@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:netherite_sword" },
+        { "required": false, "id": "minecraft:netherite_pickaxe" },
+        { "required": false, "id": "minecraft:netherite_axe" },
+        { "required": false, "id": "minecraft:netherite_shovel" },
+        { "required": false, "id": "minecraft:netherite_hoe" }
+    ]
+}

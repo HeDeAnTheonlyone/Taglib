@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        "#coral_blocks",
+        { "required": false, "id": "#taglib:coral/dead_coral_blocks" },
+        { "required": false, "id": "#taglib:coral/non_block_corals" }
+    ]
+}

@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        { "required": false, "id": "#taglib:chorus" },
+        { "required": false, "id": "#taglib:end/chorus" },
         { "required": false, "id": "#taglib:overworld_plants" },
-        { "required": false, "id": "#taglib:nether_plants" }
+        { "required": false, "id": "#taglib:nether/nether_plants" }
     ]
 }

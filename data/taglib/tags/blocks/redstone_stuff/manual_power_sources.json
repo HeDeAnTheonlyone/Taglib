@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:lever" },
+        { "required": false, "id": "minecraft:tripwire_hook" },
+        { "required": false, "id": "minecraft:trapped_chest" },
+        { "required": false, "id": "minecraft:target" },
+        { "required": false, "id": "#minecraft:buttons" },
+        { "required": false, "id": "#minecraft:pressure_plates" }
+    ]
+}

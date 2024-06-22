@@ -32,6 +32,9 @@
         { "required": false, "id": "minecraft:deepslate_tile_stairs" },
         { "required": false, "id": "minecraft:blackstone_stairs" },
         { "required": false, "id": "minecraft:polished_blackstone_stairs" },
-        { "required": false, "id": "minecraft:polished_blackstone_brick_stairs" }
+        { "required": false, "id": "minecraft:polished_blackstone_brick_stairs" },
+        { "required": false, "id": "minecraft:tuff_stairs" },
+        { "required": false, "id": "minecraft:polished_tuff_stairs" },
+        { "required": false, "id": "minecraft:tuff_brick_stairs" }
     ]
 }

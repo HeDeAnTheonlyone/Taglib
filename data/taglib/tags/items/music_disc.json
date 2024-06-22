@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:music_disc_creator_music_box" },
+        { "required": false, "id": "minecraft:music_disc_creator" },
+        { "required": false, "id": "minecraft:music_disc_precipice" },
+        { "required": false, "id": "minecraft:music_disc_otherside" },
+        { "required": false, "id": "minecraft:music_disc_relic" },
+        { "required": false, "id": "minecraft:music_disc_5" },
+        { "required": false, "id": "minecraft:music_disc_pigstep" },
+        { "required": false, "id": "#minecraft:creeper_drop_music_discs" }
+    ]
+}

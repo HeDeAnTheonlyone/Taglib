@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:sweet_berries" },
+        { "required": false, "id": "minecraft:glow_berries" },
+        { "required": false, "id": "minecraft:melon" },
+        { "required": false, "id": "minecraft:melon_slice" }
+    ]
+}

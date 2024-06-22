@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "#taglib:redstone_stuff/always_on_power_source" },
+        { "required": false, "id": "#taglib:redstone_stuff/on_off_power_source" }
+    ]
+}

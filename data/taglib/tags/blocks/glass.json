@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:glass_blocks" },
-        { "required": false, "id": "#taglib:glass_panes" }
-    ]
-}

@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:copper_bulb" },
+        { "required": false, "id": "minecraft:exposed_copper_bulb" },
+        { "required": false, "id": "minecraft:weathered_copper_bulb" },
+        { "required": false, "id": "minecraft:oxidized_copper_bulb" },
+        { "required": false, "id": "minecraft:waxed_copper_bulb" },
+        { "required": false, "id": "minecraft:waxed_exposed_copper_bulb" },
+        { "required": false, "id": "minecraft:waxed_weathered_copper_bulb" },
+        { "required": false, "id": "minecraft:waxed_oxidized_copper_bulb" }
+    ]
+}

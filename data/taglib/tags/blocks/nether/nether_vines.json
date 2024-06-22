@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:weeping_vines" },
+        { "required": false, "id": "minecraft:weeping_vines_plant" },
+        { "required": false, "id": "minecraft:twisting_vines" },
+        { "required": false, "id": "minecraft:twisting_vines_plant" }
+    ]
+}

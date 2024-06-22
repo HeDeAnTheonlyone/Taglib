@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:exposed_copper" },
-        { "required": false, "id": "minecraft:exposed_cut_copper" },
-        { "required": false, "id": "minecraft:waxed_exposed_copper" },
-        { "required": false, "id": "minecraft:waxed_exposed_copper" }
-    ]
-}

@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:pufferfish" },
+        { "required": false, "id": "minecraft:rotten_flesh" },
+        { "required": false, "id": "minecraft:spider_eye" },
+        { "required": false, "id": "minecraft:poisonous_potato" }
+    ]
+}

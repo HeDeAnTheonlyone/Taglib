@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:cooked_beef" },
+        { "required": false, "id": "minecraft:cooked_chicken" },
+        { "required": false, "id": "minecraft:cooked_mutton" },
+        { "required": false, "id": "minecraft:cooked_porkchop" },
+        { "required": false, "id": "minecraft:cooked_rabbit" }
+    ]
+}

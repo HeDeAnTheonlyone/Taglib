@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:melee_weapons" },
-        { "required": false, "id": "#taglib:ranged_weapons" }
-    ]
-}
