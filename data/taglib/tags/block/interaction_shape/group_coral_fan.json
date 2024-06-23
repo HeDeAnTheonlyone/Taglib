@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     { "required": false, "id": "minecraft:brain_coral_fan" },
     { "required": false, "id": "minecraft:bubble_coral_fan" },

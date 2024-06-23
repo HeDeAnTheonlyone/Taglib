@@ -1,10 +1,10 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "minecraft:sharpness" },
-        { "replace": false, "id": "minecraft:smite" },
-        { "replace": false, "id": "minecraft:bane_of_arthropods" },
-        { "replace": false, "id": "minecraft:impaling" },
-        { "replace": false, "id": "minecraft:density" }
+        { "required": false, "id": "minecraft:sharpness" },
+        { "required": false, "id": "minecraft:smite" },
+        { "required": false, "id": "minecraft:bane_of_arthropods" },
+        { "required": false, "id": "minecraft:impaling" },
+        { "required": false, "id": "minecraft:density" }
     ]
 }

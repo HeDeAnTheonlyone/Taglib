@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     { "required": false, "id": "minecraft:crimson_roots" },
     { "required": false, "id": "minecraft:dead_bush" },

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "minecraft:unbreaking" },
-        { "replace": false, "id": "minecraft:mending" }
+        { "required": false, "id": "minecraft:unbreaking" },
+        { "required": false, "id": "minecraft:mending" }
     ]
 }

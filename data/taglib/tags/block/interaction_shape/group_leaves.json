@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     { "required": false, "id": "minecraft:acacia_leaves" },
     { "required": false, "id": "minecraft:acacia_log" },

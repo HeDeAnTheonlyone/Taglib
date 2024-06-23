@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "minecraft:knockback" },
-        { "replace": false, "id": "minecraft:punch" }
+        { "required": false, "id": "minecraft:knockback" },
+        { "required": false, "id": "minecraft:punch" }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "minecraft:infinity" },
-        { "replace": false, "id": "minecraft:loyalty" }
+        { "required": false, "id": "minecraft:infinity" },
+        { "required": false, "id": "minecraft:loyalty" }
     ]
 }

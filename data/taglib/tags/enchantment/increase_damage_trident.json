@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "minecraft:impaling" }
+        { "required": false, "id": "minecraft:impaling" }
     ]
 }

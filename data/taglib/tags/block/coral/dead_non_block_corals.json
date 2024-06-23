@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "#taglib:coral/dead_coral_plant" },
+        { "required": false, "id": "#taglib:coral/dead_coral_fans" },
+        { "required": false, "id": "#taglib:coral/dead_coral_wall_fans" }
+    ]
+}

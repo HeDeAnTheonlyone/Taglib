@@ -1,7 +1,7 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "#taglib:increase_damage_melee" },
-        { "replace": false, "id": "#taglib:increase_damage_ranged" }
+        { "required": false, "id": "#taglib:increase_damage_melee" },
+        { "required": false, "id": "#taglib:increase_damage_ranged" }
     ]
 }

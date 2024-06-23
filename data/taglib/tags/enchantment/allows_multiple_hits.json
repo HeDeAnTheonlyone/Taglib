@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "minecraft:sweeping_edge" },
-        { "replace": false, "id": "minecraft:multishot" },
-        { "replace": false, "id": "minecraft:piercing" }
+        { "required": false, "id": "minecraft:sweeping_edge" },
+        { "required": false, "id": "minecraft:multishot" },
+        { "required": false, "id": "minecraft:piercing" }
     ]
 }

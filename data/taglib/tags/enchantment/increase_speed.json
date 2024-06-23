@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        { "replace": false, "id": "minecraft:depth_stride" },
-        { "replace": false, "id": "minecraft:soul_speed" },
-        { "replace": false, "id": "minecraft:swift_sneak" }
+        { "required": false, "id": "minecraft:depth_stride" },
+        { "required": false, "id": "minecraft:soul_speed" },
+        { "required": false, "id": "minecraft:swift_sneak" }
     ]
 }

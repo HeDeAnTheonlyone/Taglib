@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     { "required": false, "id": "minecraft:black_candle" },
     { "required": false, "id": "minecraft:blue_candle" },
