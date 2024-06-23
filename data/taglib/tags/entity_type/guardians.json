@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:guardian" },
+        { "required": false, "id": "minecraft:elder_guardian" }
+    ]
+}

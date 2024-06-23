@@ -1,0 +1,109 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:barrel"
+		},
+		{
+			"required": false,
+			"id": "minecraft:hopper"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dropper"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dispenser"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:black_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blue_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brown_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cyan_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gray_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:green_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_blue_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_gray_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lime_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magenta_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:orange_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pink_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:purple_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:red_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:white_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:yellow_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:furnace"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blast_furnace"
+		},
+		{
+			"required": false,
+			"id": "minecraft:smoker"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trapped_chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chest"
+		}
+	]
+}

@@ -1,10 +1,45 @@
 {
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:daylight_detector" },
-        { "required": false, "id": "minecraft:lightning_rod" },
-        { "required": false, "id": "minecraft:observer" },
-        { "required": false, "id": "minecraft:detector_rail" },
-        { "required": false, "id": "#taglib:redstone_stuff/manual_power_sources" }
-    ]
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:daylight_detector"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lightning_rod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:observer"
+		},
+		{
+			"required": false,
+			"id": "minecraft:detector_rail"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lever"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tripwire_hook"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trapped_chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:target"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:buttons"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:pressure_plates"
+		}
+	]
 }

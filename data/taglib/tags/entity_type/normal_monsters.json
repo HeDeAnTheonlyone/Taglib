@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    { "required": false, "id": "minecraft:zombie" },
+    { "required": false, "id": "minecraft:husk" },
+    { "required": false, "id": "minecraft:skeleton" },
+    { "required": false, "id": "minecraft:stray" },
+    { "required": false, "id": "minecraft:zombie_villager" },
+    { "required": false, "id": "minecraft:creeper" },
+    { "required": false, "id": "minecraft:spider" },
+    { "required": false, "id": "minecraft:blaze" },
+    { "required": false, "id": "minecraft:cave_spider" },
+    { "required": false, "id": "minecraft:drowned" },
+    { "required": false, "id": "minecraft:endermite" },
+    { "required": false, "id": "minecraft:ghast" },
+    { "required": false, "id": "minecraft:hoglin" },
+    { "required": false, "id": "minecraft:magma_cube" },
+    { "required": false, "id": "minecraft:phantom" },
+    { "required": false, "id": "minecraft:piglin" },
+    { "required": false, "id": "minecraft:pillager" },
+    { "required": false, "id": "minecraft:shulker" },
+    { "required": false, "id": "minecraft:silverfish" },
+    { "required": false, "id": "minecraft:slime" },
+    { "required": false, "id": "minecraft:vex" },
+    { "required": false, "id": "minecraft:vindicator" },
+    { "required": false, "id": "minecraft:wither_skeleton" },
+    { "required": false, "id": "minecraft:zoglin" },
+    { "required": false, "id": "minecraft:zombified_piglin" },
+    { "required": false, "id": "minecraft:witch" }
+  ]
+}

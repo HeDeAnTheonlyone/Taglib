@@ -1,0 +1,89 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:totem_of_undying"
+		},
+		{
+			"required": false,
+			"id": "minecraft:elytra"
+		},
+		{
+			"required": false,
+			"id": "minecraft:enchanted_book"
+		},
+		{
+			"required": false,
+			"id": "minecraft:writable_book"
+		},
+		{
+			"required": false,
+			"id": "minecraft:goat_horn"
+		},
+		{
+			"required": false,
+			"id": "minecraft:globe_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:skull_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:flower_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mojang_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:piglin_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:creeper_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:flow_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:guster_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_creator_music_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_creator"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_precipice"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_otherside"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_relic"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_5"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_pigstep"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:creeper_drop_music_discs"
+		}
+	]
+}

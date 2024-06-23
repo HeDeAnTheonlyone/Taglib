@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:shield" },
-        { "required": false, "id": "#taglib:weapons/melee_weapons" },
-        { "required": false, "id": "#taglib:weapons/ranged_weapons" }
-    ]
-}

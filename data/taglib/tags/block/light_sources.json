@@ -1,7 +1,205 @@
 {
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:always_on_light_sources" },
-        { "required": false, "id": "#taglib:on_off_light_sources" }
-    ]
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:conduit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glowstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:jack_o_lantern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sea_lantern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lava_cauldron"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beacon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sea_pickle"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shroomlight"
+		},
+		{
+			"required": false,
+			"id": "minecraft:end_rod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crying_obsidian"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ender_chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_lichen"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brown_mushroom"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brewing_stand"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dragon_egg"
+		},
+		{
+			"required": false,
+			"id": "minecraft:end_portal_frame"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:portals"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ochre_froglight"
+		},
+		{
+			"required": false,
+			"id": "minecraft:verdant_froglight"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pearlescent_froglight"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lantern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_lantern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wall_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_wall_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:redstone_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:redstone_wall_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:small_amethyst_bud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:medium_amethyst_bud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:large_amethyst_bud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:amethyst_cluster"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magma_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lava"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:fire"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light"
+		},
+		{
+			"required": false,
+			"id": "minecraft:redstone_lamp"
+		},
+		{
+			"required": false,
+			"id": "minecraft:respawn_anchor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cave_vines"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cave_vines_plant"
+		},
+		{
+			"required": false,
+			"id": "minecraft:furnace"
+		},
+		{
+			"required": false,
+			"id": "minecraft:smoker"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blast_furnace"
+		},
+		{
+			"required": false,
+			"id": "minecraft:candle"
+		},
+		{
+			"required": false,
+			"id": "minecraft:candle_cake"
+		},
+		{
+			"required": false,
+			"id": "minecraft:redstone_ore"
+		},
+		{
+			"required": false,
+			"id": "minecraft:repeater"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sculk_sensor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:copper_bulb"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:campfires"
+		}
+	]
 }

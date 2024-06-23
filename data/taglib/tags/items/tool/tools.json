@@ -1,0 +1,69 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:flint_and_steel"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fishing_rod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spyglass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shears"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bundle"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:pickaxes"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:axes"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:shovels"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:hoes"
+		},
+		{
+			"required": false,
+			"id": "minecraft:carrot_on_a_stick"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_fungus_on_a_stick"
+		},
+		{
+			"required": false,
+			"id": "minecraft:compass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:recovery_compass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:clock"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lead"
+		},
+		{
+			"required": false,
+			"id": "minecraft:name_tag"
+		}
+	]
+}

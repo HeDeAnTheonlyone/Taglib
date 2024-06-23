@@ -1,0 +1,177 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:bread"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mushroom_stew"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beetroot_soup"
+		},
+		{
+			"required": false,
+			"id": "minecraft:rabbit_stew"
+		},
+		{
+			"required": false,
+			"id": "minecraft:suspicious_stew"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cooked_beef"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cooked_chicken"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cooked_mutton"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cooked_porkchop"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cooked_rabbit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:porkchop"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beef"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chicken"
+		},
+		{
+			"required": false,
+			"id": "minecraft:rabbit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mutton"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tropical_fish"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pufferfish"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cooked_cod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cooked_salmon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:salmon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cake"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cookie"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pumpkin_pie"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chorus_fruit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sweet_berries"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_berries"
+		},
+		{
+			"required": false,
+			"id": "minecraft:melon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:melon_slice"
+		},
+		{
+			"required": false,
+			"id": "minecraft:apple"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_apple"
+		},
+		{
+			"required": false,
+			"id": "minecraft:enchanted_golden_apple"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dried_kelp"
+		},
+		{
+			"required": false,
+			"id": "minecraft:carrot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:potato"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beetroot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pumpkin"
+		},
+		{
+			"required": false,
+			"id": "minecraft:milk_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:honey_bottle"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pufferfish"
+		},
+		{
+			"required": false,
+			"id": "minecraft:rotten_flesh"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spider_eye"
+		},
+		{
+			"required": false,
+			"id": "minecraft:poisonous_potato"
+		}
+	]
+}

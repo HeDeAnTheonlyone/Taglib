@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:concrete_powder" },
-        { "required": false, "id": "#taglib:hardened_concrete" }
-    ]
-}

@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:chorus_fruit" },
-        { "required": false, "id": "#taglib:food/berries" },
-        { "required": false, "id": "#taglib:food/apples" }
-    ]
-}

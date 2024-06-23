@@ -1,0 +1,165 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:bat"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bee"
+		},
+		{
+			"required": false,
+			"id": "minecraft:camel"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cat"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chicken"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dolphin"
+		},
+		{
+			"required": false,
+			"id": "minecraft:donkey"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fox"
+		},
+		{
+			"required": false,
+			"id": "minecraft:horse"
+		},
+		{
+			"required": false,
+			"id": "minecraft:llama"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mooshroom"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mule"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ocelot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:panda"
+		},
+		{
+			"required": false,
+			"id": "minecraft:parrot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pig"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polar_bear"
+		},
+		{
+			"required": false,
+			"id": "minecraft:rabbit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sheep"
+		},
+		{
+			"required": false,
+			"id": "minecraft:skeleton_horse"
+		},
+		{
+			"required": false,
+			"id": "minecraft:squid"
+		},
+		{
+			"required": false,
+			"id": "minecraft:strider"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trader_llama"
+		},
+		{
+			"required": false,
+			"id": "minecraft:turtle"
+		},
+		{
+			"required": false,
+			"id": "minecraft:villager"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wandering_trader"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wolf"
+		},
+		{
+			"required": false,
+			"id": "minecraft:zombie_horse"
+		},
+		{
+			"required": false,
+			"id": "minecraft:axolotl"
+		},
+		{
+			"required": false,
+			"id": "minecraft:goat"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_squid"
+		},
+		{
+			"required": false,
+			"id": "minecraft:frog"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tadpole"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sniffer"
+		},
+		{
+			"required": false,
+			"id": "minecraft:armadillo"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:salmon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pufferfish"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tropical_fish"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:iron_golem" },
+        { "required": false, "id": "minecraft:snow_golem" }
+    ]
+}

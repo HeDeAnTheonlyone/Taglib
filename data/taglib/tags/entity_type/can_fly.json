@@ -1,0 +1,77 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:bee"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bat"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blaze"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ender_dragon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:parrot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:phantom"
+		},
+		{
+			"required": false,
+			"id": "minecraft:vex"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wither"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ghast"
+		},
+		{
+			"required": false,
+			"id": "minecraft:allay"
+		},
+		{
+			"required": false,
+			"id": "minecraft:eye_of_ender"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shulker_bullet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wind_charge"
+		},
+		{
+			"required": false,
+			"id": "minecraft:breeze_wind_charge"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:small_fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dragon_fireball"
+		}
+	]
+}

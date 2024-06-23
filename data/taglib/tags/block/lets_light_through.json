@@ -1,81 +1,665 @@
 {
-  "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:light" },
-        { "required": false, "id": "minecraft:structure_void" },
-        { "required": false, "id": "minecraft:cobweb" },
-        { "required": false, "id": "minecraft:dead_bush" },
-        { "required": false, "id": "minecraft:big_dripleaf_stem" },
-        { "required": false, "id": "minecraft:small_dripleaf" },
-        { "required": false, "id": "minecraft:hanging_roots" },
-        { "required": false, "id": "minecraft:kelp_plant" },
-        { "required": false, "id": "minecraft:glow_lichen" },
-        { "required": false, "id": "minecraft:redstone_wire" },
-        { "required": false, "id": "minecraft:repeater" },
-        { "required": false, "id": "minecraft:comparator" },
-        { "required": false, "id": "minecraft:lever" },
-        { "required": false, "id": "minecraft:tripwire_hook" },
-        { "required": false, "id": "minecraft:tripwire" },
-        { "required": false, "id": "minecraft:sculk_vein" },
-        { "required": false, "id": "minecraft:frogspawn" },
-        { "required": false, "id": "minecraft:iron_bars" },
-        { "required": false, "id": "minecraft:chain" },
-        { "required": false, "id": "minecraft:pointed_dripstone" },
-        { "required": false, "id": "minecraft:mangrove_roots" },
-        { "required": false, "id": "minecraft:hanging_roots" },
-        { "required": false, "id": "minecraft:end_rod" },
-        { "required": false, "id": "minecraft:stonecutter" },
-        { "required": false, "id": "minecraft:grindstone" },
-        { "required": false, "id": "minecraft:composter" },
-        { "required": false, "id": "minecraft:enchanting_table" },
-        { "required": false, "id": "minecraft:brewing_stand" },
-        { "required": false, "id": "minecraft:cauldron" },
-        { "required": false, "id": "minecraft:bell" },
-        { "required": false, "id": "minecraft:beacon" },
-        { "required": false, "id": "minecraft:conduit" },
-        { "required": false, "id": "minecraft:lightning_rod" },
-        { "required": false, "id": "minecraft:flower_pot" },
-        { "required": false, "id": "minecraft:decorated_pot" },
-        { "required": false, "id": "minecraft:lectern" },
-        { "required": false, "id": "minecraft:end_portal_frame" },
-        { "required": false, "id": "minecraft:daylight_detector" },
-        { "required": false, "id": "minecraft:hopper" },
-        { "required": false, "id": "minecraft:spawner" },
-        { "required": false, "id": "minecraft:frogspawn" },
-        { "required": false, "id": "#minecraft:wool_carpets" },
-        { "required": false, "id": "#minecraft:signs" },
-        { "required": false, "id": "#minecraft:rails" },
-        { "required": false, "id": "#minecraft:buttons" },
-        { "required": false, "id": "#minecraft:pressure_plates" },
-        { "required": false, "id": "#minecraft:banners" },
-        { "required": false, "id": "#minecraft:saplings" },
-        { "required": false, "id": "#minecraft:crops" },
-        { "required": false, "id": "#minecraft:small_flowers" },
-        { "required": false, "id": "#minecraft:tall_flowers" },
-        { "required": false, "id": "#minecraft:fire" },
-        { "required": false, "id": "#minecraft:trapdoors" },
-        { "required": false, "id": "#minecraft:doors" },
-        { "required": false, "id": "#minecraft:fences" },
-        { "required": false, "id": "#minecraft:fence_gates" },
-        { "required": false, "id": "#minecraft:slabs" },
-        { "required": false, "id": "#minecraft:stairs" },
-        { "required": false, "id": "#minecraft:walls" },
-        { "required": false, "id": "#minecraft:candles" },
-        { "required": false, "id": "#minecraft:beds" },
-        { "required": false, "id": "#minecraft:leaves" },
-        { "required": false, "id": "#minecraft:anvil" },
-        { "required": false, "id": "#taglib:air" },
-        { "required": false, "id": "#taglib:grass" },
-        { "required": false, "id": "#taglib:coral/non_block_corals" },
-        { "required": false, "id": "#taglib:torches" },
-        { "required": false, "id": "#taglib:vines" },
-        { "required": false, "id": "#taglib:fluids" },
-        { "required": false, "id": "#taglib:glass/glass" },
-        { "required": false, "id": "#taglib:amethyst_clusters" },
-        { "required": false, "id": "#taglib:sculk/sculk_sensors" },
-        { "required": false, "id": "#taglib:lanterns" },
-        { "required": false, "id": "#taglib:chests" },
-        { "required": false, "id": "#taglib:portals" },
-        { "required": false, "id": "#taglib:heads" }
-    ]
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:light"
+		},
+		{
+			"required": false,
+			"id": "minecraft:structure_void"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cobweb"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_bush"
+		},
+		{
+			"required": false,
+			"id": "minecraft:big_dripleaf_stem"
+		},
+		{
+			"required": false,
+			"id": "minecraft:small_dripleaf"
+		},
+		{
+			"required": false,
+			"id": "minecraft:hanging_roots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:kelp_plant"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_lichen"
+		},
+		{
+			"required": false,
+			"id": "minecraft:redstone_wire"
+		},
+		{
+			"required": false,
+			"id": "minecraft:repeater"
+		},
+		{
+			"required": false,
+			"id": "minecraft:comparator"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lever"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tripwire_hook"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tripwire"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sculk_vein"
+		},
+		{
+			"required": false,
+			"id": "minecraft:frogspawn"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_bars"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chain"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pointed_dripstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mangrove_roots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:hanging_roots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:end_rod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stonecutter"
+		},
+		{
+			"required": false,
+			"id": "minecraft:grindstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:composter"
+		},
+		{
+			"required": false,
+			"id": "minecraft:enchanting_table"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brewing_stand"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cauldron"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bell"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beacon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:conduit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lightning_rod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:flower_pot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:decorated_pot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lectern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:end_portal_frame"
+		},
+		{
+			"required": false,
+			"id": "minecraft:daylight_detector"
+		},
+		{
+			"required": false,
+			"id": "minecraft:hopper"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spawner"
+		},
+		{
+			"required": false,
+			"id": "minecraft:frogspawn"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:wool_carpets"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:signs"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:rails"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:buttons"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:pressure_plates"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:banners"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:saplings"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:crops"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:small_flowers"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:tall_flowers"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:fire"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:trapdoors"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:doors"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:fences"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:fence_gates"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:slabs"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:stairs"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:walls"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:candles"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:beds"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:leaves"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:anvil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:air"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cave_air"
+		},
+		{
+			"required": false,
+			"id": "minecraft:void_air"
+		},
+		{
+			"required": false,
+			"id": "minecraft:anvil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chipped_anvil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:damaged_anvil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:short_grass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tall_grass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:seagrass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tall_seagrass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:large_fern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_sprouts"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crimson_roots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_roots"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:corals"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brain_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bubble_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fire_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:horn_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tube_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_brain_coral"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_bubble_coral"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_fire_coral"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_horn_coral"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_tube_coral"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_brain_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_bubble_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_fire_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_horn_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_tube_coral_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_brain_coral_wall_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_bubble_coral_wall_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_fire_coral_wall_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_horn_coral_wall_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dead_tube_coral_wall_fan"
+		},
+		{
+			"required": false,
+			"id": "minecraft:torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wall_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_wall_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:redstone_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:redstone_wall_torch"
+		},
+		{
+			"required": false,
+			"id": "minecraft:vine"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:cave_vines"
+		},
+		{
+			"required": false,
+			"id": "minecraft:weeping_vines"
+		},
+		{
+			"required": false,
+			"id": "minecraft:weeping_vines_plant"
+		},
+		{
+			"required": false,
+			"id": "minecraft:twisting_vines"
+		},
+		{
+			"required": false,
+			"id": "minecraft:twisting_vines_plant"
+		},
+		{
+			"required": false,
+			"id": "minecraft:water"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lava"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:red_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blue_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cyan_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lime_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pink_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gray_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:black_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brown_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:white_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:green_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:orange_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:purple_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:yellow_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magenta_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_gray_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_blue_stained_glass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:red_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blue_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cyan_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lime_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pink_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gray_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:black_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brown_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:white_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:green_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:orange_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:purple_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:yellow_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magenta_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_gray_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_blue_stained_glass_pane"
+		},
+		{
+			"required": false,
+			"id": "minecraft:small_amethyst_bud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:medium_amethyst_bud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:large_amethyst_bud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:amethyst_cluster"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sculk_sensor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:calibrated_sculk_sensor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lantern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_lantern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trapped_chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ender_chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:player_head"
+		},
+		{
+			"required": false,
+			"id": "minecraft:skeleton_skull"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wither_skeleton_skull"
+		},
+		{
+			"required": false,
+			"id": "minecraft:zombie_head"
+		},
+		{
+			"required": false,
+			"id": "minecraft:creeper_head"
+		},
+		{
+			"required": false,
+			"id": "minecraft:piglin_head"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dragon_head"
+		}
+	]
 }

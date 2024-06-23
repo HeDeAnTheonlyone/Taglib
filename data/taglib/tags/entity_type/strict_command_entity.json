@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:block_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:text_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:item_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:marker"
+		},
+		{
+			"required": false,
+			"id": "minecraft:interaction"
+		},
+		{
+			"required": false,
+			"id": "minecraft:block_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:text_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:item_display"
+		}
+	]
+}

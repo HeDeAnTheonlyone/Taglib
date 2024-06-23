@@ -1,7 +1,41 @@
 {
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:air" },
-        { "required": false, "id": "#taglib:invisible_touchable_blocks" }
-    ]
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:air"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cave_air"
+		},
+		{
+			"required": false,
+			"id": "minecraft:void_air"
+		},
+		{
+			"required": false,
+			"id": "minecraft:anvil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chipped_anvil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:damaged_anvil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light"
+		},
+		{
+			"required": false,
+			"id": "minecraft:structure_void"
+		},
+		{
+			"required": false,
+			"id": "minecraft:barrier"
+		}
+	]
 }

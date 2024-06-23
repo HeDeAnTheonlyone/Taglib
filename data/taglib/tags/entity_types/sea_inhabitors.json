@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:turtle" },
-        { "required": false, "id": "minecraft:drowned" },
-        { "required": false, "id": "#taglib:guardians" },
-        { "required": false, "id": "#taglib:water_only_mobs" }
-    ]
-}

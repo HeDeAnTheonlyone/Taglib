@@ -1,0 +1,45 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:camel"
+		},
+		{
+			"required": false,
+			"id": "minecraft:llama"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pig"
+		},
+		{
+			"required": false,
+			"id": "minecraft:strider"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trader_llama"
+		},
+		{
+			"required": false,
+			"id": "minecraft:horse"
+		},
+		{
+			"required": false,
+			"id": "minecraft:donkey"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mule"
+		},
+		{
+			"required": false,
+			"id": "minecraft:zombie_horse"
+		},
+		{
+			"required": false,
+			"id": "minecraft:skeleton_horse"
+		}
+	]
+}

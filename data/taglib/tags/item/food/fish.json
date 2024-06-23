@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:tropical_fish" },
-        { "required": false, "id": "minecraft:pufferfish" },
-        { "required": false, "id": "#taglib:food/cooked_fish" },
-        { "required": false, "id": "#taglib:food/uncooked_fish" }
-    ]
-}

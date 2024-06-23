@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:animate_vehicles"},
-        { "required": false, "id": "#taglib:inanimate_vehicles"}
-    ]
-}

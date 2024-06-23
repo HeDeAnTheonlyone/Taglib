@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#minecraft:corals" },
-        { "required": false, "id": "#taglib:coral/coral_fans" },
-        { "required": false, "id": "#taglib:coral/dead_non_block_corals" }
-    ]
-}

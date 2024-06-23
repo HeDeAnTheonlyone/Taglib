@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:eye_of_ender"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shulker_bullet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wind_charge"
+		},
+		{
+			"required": false,
+			"id": "minecraft:breeze_wind_charge"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:small_fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dragon_fireball"
+		}
+	]
+}

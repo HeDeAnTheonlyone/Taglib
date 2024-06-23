@@ -1,0 +1,41 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:armor_stand"
+		},
+		{
+			"required": false,
+			"id": "minecraft:marker"
+		},
+		{
+			"required": false,
+			"id": "minecraft:area_effect_cloud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:item_frame"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_item_frame"
+		},
+		{
+			"required": false,
+			"id": "minecraft:interaction"
+		},
+		{
+			"required": false,
+			"id": "minecraft:block_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:text_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:item_display"
+		}
+	]
+}

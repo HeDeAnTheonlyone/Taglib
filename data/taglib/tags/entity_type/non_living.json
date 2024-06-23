@@ -1,0 +1,181 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:arrow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:painting"
+		},
+		{
+			"required": false,
+			"id": "minecraft:experience_orb"
+		},
+		{
+			"required": false,
+			"id": "minecraft:eye_of_ender"
+		},
+		{
+			"required": false,
+			"id": "minecraft:falling_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:firework_rocket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:item"
+		},
+		{
+			"required": false,
+			"id": "minecraft:potion"
+		},
+		{
+			"required": false,
+			"id": "minecraft:small_fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:snowball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tnt"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trident"
+		},
+		{
+			"required": false,
+			"id": "minecraft:minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tnt_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:command_block_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chest_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:hopper_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:furnace_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spawner_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:boat"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chest_boat"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dragon_fireball"
+		},
+		{
+			"required": false,
+			"id": "minecraft:egg"
+		},
+		{
+			"required": false,
+			"id": "minecraft:end_crystal"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ender_pearl"
+		},
+		{
+			"required": false,
+			"id": "minecraft:evoker_fangs"
+		},
+		{
+			"required": false,
+			"id": "minecraft:experience_bottle"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fishing_bobber"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leash_knot"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lightning_bolt"
+		},
+		{
+			"required": false,
+			"id": "minecraft:llama_spit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shulker_bullet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spectral_arrow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wither_skull"
+		},
+		{
+			"required": false,
+			"id": "minecraft:armor_stand"
+		},
+		{
+			"required": false,
+			"id": "minecraft:marker"
+		},
+		{
+			"required": false,
+			"id": "minecraft:area_effect_cloud"
+		},
+		{
+			"required": false,
+			"id": "minecraft:item_frame"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_item_frame"
+		},
+		{
+			"required": false,
+			"id": "minecraft:interaction"
+		},
+		{
+			"required": false,
+			"id": "minecraft:block_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:text_display"
+		},
+		{
+			"required": false,
+			"id": "minecraft:item_display"
+		}
+	]
+}

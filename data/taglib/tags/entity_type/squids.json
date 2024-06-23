@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:squid" },
+        { "required": false, "id": "minecraft:glow_squid" }
+    ]
+}

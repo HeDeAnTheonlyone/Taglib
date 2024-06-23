@@ -1,14 +1,73 @@
 {
-  "replace": false,
-  "values": [
-    { "required": false, "id": "minecraft:stripped_bamboo_block" },
-    { "required": false, "id": "#taglib:stripped_acacia_logs" },
-    { "required": false, "id": "#taglib:stripped_birch_logs" },
-    { "required": false, "id": "#taglib:stripped_cherry_logs" },
-    { "required": false, "id": "#taglib:stripped_dark_oak_logs" },
-    { "required": false, "id": "#taglib:stripped_jungle_logs" },
-    { "required": false, "id": "#taglib:stripped_mangrove_logs" },
-    { "required": false, "id": "#taglib:stripped_oak_logs" },
-    { "required": false, "id": "#taglib:stripped_spruce_logs" }
-  ]
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:stripped_bamboo_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_acacia_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_acacia_wood"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_birch_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_birch_wood"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_cherry_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_cherry_wood"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_dark_oak_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_dark_oak_wood"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_jungle_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_jungle_wood"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_mangrove_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_mangrove_wood"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_oak_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_oak_wood"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_spruce_log"
+		},
+		{
+			"required": false,
+			"id": "minecraft:stripped_spruce_wood"
+		}
+	]
 }

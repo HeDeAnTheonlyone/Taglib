@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    { "required": false, "id": "minecraft:evoker" },
+    { "required": false, "id": "minecraft:ravager" },
+    { "required": false, "id": "minecraft:piglin_brute" },
+    { "required": false, "id": "minecraft:iron_golem" },
+    { "required": false, "id": "minecraft:illusioner" },
+    { "required": false, "id": "minecraft:guardian" },
+    { "required": false, "id": "minecraft:giant" },
+    { "required": false, "id": "minecraft:enderman" },
+    { "required": false, "id": "minecraft:elder_guardian" },
+    { "required": false, "id": "minecraft:warden" }
+  ]
+}

@@ -1,7 +1,197 @@
 {
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:immovable" },
-        { "required": false, "id": "#taglib:glazed_terracotta" }
-    ]
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:conduit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dropper"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dispenser"
+		},
+		{
+			"required": false,
+			"id": "minecraft:daylight_detector"
+		},
+		{
+			"required": false,
+			"id": "minecraft:hopper"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bedrock"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beacon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:barrel"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bee_nest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beehive"
+		},
+		{
+			"required": false,
+			"id": "minecraft:grindstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lodestone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lectern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:respawn_anchor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:enchanting_table"
+		},
+		{
+			"required": false,
+			"id": "minecraft:reinforced_deepslate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:end_portal_frame"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spawner"
+		},
+		{
+			"required": false,
+			"id": "minecraft:barrier"
+		},
+		{
+			"required": false,
+			"id": "minecraft:jigsaw"
+		},
+		{
+			"required": false,
+			"id": "minecraft:structure_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trapped_chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ender_chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:furnace"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blast_furnace"
+		},
+		{
+			"required": false,
+			"id": "minecraft:smoker"
+		},
+		{
+			"required": false,
+			"id": "minecraft:command_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chain_command_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:repeating_command_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:obsidian"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crying_obsidian"
+		},
+		{
+			"required": false,
+			"id": "minecraft:white_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:orange_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magenta_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_blue_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:yellow_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lime_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pink_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gray_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_gray_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cyan_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:purple_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blue_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brown_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:green_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:red_glazed_terracotta"
+		},
+		{
+			"required": false,
+			"id": "minecraft:black_glazed_terracotta"
+		}
+	]
 }

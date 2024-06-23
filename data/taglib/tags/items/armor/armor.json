@@ -1,0 +1,125 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:wolf_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:turtle_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_horse_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_horse_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_horse_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_horse_armor"
+		}
+	]
+}

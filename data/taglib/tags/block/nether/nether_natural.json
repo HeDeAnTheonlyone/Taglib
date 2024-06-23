@@ -1,50 +1,237 @@
 {
 	"replace": false,
 	"values": [
-		{ "required": false, "id": "minecraft:air"},
-		{ "required": false, "id": "minecraft:ancient_debris"},
-		{ "required": false, "id": "minecraft:basalt"},
-		{ "required": false, "id": "minecraft:bedrock"},
-		{ "required": false, "id": "minecraft:glowstone"},
-		{ "required": false, "id": "minecraft:gravel"},
-		{ "required": false, "id": "minecraft:lava"},
-		{ "required": false, "id": "minecraft:magma_block"},
-		{ "required": false, "id": "minecraft:netherrack"},
-		{ "required": false, "id": "minecraft:shroomlight"},
-		{ "required": false, "id": "minecraft:crimson_stem"},
-		{ "required": false, "id": "minecraft:warped_stem"},
-		{ "required": false, "id": "minecraft:polished_basalt"},
-		{ "required": false, "id": "minecraft:blackstone"},
-		{ "required": false, "id": "minecraft:blackstone_stairs"},
-		{ "required": false, "id": "minecraft:blackstone_wall"},
-		{ "required": false, "id": "minecraft:gilded_blackstone"},
-		{ "required": false, "id": "minecraft:polished_blackstone"},
-		{ "required": false, "id": "minecraft:polished_blackstone_slab"},
-		{ "required": false, "id": "minecraft:polished_blackstone_stairs"},
-		{ "required": false, "id": "minecraft:polished_blackstone_bricks"},
-		{ "required": false, "id": "minecraft:polished_blackstone_brick_slab"},
-		{ "required": false, "id": "minecraft:polished_blackstone_brick_stairs"},
-		{ "required": false, "id": "minecraft:polished_blackstone_brick_wall"},
-		{ "required": false, "id": "minecraft:cracked_polished_blackstone_bricks"},
-		{ "required": false, "id": "minecraft:chiseled_polished_blackstone"},
-		{ "required": false, "id": "minecraft:bone_block"},
-		{ "required": false, "id": "minecraft:gold_block"},
-		{ "required": false, "id": "minecraft:chain"},
-		{ "required": false, "id": "minecraft:chest"},
-		{ "required": false, "id": "minecraft:lantern"},
-		{ "required": false, "id": "minecraft:spawner"},
-		{ "required": false, "id": "minecraft:nether_bricks"},
-		{ "required": false, "id": "minecraft:nether_brick_fence"},
-		{ "required": false, "id": "minecraft:nether_brick_stairs"},
-		{ "required": false, "id": "minecraft:quartz_block"},
-		{ "required": false, "id": "minecraft:smooth_quartz"},
-		{ "required": false, "id": "minecraft:smooth_quartz_slab"},
-		{ "required": false, "id": "#minecraft:fire"},
-		{ "required": false, "id": "#minecraft:wart_blocks"},
-		{ "required": false, "id": "#taglib:obsidian"},
-		{ "required": false, "id": "#taglib:nether/soul_blocks"},
-		{ "required": false, "id": "#taglib:nether/nylium"},
-		{ "required": false, "id": "#taglib:nether/nether_ores"},
-		{ "required": false, "id": "#taglib:nether/nether_plants"}
+		{
+			"required": false,
+			"id": "minecraft:air"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ancient_debris"
+		},
+		{
+			"required": false,
+			"id": "minecraft:basalt"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bedrock"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glowstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gravel"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lava"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magma_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherrack"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shroomlight"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crimson_stem"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_stem"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_basalt"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blackstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blackstone_stairs"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blackstone_wall"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gilded_blackstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_blackstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_blackstone_slab"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_blackstone_stairs"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_blackstone_bricks"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_blackstone_brick_slab"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_blackstone_brick_stairs"
+		},
+		{
+			"required": false,
+			"id": "minecraft:polished_blackstone_brick_wall"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cracked_polished_blackstone_bricks"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chiseled_polished_blackstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bone_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gold_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chain"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chest"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lantern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spawner"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_bricks"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_brick_fence"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_brick_stairs"
+		},
+		{
+			"required": false,
+			"id": "minecraft:quartz_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:smooth_quartz"
+		},
+		{
+			"required": false,
+			"id": "minecraft:smooth_quartz_slab"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:fire"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:wart_blocks"
+		},
+		{
+			"required": false,
+			"id": "minecraft:obsidian"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crying_obsidian"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_sand"
+		},
+		{
+			"required": false,
+			"id": "minecraft:soul_soil"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crimson_nylium"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_nylium"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_gold_ore"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_quartz_ore"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_wart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crimson_fungus"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_fungus"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_sprouts"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crimson_roots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_roots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:weeping_vines"
+		},
+		{
+			"required": false,
+			"id": "minecraft:weeping_vines_plant"
+		},
+		{
+			"required": false,
+			"id": "minecraft:twisting_vines"
+		},
+		{
+			"required": false,
+			"id": "minecraft:twisting_vines_plant"
+		}
 	]
 }

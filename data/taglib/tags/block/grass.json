@@ -1,7 +1,41 @@
 {
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:overworld_grass" },
-        { "required": false, "id": "#taglib:nether/nether_grass" }
-    ]
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:short_grass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tall_grass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:seagrass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tall_seagrass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:large_fern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:nether_sprouts"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crimson_roots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_roots"
+		}
+	]
 }

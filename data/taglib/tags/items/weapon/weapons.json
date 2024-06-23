@@ -1,0 +1,33 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:shield"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trident"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mace"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:swords"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crossbow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trident"
+		}
+	]
+}

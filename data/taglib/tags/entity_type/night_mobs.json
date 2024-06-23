@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    { "required": false, "id": "minecraft:zombie" },
+    { "required": false, "id": "minecraft:husk" },
+    { "required": false, "id": "minecraft:skeleton" },
+    { "required": false, "id": "minecraft:bogged" },
+    { "required": false, "id": "minecraft:stray" },
+    { "required": false, "id": "minecraft:zombie_villager" },
+    { "required": false, "id": "minecraft:creeper" },
+    { "required": false, "id": "minecraft:spider" },
+    { "required": false, "id": "minecraft:enderman" },
+    { "required": false, "id": "minecraft:phantom" },
+    { "required": false, "id": "minecraft:witch" }
+  ]
+}

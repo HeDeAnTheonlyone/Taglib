@@ -1,0 +1,29 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:zombie_horse"
+		},
+		{
+			"required": false,
+			"id": "minecraft:zombified_piglin"
+		},
+		{
+			"required": false,
+			"id": "minecraft:zombie"
+		},
+		{
+			"required": false,
+			"id": "minecraft:drowned"
+		},
+		{
+			"required": false,
+			"id": "minecraft:husk"
+		},
+		{
+			"required": false,
+			"id": "minecraft:zombie_villager"
+		}
+	]
+}

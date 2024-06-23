@@ -1,0 +1,461 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "#minecraft:beds"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:boats"
+		},
+		{
+			"required": false,
+			"id": "minecraft:wolf_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:turtle_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chainmail_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_helmet"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_chestplate"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_leggings"
+		},
+		{
+			"required": false,
+			"id": "minecraft:netherite_boots"
+		},
+		{
+			"required": false,
+			"id": "minecraft:leather_horse_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_horse_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:iron_horse_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:diamond_horse_armor"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shield"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trident"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mace"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:swords"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:crossbow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:trident"
+		},
+		{
+			"required": false,
+			"id": "minecraft:water_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lava_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:milk_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:powder_snow_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:axolotl_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tadpole_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cod_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:salmon_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tropical_fish_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pufferfish_bucket"
+		},
+		{
+			"required": false,
+			"id": "minecraft:potion"
+		},
+		{
+			"required": false,
+			"id": "minecraft:splash_potion"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lingering_potion"
+		},
+		{
+			"required": false,
+			"id": "minecraft:ominous_bottle"
+		},
+		{
+			"required": false,
+			"id": "minecraft:minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tnt_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:furnace_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:hopper_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:chest_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:command_block_minecart"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:black_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:blue_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:brown_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cyan_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:gray_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:green_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_blue_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:light_gray_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lime_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magenta_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:orange_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pink_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:purple_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:red_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:white_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:yellow_shulker_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:debug_stick"
+		},
+		{
+			"required": false,
+			"id": "minecraft:flint_and_steel"
+		},
+		{
+			"required": false,
+			"id": "minecraft:fishing_rod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:spyglass"
+		},
+		{
+			"required": false,
+			"id": "minecraft:shears"
+		},
+		{
+			"required": false,
+			"id": "minecraft:bundle"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:pickaxes"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:axes"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:shovels"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:hoes"
+		},
+		{
+			"required": false,
+			"id": "minecraft:carrot_on_a_stick"
+		},
+		{
+			"required": false,
+			"id": "minecraft:warped_fungus_on_a_stick"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mushroom_stew"
+		},
+		{
+			"required": false,
+			"id": "minecraft:beetroot_soup"
+		},
+		{
+			"required": false,
+			"id": "minecraft:rabbit_stew"
+		},
+		{
+			"required": false,
+			"id": "minecraft:suspicious_stew"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cake"
+		},
+		{
+			"required": false,
+			"id": "minecraft:totem_of_undying"
+		},
+		{
+			"required": false,
+			"id": "minecraft:elytra"
+		},
+		{
+			"required": false,
+			"id": "minecraft:enchanted_book"
+		},
+		{
+			"required": false,
+			"id": "minecraft:writable_book"
+		},
+		{
+			"required": false,
+			"id": "minecraft:goat_horn"
+		},
+		{
+			"required": false,
+			"id": "minecraft:globe_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:skull_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:flower_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:mojang_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:piglin_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:creeper_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:flow_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:guster_banner_pattern"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_creator_music_box"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_creator"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_precipice"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_otherside"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_relic"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_5"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_pigstep"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:creeper_drop_music_discs"
+		}
+	]
+}

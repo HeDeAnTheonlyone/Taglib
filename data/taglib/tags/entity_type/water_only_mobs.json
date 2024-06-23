@@ -1,0 +1,41 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:axolotl"
+		},
+		{
+			"required": false,
+			"id": "minecraft:dolphin"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tadpole"
+		},
+		{
+			"required": false,
+			"id": "minecraft:squid"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_squid"
+		},
+		{
+			"required": false,
+			"id": "minecraft:cod"
+		},
+		{
+			"required": false,
+			"id": "minecraft:salmon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pufferfish"
+		},
+		{
+			"required": false,
+			"id": "minecraft:tropical_fish"
+		}
+	]
+}

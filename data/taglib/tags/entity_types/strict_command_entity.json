@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "#taglib:display_entity" },
-        { "required": false, "id": "#taglib:markerlike" }
-    ]
-  }

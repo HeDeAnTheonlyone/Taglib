@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:villager" },
+        { "required": false, "id": "minecraft:wandering_trader" },
+        { "required": false, "id": "minecraft:piglin" }
+    ]
+}

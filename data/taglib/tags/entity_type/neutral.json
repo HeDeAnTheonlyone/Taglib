@@ -1,0 +1,19 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:wolf" },
+        { "required": false, "id": "minecraft:iron_golem" },
+        { "required": false, "id": "minecraft:spider" },
+        { "required": false, "id": "minecraft:cave_spider" },
+        { "required": false, "id": "minecraft:llama" },
+        { "required": false, "id": "minecraft:trader_llama" },
+        { "required": false, "id": "minecraft:enderman" },
+        { "required": false, "id": "minecraft:dolphin" },
+        { "required": false, "id": "minecraft:bee" },
+        { "required": false, "id": "minecraft:goat" },
+        { "required": false, "id": "minecraft:panda" },
+        { "required": false, "id": "minecraft:piglin" },
+        { "required": false, "id": "minecraft:zombified_piglin" },
+        { "required": false, "id": "minecraft:polar_bear" }
+    ]
+}

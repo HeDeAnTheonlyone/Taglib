@@ -1,0 +1,37 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:chorus_fruit"
+		},
+		{
+			"required": false,
+			"id": "minecraft:sweet_berries"
+		},
+		{
+			"required": false,
+			"id": "minecraft:glow_berries"
+		},
+		{
+			"required": false,
+			"id": "minecraft:melon"
+		},
+		{
+			"required": false,
+			"id": "minecraft:melon_slice"
+		},
+		{
+			"required": false,
+			"id": "minecraft:apple"
+		},
+		{
+			"required": false,
+			"id": "minecraft:golden_apple"
+		},
+		{
+			"required": false,
+			"id": "minecraft:enchanted_golden_apple"
+		}
+	]
+}
