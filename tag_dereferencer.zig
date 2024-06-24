@@ -139,22 +139,19 @@ fn processTag(allocator: Allocator, tag: File, status: *Status, is_reference: bo
     if (!is_reference) status.files += 1;
     const dereference_count = status.dereferences;
 
-    // For testing only
-    // if (status.files == 5) return error.JustStop ; //TEMP
-    
-    std.debug.print("\ncurrent file: {s}\n", .{status.current_tag_name});
+    // if (status.files == 2) return error.JustStop; //DEBUG
+    // std.debug.print("\ncurrent file: {s}\n", .{status.current_tag_name}); //DEBUG
 
     const content = try tag.readToEndAlloc(allocator, 1024 * 1024);
     defer allocator.free(content);
     var content_json = try std.json.parseFromSlice(Tag, allocator, content, .{});
-    // defer content_json.deinit();
     try status.tags_stack.append(&content_json);
 
     var idList = ArrayList(Id).init(allocator);
     //TODO deinit
 
     for (content_json.value.values) |entry| {
-        std.debug.print("entry: {s}\n", .{entry.id}); //TEMP
+        // std.debug.print("entry: {s}\n", .{entry.id}); //DEBUG
 
         if (std.mem.startsWith(u8, entry.id, "#taglib")) {
             status.dereferences += 1;
@@ -164,14 +161,19 @@ fn processTag(allocator: Allocator, tag: File, status: *Status, is_reference: bo
 
             const ref_ids = (try processTag(allocator, tag_ref, status, true)).?;
             defer ref_ids.deinit();
-            for (ref_ids.items) |ref_entry| {
-                try idList.append(ref_entry);
+            
+            // prevent duplicate entries
+            outer: for (ref_ids.items) |ref_id| {
+                for (idList.items) |id| {
+                    if (std.mem.eql(u8, ref_id.id, id.id)) continue :outer;
+                }
+                else try idList.append(ref_id);
             }
         }
         else try idList.append(entry);
     }
 
-    std.debug.print("\n dereference: {d} - {d}\n", .{status.dereferences, dereference_count}); //TEMP
+    // std.debug.print("\n dereference: {d} - {d}\n", .{status.dereferences, dereference_count}); //DEBUG
 
     if (status.dereferences != dereference_count) {
         content_json.value.values = idList.items;
