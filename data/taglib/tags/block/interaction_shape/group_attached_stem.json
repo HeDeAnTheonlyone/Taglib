@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "required": false, "id": "minecraft:attached_melon_stem" },
-    { "required": false, "id": "minecraft:attached_pumpkin_stem" }
-  ]
-}

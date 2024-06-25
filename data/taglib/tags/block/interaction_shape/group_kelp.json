@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "required": false, "id": "minecraft:kelp" },
-    { "required": false, "id": "minecraft:stonecutter" }
-  ]
-}

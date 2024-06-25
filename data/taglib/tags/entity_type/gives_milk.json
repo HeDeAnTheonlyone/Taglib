@@ -1,7 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:cow" },
-        { "required": false, "id": "minecraft:goat" }
-    ]
-}

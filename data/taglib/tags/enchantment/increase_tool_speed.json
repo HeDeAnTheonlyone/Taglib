@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:efficiency" },
-        { "required": false, "id": "minecraft:lure" },
-        { "required": false, "id": "minecraft:quick_charge" }
-    ]
-}

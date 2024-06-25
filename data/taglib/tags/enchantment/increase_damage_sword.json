@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:sharpness" },
-        { "required": false, "id": "minecraft:smite" },
-        { "required": false, "id": "minecraft:bane_of_arthropods" }
-    ]
-}

@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "required": false, "id": "minecraft:stripped_mangrove_log" },
-    { "required": false, "id": "minecraft:stripped_mangrove_wood" }
-  ]
-}

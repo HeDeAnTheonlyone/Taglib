@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "required": false, "id": "minecraft:azalea" },
-    { "required": false, "id": "minecraft:flowering_azalea" }
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    { "required": false, "id": "minecraft:comparator" },
-    { "required": false, "id": "minecraft:repeater" }
-  ]
-}

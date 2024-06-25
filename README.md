@@ -1,20 +1,5 @@
-# Taglib
-A tags library for Minecraft data packs
+# Taglib Tools
+Here are all the tools for taglib and working with tags in general.
 
-You can use this library in every version but some tags might be incomplete.<br>
-Tags are fully complete up to version: `1.21`
-
-https://www.planetminecraft.com/data-pack/taglib/<br>
-https://modrinth.com/datapack/taglib
-
-Taglib is, as the name already said, a tags library.
-
-It currently `adds 450` new blocks, entity, item, and biome tags for you to use.
-With this library, you're prepared for everything you possibly wanna do in your data packs.
-
-I always add new tags to hopefully make it the biggest and best tags library to ever exist
-and to eventually cover everything you could potentially need.
-
-If you want to add some tags yourself, you can use references to other tags to make it easier to write them and then at the end run the `tag_dereferencer` to automatically convert tag references to the actual entries in that tag. The executable has to be in the root directory of Taglib to work.
-
-If you consider using this library in your data pack please mention this pack.
+- <ins>**Tag dereferencer**</ins><br>
+    This tool simplifies to create easy to work with tags by dereferencing all tag references. It replaces the reference with the entries in the referenced tag.

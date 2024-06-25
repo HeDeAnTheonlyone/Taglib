@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:boat"},
-        { "required": false, "id": "minecraft:chest_boat"},
-        { "required": false, "id": "minecraft:minecart"}
-    ]
-}
