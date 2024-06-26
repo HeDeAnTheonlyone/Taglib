@@ -60,6 +60,7 @@ pub fn main() !void {
         .tags_dir = tags_dir,
         .tags_stack = ArrayList(*Parsed(Tag)).init(allocator)
     };
+    defer status.tags_stack.deinit();
 
     var dir_iter = tags_dir.iterate();
 
@@ -85,7 +86,7 @@ pub fn main() !void {
     try ioOut.writeAll(msg);
     allocator.free(msg);
 
-    status.tags_stack.deinit();
+    while (true) {}
 }
 
 
