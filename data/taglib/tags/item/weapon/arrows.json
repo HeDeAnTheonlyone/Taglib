@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:arrow" },
+        { "required": false, "id": "minecraft:spectral_arrow" },
+        { "required": false, "id": "minecraft:tipped_arrow" }
+    ]
+}

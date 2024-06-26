@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:creeper" },
+        { "required": false, "id": "minecraft:tnt" },
+        { "required": false, "id": "minecraft:tnt_minecart" },
+        { "required": false, "id": "minecraft:end_crystal" },
+        { "required": false, "id": "minecraft:fireball" }
+    ]
+}

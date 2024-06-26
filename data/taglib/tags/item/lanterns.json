@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:lantern" },
+        { "required": false, "id": "minecraft:soul_lantern" },
+        { "required": false, "id": "minecraft:sea_lantern" },
+        { "required": false, "id": "minecraft:jack_o_lantern" }
+    ]
+}

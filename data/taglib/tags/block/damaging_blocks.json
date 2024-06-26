@@ -1,0 +1,41 @@
+{
+	"replace": false,
+	"values": [
+		{
+			"required": false,
+			"id": "minecraft:cactus"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pointed_dripstone"
+		},
+		{
+			"required": false,
+			"id": "minecraft:whither_rose"
+		},
+		{
+			"required": false,
+			"id": "minecraft:powder_snow"
+		},
+		{
+			"required": false,
+			"id": "minecraft:magma_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lava"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:fire"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:campfires"
+		},
+		{
+			"required": false,
+			"id": "minecraft:lava_cauldron"
+		}
+	]
+}

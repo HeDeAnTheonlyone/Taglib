@@ -3,6 +3,8 @@
     "values": [
         { "required": false, "id": "minecraft:magma_block" },
         { "required": false, "id": "minecraft:lava" },
-        { "required": false, "id": "#minecraft:fire" }
+        { "required": false, "id": "#minecraft:fire" },
+        { "required": false, "id": "#minecraft:campfires" },
+        { "required": false, "id": "minecraft:lava_cauldron" }
     ]
 }

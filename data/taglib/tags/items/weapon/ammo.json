@@ -1,8 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        { "required": false, "id": "minecraft:arrow" },
-        { "required": false, "id": "minecraft:tipped_arrow" },
-        { "required": false, "id": "minecraft:firework_rocket" }
-    ]
-}

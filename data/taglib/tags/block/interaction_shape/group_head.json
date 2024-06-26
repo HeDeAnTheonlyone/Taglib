@@ -6,6 +6,7 @@
     { "required": false, "id": "minecraft:player_head" },
     { "required": false, "id": "minecraft:skeleton_skull" },
     { "required": false, "id": "minecraft:wither_skeleton_skull" },
-    { "required": false, "id": "minecraft:zombie_head" }
+    { "required": false, "id": "minecraft:zombie_head" },
+    { "required": false, "id": "minecraft:heavy_core" }
   ]
 }
