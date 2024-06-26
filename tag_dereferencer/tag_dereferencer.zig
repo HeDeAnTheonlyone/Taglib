@@ -9,6 +9,14 @@ const Parsed = std.json.Parsed;
 
 
 
+pub fn main() !void {
+    try start();
+    
+    std.time.sleep(std.time.ns_per_min * 1);
+}
+
+
+
 const Status = struct {
     tags_dir: Dir = undefined,
     tags_stack: ArrayList(*Parsed(Tag)),
@@ -35,8 +43,9 @@ const Id = struct {
 
 
 
-pub fn main() !void {
+fn start() !void {
     var gpa = std.heap.GeneralPurposeAllocator(.{}){};
+    defer _ = gpa.deinit();
     const allocator = gpa.allocator();
 
     const dp_root = try std.fs.selfExeDirPathAlloc(allocator);
@@ -52,12 +61,14 @@ pub fn main() !void {
     allocator.free(dp_root);
 
     var tags_dir = try std.fs.openDirAbsolute(tags_dir_path, .{ .iterate = true });
+    defer tags_dir.close();
     allocator.free(tags_dir_path);
 
     var status = Status{
         .tags_dir = tags_dir,
         .tags_stack = ArrayList(*Parsed(Tag)).init(allocator)
     };
+    defer status.tags_stack.deinit();
 
     var dir_iter = tags_dir.iterate();
 
@@ -73,7 +84,6 @@ pub fn main() !void {
             else => continue
         }
     }
-    tags_dir.close();
 
     const ioOut = std.io.getStdOut();
     const msg = try std.fmt.allocPrint(
@@ -83,11 +93,6 @@ pub fn main() !void {
     );
     try ioOut.writeAll(msg);
     allocator.free(msg);
-
-    status.tags_stack.deinit();
-    _ = gpa.deinit();
-
-    std.time.sleep(std.time.ns_per_hour * 1);
 }
 
 
