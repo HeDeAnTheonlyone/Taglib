@@ -131,18 +131,6 @@
 		},
 		{
 			"required": false,
-			"id": "minecraft:anvil"
-		},
-		{
-			"required": false,
-			"id": "minecraft:chipped_anvil"
-		},
-		{
-			"required": false,
-			"id": "minecraft:damaged_anvil"
-		},
-		{
-			"required": false,
 			"id": "minecraft:short_grass"
 		},
 		{
