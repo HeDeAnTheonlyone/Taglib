@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:elytra" },
+        { "required": false, "id": "minecraft:leather_chestplate" },
+        { "required": false, "id": "minecraft:chainmail_chestplate" },
+        { "required": false, "id": "minecraft:golden_chestplate" },
+        { "required": false, "id": "minecraft:iron_chestplate" },
+        { "required": false, "id": "minecraft:diamond_chestplate" },
+        { "required": false, "id": "minecraft:netherite_chestplate" }
+    ]
+}

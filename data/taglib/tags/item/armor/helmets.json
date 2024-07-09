@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:turtle_helmet" },
+        { "required": false, "id": "minecraft:leather_helmet" },
+        { "required": false, "id": "minecraft:chainmail_helmet" },
+        { "required": false, "id": "minecraft:golden_helmet" },
+        { "required": false, "id": "minecraft:iron_helmet" },
+        { "required": false, "id": "minecraft:diamond_helmet" },
+        { "required": false, "id": "minecraft:netherite_helmet" }
+    ]
+}
