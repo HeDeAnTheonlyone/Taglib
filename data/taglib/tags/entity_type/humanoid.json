@@ -19,6 +19,14 @@
 		},
 		{
 			"required": false,
+			"id": "minecraft:piglin"
+		},
+		{
+			"required": false,
+			"id": "minecraft:piglin_brute"
+		},
+		{
+			"required": false,
 			"id": "minecraft:skeleton"
 		},
 		{
