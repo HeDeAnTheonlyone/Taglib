@@ -55,10 +55,6 @@
         },
         {
             "required": false,
-            "id": "minecraft:dolphin"
-        },
-        {
-            "required": false,
             "id": "minecraft:donkey"
         },
         {
@@ -111,10 +107,6 @@
         },
         {
             "required": false,
-            "id": "minecraft:squid"
-        },
-        {
-            "required": false,
             "id": "minecraft:strider"
         },
         {
@@ -144,10 +136,6 @@
         {
             "required": false,
             "id": "minecraft:goat"
-        },
-        {
-            "required": false,
-            "id": "minecraft:glow_squid"
         },
         {
             "required": false,
