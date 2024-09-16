@@ -79,6 +79,10 @@
 		},
 		{
 			"required": false,
+			"id": "minecraft:moss_carpet"
+		},
+		{
+			"required": false,
 			"id": "#minecraft:signs"
 		},
 		{
