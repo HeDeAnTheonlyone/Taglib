@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    { "required": false, "id": "minecraft:pale_oak_stairs" },
     { "required": false, "id": "minecraft:acacia_stairs" },
     { "required": false, "id": "minecraft:andesite_stairs" },
     { "required": false, "id": "minecraft:bamboo_mosaic_stairs" },

@@ -24,6 +24,10 @@
 		{
 			"required": false,
 			"id": "minecraft:twisting_vines_plant"
+		},
+		{
+			"required": false,
+			"id": "minecraft:pale_hanging_moss"
 		}
 	]
 }

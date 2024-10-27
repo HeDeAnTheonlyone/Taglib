@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "values": [
+        { "required": false, "id": "minecraft:pale_moss_block" },
+        { "required": false, "id": "minecraft:pale_moss_carpet" },
+        { "required": false, "id": "minecraft:pale_hanging_moss" }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    { "required": false, "id": "minecraft:stripped_pale_oak_log" },
+    { "required": false, "id": "minecraft:stripped_pale_oak_wood" }
+  ]
+}

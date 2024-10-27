@@ -7,6 +7,7 @@
     { "required": false, "id": "minecraft:egg" },
     { "required": false, "id": "minecraft:ender_pearl" },
     { "required": false, "id": "minecraft:armor_stand" },
+    { "required": false, "id": "minecraft:bucket" },
     { "required": false, "id": "#minecraft:banners" },
     { "required": false, "id": "#minecraft:signs" }
   ]

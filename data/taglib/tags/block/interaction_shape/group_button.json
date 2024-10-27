@@ -12,6 +12,7 @@
     { "required": false, "id": "minecraft:polished_blackstone_button" },
     { "required": false, "id": "minecraft:spruce_button" },
     { "required": false, "id": "minecraft:stone_button" },
-    { "required": false, "id": "minecraft:warped_button" }
+    { "required": false, "id": "minecraft:warped_button" },
+    { "required": false, "id": "minecraft:pale_oak_button" }
   ]
 }

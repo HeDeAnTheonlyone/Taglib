@@ -5,3 +5,7 @@
 *.obj
 *.o
 tag_dereferencer/
+tag_dereferencer.zig
+W_tag_dereferencer.exe
+L_tag_dereferencer
+M_tag_dereferencer

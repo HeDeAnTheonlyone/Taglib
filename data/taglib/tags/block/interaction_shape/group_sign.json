@@ -19,6 +19,7 @@
     { "required": false, "id": "minecraft:magenta_banner" },
     { "required": false, "id": "minecraft:mangrove_sign" },
     { "required": false, "id": "minecraft:oak_sign" },
+    { "required": false, "id": "minecraft:pale_oak_sign" },
     { "required": false, "id": "minecraft:orange_banner" },
     { "required": false, "id": "minecraft:pink_banner" },
     { "required": false, "id": "minecraft:purple_banner" },

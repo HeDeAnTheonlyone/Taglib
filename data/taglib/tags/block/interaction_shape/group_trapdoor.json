@@ -11,6 +11,7 @@
     { "required": false, "id": "minecraft:mangrove_trapdoor" },
     { "required": false, "id": "minecraft:oak_trapdoor" },
     { "required": false, "id": "minecraft:spruce_trapdoor" },
-    { "required": false, "id": "minecraft:warped_trapdoor" }
+    { "required": false, "id": "minecraft:warped_trapdoor" },
+    { "required": false, "id": "minecraft:pale_oak_trapdoor" }
   ]
 }

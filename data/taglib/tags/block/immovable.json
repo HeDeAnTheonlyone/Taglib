@@ -128,6 +128,10 @@
 		{
 			"required": false,
 			"id": "minecraft:crying_obsidian"
+		},
+		{
+			"required": false,
+			"id": "minecraft:creaking_heart"
 		}
 	]
 }

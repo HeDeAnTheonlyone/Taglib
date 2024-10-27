@@ -24,6 +24,10 @@
 		{
 			"required": false,
 			"id": "minecraft:zombie_villager"
+		},
+		{
+			"required": false,
+			"id": "minecraft:zoglin"
 		}
 	]
 }

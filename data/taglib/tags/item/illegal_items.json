@@ -327,6 +327,10 @@
 		},
 		{
 			"required": false,
+			"id": "minecraft:creaking_spawn_egg"
+		},
+		{
+			"required": false,
 			"id": "minecraft:command_block"
 		},
 		{
@@ -336,6 +340,10 @@
 		{
 			"required": false,
 			"id": "minecraft:repeating_command_block"
+		},
+		{
+			"required": false,
+			"id": "minecraft:command_block_minecart"
 		},
 		{
 			"required": false,
