@@ -19,6 +19,10 @@
 		},
 		{
 			"required": false,
+			"id": "#minecraft:red_sand"
+		},
+		{
+			"required": false,
 			"id": "minecraft:red_concrete_powder"
 		},
 		{
