@@ -1,4341 +1,4425 @@
 {
-  "replace": false,
-  "values": [
-    {
-      "required": false,
-      "id": "acacia_button"
-    },
-    {
-      "required": false,
-      "id": "acacia_door"
-    },
-    {
-      "required": false,
-      "id": "acacia_fence"
-    },
-    {
-      "required": false,
-      "id": "acacia_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "acacia_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "acacia_leaves"
-    },
-    {
-      "required": false,
-      "id": "acacia_log"
-    },
-    {
-      "required": false,
-      "id": "acacia_planks"
-    },
-    {
-      "required": false,
-      "id": "acacia_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "acacia_sapling"
-    },
-    {
-      "required": false,
-      "id": "acacia_sign"
-    },
-    {
-      "required": false,
-      "id": "acacia_slab"
-    },
-    {
-      "required": false,
-      "id": "acacia_stairs"
-    },
-    {
-      "required": false,
-      "id": "acacia_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "acacia_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "acacia_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "acacia_wood"
-    },
-    {
-      "required": false,
-      "id": "activator_rail"
-    },
-    {
-      "required": false,
-      "id": "air"
-    },
-    {
-      "required": false,
-      "id": "allium"
-    },
-    {
-      "required": false,
-      "id": "amethyst_block"
-    },
-    {
-      "required": false,
-      "id": "amethyst_cluster"
-    },
-    {
-      "required": false,
-      "id": "ancient_debris"
-    },
-    {
-      "required": false,
-      "id": "andesite"
-    },
-    {
-      "required": false,
-      "id": "andesite_slab"
-    },
-    {
-      "required": false,
-      "id": "andesite_stairs"
-    },
-    {
-      "required": false,
-      "id": "andesite_wall"
-    },
-    {
-      "required": false,
-      "id": "anvil"
-    },
-    {
-      "required": false,
-      "id": "attached_melon_stem"
-    },
-    {
-      "required": false,
-      "id": "attached_pumpkin_stem"
-    },
-    {
-      "required": false,
-      "id": "azalea"
-    },
-    {
-      "required": false,
-      "id": "azalea_leaves"
-    },
-    {
-      "required": false,
-      "id": "azure_bluet"
-    },
-    {
-      "required": false,
-      "id": "bamboo"
-    },
-    {
-      "required": false,
-      "id": "bamboo_block"
-    },
-    {
-      "required": false,
-      "id": "bamboo_button"
-    },
-    {
-      "required": false,
-      "id": "bamboo_door"
-    },
-    {
-      "required": false,
-      "id": "bamboo_fence"
-    },
-    {
-      "required": false,
-      "id": "bamboo_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "bamboo_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "bamboo_mosaic"
-    },
-    {
-      "required": false,
-      "id": "bamboo_mosaic_slab"
-    },
-    {
-      "required": false,
-      "id": "bamboo_mosaic_stairs"
-    },
-    {
-      "required": false,
-      "id": "bamboo_planks"
-    },
-    {
-      "required": false,
-      "id": "bamboo_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "bamboo_sapling"
-    },
-    {
-      "required": false,
-      "id": "bamboo_sign"
-    },
-    {
-      "required": false,
-      "id": "bamboo_slab"
-    },
-    {
-      "required": false,
-      "id": "bamboo_stairs"
-    },
-    {
-      "required": false,
-      "id": "bamboo_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "bamboo_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "bamboo_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "barrel"
-    },
-    {
-      "required": false,
-      "id": "barrier"
-    },
-    {
-      "required": false,
-      "id": "basalt"
-    },
-    {
-      "required": false,
-      "id": "beacon"
-    },
-    {
-      "required": false,
-      "id": "bedrock"
-    },
-    {
-      "required": false,
-      "id": "bee_nest"
-    },
-    {
-      "required": false,
-      "id": "beehive"
-    },
-    {
-      "required": false,
-      "id": "beetroots"
-    },
-    {
-      "required": false,
-      "id": "bell"
-    },
-    {
-      "required": false,
-      "id": "big_dripleaf"
-    },
-    {
-      "required": false,
-      "id": "big_dripleaf_stem"
-    },
-    {
-      "required": false,
-      "id": "birch_button"
-    },
-    {
-      "required": false,
-      "id": "birch_door"
-    },
-    {
-      "required": false,
-      "id": "birch_fence"
-    },
-    {
-      "required": false,
-      "id": "birch_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "birch_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "birch_leaves"
-    },
-    {
-      "required": false,
-      "id": "birch_log"
-    },
-    {
-      "required": false,
-      "id": "birch_planks"
-    },
-    {
-      "required": false,
-      "id": "birch_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "birch_sapling"
-    },
-    {
-      "required": false,
-      "id": "birch_sign"
-    },
-    {
-      "required": false,
-      "id": "birch_slab"
-    },
-    {
-      "required": false,
-      "id": "birch_stairs"
-    },
-    {
-      "required": false,
-      "id": "birch_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "birch_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "birch_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "birch_wood"
-    },
-    {
-      "required": false,
-      "id": "black_banner"
-    },
-    {
-      "required": false,
-      "id": "black_bed"
-    },
-    {
-      "required": false,
-      "id": "black_candle"
-    },
-    {
-      "required": false,
-      "id": "black_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "black_carpet"
-    },
-    {
-      "required": false,
-      "id": "black_concrete"
-    },
-    {
-      "required": false,
-      "id": "black_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "black_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "black_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "black_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "black_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "black_terracotta"
-    },
-    {
-      "required": false,
-      "id": "black_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "black_wool"
-    },
-    {
-      "required": false,
-      "id": "blackstone"
-    },
-    {
-      "required": false,
-      "id": "blackstone_slab"
-    },
-    {
-      "required": false,
-      "id": "blackstone_stairs"
-    },
-    {
-      "required": false,
-      "id": "blackstone_wall"
-    },
-    {
-      "required": false,
-      "id": "blast_furnace"
-    },
-    {
-      "required": false,
-      "id": "blue_banner"
-    },
-    {
-      "required": false,
-      "id": "blue_bed"
-    },
-    {
-      "required": false,
-      "id": "blue_candle"
-    },
-    {
-      "required": false,
-      "id": "blue_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "blue_carpet"
-    },
-    {
-      "required": false,
-      "id": "blue_concrete"
-    },
-    {
-      "required": false,
-      "id": "blue_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "blue_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "blue_ice"
-    },
-    {
-      "required": false,
-      "id": "blue_orchid"
-    },
-    {
-      "required": false,
-      "id": "blue_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "blue_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "blue_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "blue_terracotta"
-    },
-    {
-      "required": false,
-      "id": "blue_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "blue_wool"
-    },
-    {
-      "required": false,
-      "id": "bone_block"
-    },
-    {
-      "required": false,
-      "id": "bookshelf"
-    },
-    {
-      "required": false,
-      "id": "brain_coral"
-    },
-    {
-      "required": false,
-      "id": "brain_coral_block"
-    },
-    {
-      "required": false,
-      "id": "brain_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "brain_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "brewing_stand"
-    },
-    {
-      "required": false,
-      "id": "brick_slab"
-    },
-    {
-      "required": false,
-      "id": "brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "brick_wall"
-    },
-    {
-      "required": false,
-      "id": "bricks"
-    },
-    {
-      "required": false,
-      "id": "brown_banner"
-    },
-    {
-      "required": false,
-      "id": "brown_bed"
-    },
-    {
-      "required": false,
-      "id": "brown_candle"
-    },
-    {
-      "required": false,
-      "id": "brown_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "brown_carpet"
-    },
-    {
-      "required": false,
-      "id": "brown_concrete"
-    },
-    {
-      "required": false,
-      "id": "brown_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "brown_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "brown_mushroom"
-    },
-    {
-      "required": false,
-      "id": "brown_mushroom_block"
-    },
-    {
-      "required": false,
-      "id": "brown_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "brown_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "brown_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "brown_terracotta"
-    },
-    {
-      "required": false,
-      "id": "brown_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "brown_wool"
-    },
-    {
-      "required": false,
-      "id": "bubble_column"
-    },
-    {
-      "required": false,
-      "id": "bubble_coral"
-    },
-    {
-      "required": false,
-      "id": "bubble_coral_block"
-    },
-    {
-      "required": false,
-      "id": "bubble_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "bubble_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "budding_amethyst"
-    },
-    {
-      "required": false,
-      "id": "cactus"
-    },
-    {
-      "required": false,
-      "id": "cake"
-    },
-    {
-      "required": false,
-      "id": "calcite"
-    },
-    {
-      "required": false,
-      "id": "calibrated_sculk_sensor"
-    },
-    {
-      "required": false,
-      "id": "campfire"
-    },
-    {
-      "required": false,
-      "id": "candle"
-    },
-    {
-      "required": false,
-      "id": "candle_cake"
-    },
-    {
-      "required": false,
-      "id": "carrots"
-    },
-    {
-      "required": false,
-      "id": "cartography_table"
-    },
-    {
-      "required": false,
-      "id": "carved_pumpkin"
-    },
-    {
-      "required": false,
-      "id": "cauldron"
-    },
-    {
-      "required": false,
-      "id": "cave_air"
-    },
-    {
-      "required": false,
-      "id": "cave_vines"
-    },
-    {
-      "required": false,
-      "id": "cave_vines_plant"
-    },
-    {
-      "required": false,
-      "id": "chain"
-    },
-    {
-      "required": false,
-      "id": "chain_command_block"
-    },
-    {
-      "required": false,
-      "id": "cherry_button"
-    },
-    {
-      "required": false,
-      "id": "cherry_door"
-    },
-    {
-      "required": false,
-      "id": "cherry_fence"
-    },
-    {
-      "required": false,
-      "id": "cherry_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "cherry_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "cherry_leaves"
-    },
-    {
-      "required": false,
-      "id": "cherry_log"
-    },
-    {
-      "required": false,
-      "id": "cherry_planks"
-    },
-    {
-      "required": false,
-      "id": "cherry_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "cherry_sapling"
-    },
-    {
-      "required": false,
-      "id": "cherry_sign"
-    },
-    {
-      "required": false,
-      "id": "cherry_slab"
-    },
-    {
-      "required": false,
-      "id": "cherry_stairs"
-    },
-    {
-      "required": false,
-      "id": "cherry_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "cherry_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "cherry_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "cherry_wood"
-    },
-    {
-      "required": false,
-      "id": "chest"
-    },
-    {
-      "required": false,
-      "id": "chipped_anvil"
-    },
-    {
-      "required": false,
-      "id": "chiseled_bookshelf"
-    },
-    {
-      "required": false,
-      "id": "chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "chiseled_deepslate"
-    },
-    {
-      "required": false,
-      "id": "chiseled_nether_bricks"
-    },
-    {
-      "required": false,
-      "id": "chiseled_polished_blackstone"
-    },
-    {
-      "required": false,
-      "id": "chiseled_quartz_block"
-    },
-    {
-      "required": false,
-      "id": "chiseled_red_sandstone"
-    },
-    {
-      "required": false,
-      "id": "chiseled_sandstone"
-    },
-    {
-      "required": false,
-      "id": "chiseled_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "chiseled_tuff"
-    },
-    {
-      "required": false,
-      "id": "chiseled_tuff_bricks"
-    },
-    {
-      "required": false,
-      "id": "chorus_flower"
-    },
-    {
-      "required": false,
-      "id": "chorus_plant"
-    },
-    {
-      "required": false,
-      "id": "clay"
-    },
-    {
-      "required": false,
-      "id": "coal_block"
-    },
-    {
-      "required": false,
-      "id": "coal_ore"
-    },
-    {
-      "required": false,
-      "id": "coarse_dirt"
-    },
-    {
-      "required": false,
-      "id": "cobbled_deepslate"
-    },
-    {
-      "required": false,
-      "id": "cobbled_deepslate_slab"
-    },
-    {
-      "required": false,
-      "id": "cobbled_deepslate_stairs"
-    },
-    {
-      "required": false,
-      "id": "cobbled_deepslate_wall"
-    },
-    {
-      "required": false,
-      "id": "cobblestone"
-    },
-    {
-      "required": false,
-      "id": "cobblestone_slab"
-    },
-    {
-      "required": false,
-      "id": "cobblestone_stairs"
-    },
-    {
-      "required": false,
-      "id": "cobblestone_wall"
-    },
-    {
-      "required": false,
-      "id": "cobweb"
-    },
-    {
-      "required": false,
-      "id": "cocoa"
-    },
-    {
-      "required": false,
-      "id": "command_block"
-    },
-    {
-      "required": false,
-      "id": "comparator"
-    },
-    {
-      "required": false,
-      "id": "composter"
-    },
-    {
-      "required": false,
-      "id": "conduit"
-    },
-    {
-      "required": false,
-      "id": "copper_block"
-    },
-    {
-      "required": false,
-      "id": "copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "copper_door"
-    },
-    {
-      "required": false,
-      "id": "copper_grate"
-    },
-    {
-      "required": false,
-      "id": "copper_ore"
-    },
-    {
-      "required": false,
-      "id": "copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "cornflower"
-    },
-    {
-      "required": false,
-      "id": "cracked_deepslate_bricks"
-    },
-    {
-      "required": false,
-      "id": "cracked_deepslate_tiles"
-    },
-    {
-      "required": false,
-      "id": "cracked_nether_bricks"
-    },
-    {
-      "required": false,
-      "id": "cracked_polished_blackstone_bricks"
-    },
-    {
-      "required": false,
-      "id": "cracked_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "crafter"
-    },
-    {
-      "required": false,
-      "id": "crafting_table"
-    },
-    {
-      "required": false,
-      "id": "creaking_heart"
-    },
-    {
-      "required": false,
-      "id": "creeper_head"
-    },
-    {
-      "required": false,
-      "id": "creeper_wall_head"
-    },
-    {
-      "required": false,
-      "id": "crimson_button"
-    },
-    {
-      "required": false,
-      "id": "crimson_door"
-    },
-    {
-      "required": false,
-      "id": "crimson_fence"
-    },
-    {
-      "required": false,
-      "id": "crimson_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "crimson_fungus"
-    },
-    {
-      "required": false,
-      "id": "crimson_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "crimson_hyphae"
-    },
-    {
-      "required": false,
-      "id": "crimson_nylium"
-    },
-    {
-      "required": false,
-      "id": "crimson_planks"
-    },
-    {
-      "required": false,
-      "id": "crimson_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "crimson_roots"
-    },
-    {
-      "required": false,
-      "id": "crimson_sign"
-    },
-    {
-      "required": false,
-      "id": "crimson_slab"
-    },
-    {
-      "required": false,
-      "id": "crimson_stairs"
-    },
-    {
-      "required": false,
-      "id": "crimson_stem"
-    },
-    {
-      "required": false,
-      "id": "crimson_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "crimson_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "crimson_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "crying_obsidian"
-    },
-    {
-      "required": false,
-      "id": "cut_copper"
-    },
-    {
-      "required": false,
-      "id": "cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "cut_red_sandstone"
-    },
-    {
-      "required": false,
-      "id": "cut_red_sandstone_slab"
-    },
-    {
-      "required": false,
-      "id": "cut_sandstone"
-    },
-    {
-      "required": false,
-      "id": "cut_sandstone_slab"
-    },
-    {
-      "required": false,
-      "id": "cyan_banner"
-    },
-    {
-      "required": false,
-      "id": "cyan_bed"
-    },
-    {
-      "required": false,
-      "id": "cyan_candle"
-    },
-    {
-      "required": false,
-      "id": "cyan_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "cyan_carpet"
-    },
-    {
-      "required": false,
-      "id": "cyan_concrete"
-    },
-    {
-      "required": false,
-      "id": "cyan_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "cyan_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "cyan_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "cyan_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "cyan_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "cyan_terracotta"
-    },
-    {
-      "required": false,
-      "id": "cyan_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "cyan_wool"
-    },
-    {
-      "required": false,
-      "id": "damaged_anvil"
-    },
-    {
-      "required": false,
-      "id": "dandelion"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_button"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_door"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_fence"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_leaves"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_log"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_planks"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_sapling"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_sign"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_slab"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_stairs"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "dark_oak_wood"
-    },
-    {
-      "required": false,
-      "id": "dark_prismarine"
-    },
-    {
-      "required": false,
-      "id": "dark_prismarine_slab"
-    },
-    {
-      "required": false,
-      "id": "dark_prismarine_stairs"
-    },
-    {
-      "required": false,
-      "id": "daylight_detector"
-    },
-    {
-      "required": false,
-      "id": "dead_brain_coral"
-    },
-    {
-      "required": false,
-      "id": "dead_brain_coral_block"
-    },
-    {
-      "required": false,
-      "id": "dead_brain_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_brain_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_bubble_coral"
-    },
-    {
-      "required": false,
-      "id": "dead_bubble_coral_block"
-    },
-    {
-      "required": false,
-      "id": "dead_bubble_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_bubble_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_bush"
-    },
-    {
-      "required": false,
-      "id": "dead_fire_coral"
-    },
-    {
-      "required": false,
-      "id": "dead_fire_coral_block"
-    },
-    {
-      "required": false,
-      "id": "dead_fire_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_fire_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_horn_coral"
-    },
-    {
-      "required": false,
-      "id": "dead_horn_coral_block"
-    },
-    {
-      "required": false,
-      "id": "dead_horn_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_horn_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_tube_coral"
-    },
-    {
-      "required": false,
-      "id": "dead_tube_coral_block"
-    },
-    {
-      "required": false,
-      "id": "dead_tube_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "dead_tube_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "decorated_pot"
-    },
-    {
-      "required": false,
-      "id": "deepslate"
-    },
-    {
-      "required": false,
-      "id": "deepslate_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "deepslate_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "deepslate_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "deepslate_bricks"
-    },
-    {
-      "required": false,
-      "id": "deepslate_coal_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_copper_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_diamond_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_emerald_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_gold_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_iron_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_lapis_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_redstone_ore"
-    },
-    {
-      "required": false,
-      "id": "deepslate_tile_slab"
-    },
-    {
-      "required": false,
-      "id": "deepslate_tile_stairs"
-    },
-    {
-      "required": false,
-      "id": "deepslate_tile_wall"
-    },
-    {
-      "required": false,
-      "id": "deepslate_tiles"
-    },
-    {
-      "required": false,
-      "id": "detector_rail"
-    },
-    {
-      "required": false,
-      "id": "diamond_block"
-    },
-    {
-      "required": false,
-      "id": "diamond_ore"
-    },
-    {
-      "required": false,
-      "id": "diorite"
-    },
-    {
-      "required": false,
-      "id": "diorite_slab"
-    },
-    {
-      "required": false,
-      "id": "diorite_stairs"
-    },
-    {
-      "required": false,
-      "id": "diorite_wall"
-    },
-    {
-      "required": false,
-      "id": "dirt"
-    },
-    {
-      "required": false,
-      "id": "dirt_path"
-    },
-    {
-      "required": false,
-      "id": "dispenser"
-    },
-    {
-      "required": false,
-      "id": "dragon_egg"
-    },
-    {
-      "required": false,
-      "id": "dragon_head"
-    },
-    {
-      "required": false,
-      "id": "dragon_wall_head"
-    },
-    {
-      "required": false,
-      "id": "dried_kelp_block"
-    },
-    {
-      "required": false,
-      "id": "dripstone_block"
-    },
-    {
-      "required": false,
-      "id": "dropper"
-    },
-    {
-      "required": false,
-      "id": "emerald_block"
-    },
-    {
-      "required": false,
-      "id": "emerald_ore"
-    },
-    {
-      "required": false,
-      "id": "enchanting_table"
-    },
-    {
-      "required": false,
-      "id": "end_gateway"
-    },
-    {
-      "required": false,
-      "id": "end_portal"
-    },
-    {
-      "required": false,
-      "id": "end_portal_frame"
-    },
-    {
-      "required": false,
-      "id": "end_rod"
-    },
-    {
-      "required": false,
-      "id": "end_stone"
-    },
-    {
-      "required": false,
-      "id": "end_stone_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "end_stone_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "end_stone_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "end_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "ender_chest"
-    },
-    {
-      "required": false,
-      "id": "exposed_chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "exposed_copper"
-    },
-    {
-      "required": false,
-      "id": "exposed_copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "exposed_copper_door"
-    },
-    {
-      "required": false,
-      "id": "exposed_copper_grate"
-    },
-    {
-      "required": false,
-      "id": "exposed_copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "exposed_cut_copper"
-    },
-    {
-      "required": false,
-      "id": "exposed_cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "exposed_cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "farmland"
-    },
-    {
-      "required": false,
-      "id": "fern"
-    },
-    {
-      "required": false,
-      "id": "fire"
-    },
-    {
-      "required": false,
-      "id": "fire_coral"
-    },
-    {
-      "required": false,
-      "id": "fire_coral_block"
-    },
-    {
-      "required": false,
-      "id": "fire_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "fire_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "fletching_table"
-    },
-    {
-      "required": false,
-      "id": "flower_pot"
-    },
-    {
-      "required": false,
-      "id": "flowering_azalea"
-    },
-    {
-      "required": false,
-      "id": "flowering_azalea_leaves"
-    },
-    {
-      "required": false,
-      "id": "frogspawn"
-    },
-    {
-      "required": false,
-      "id": "frosted_ice"
-    },
-    {
-      "required": false,
-      "id": "furnace"
-    },
-    {
-      "required": false,
-      "id": "gilded_blackstone"
-    },
-    {
-      "required": false,
-      "id": "glass"
-    },
-    {
-      "required": false,
-      "id": "glass_pane"
-    },
-    {
-      "required": false,
-      "id": "glow_lichen"
-    },
-    {
-      "required": false,
-      "id": "glowstone"
-    },
-    {
-      "required": false,
-      "id": "gold_block"
-    },
-    {
-      "required": false,
-      "id": "gold_ore"
-    },
-    {
-      "required": false,
-      "id": "granite"
-    },
-    {
-      "required": false,
-      "id": "granite_slab"
-    },
-    {
-      "required": false,
-      "id": "granite_stairs"
-    },
-    {
-      "required": false,
-      "id": "granite_wall"
-    },
-    {
-      "required": false,
-      "id": "grass_block"
-    },
-    {
-      "required": false,
-      "id": "gravel"
-    },
-    {
-      "required": false,
-      "id": "gray_banner"
-    },
-    {
-      "required": false,
-      "id": "gray_bed"
-    },
-    {
-      "required": false,
-      "id": "gray_candle"
-    },
-    {
-      "required": false,
-      "id": "gray_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "gray_carpet"
-    },
-    {
-      "required": false,
-      "id": "gray_concrete"
-    },
-    {
-      "required": false,
-      "id": "gray_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "gray_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "gray_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "gray_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "gray_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "gray_terracotta"
-    },
-    {
-      "required": false,
-      "id": "gray_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "gray_wool"
-    },
-    {
-      "required": false,
-      "id": "green_banner"
-    },
-    {
-      "required": false,
-      "id": "green_bed"
-    },
-    {
-      "required": false,
-      "id": "green_candle"
-    },
-    {
-      "required": false,
-      "id": "green_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "green_carpet"
-    },
-    {
-      "required": false,
-      "id": "green_concrete"
-    },
-    {
-      "required": false,
-      "id": "green_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "green_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "green_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "green_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "green_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "green_terracotta"
-    },
-    {
-      "required": false,
-      "id": "green_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "green_wool"
-    },
-    {
-      "required": false,
-      "id": "grindstone"
-    },
-    {
-      "required": false,
-      "id": "hanging_roots"
-    },
-    {
-      "required": false,
-      "id": "hay_block"
-    },
-    {
-      "required": false,
-      "id": "heavy_core"
-    },
-    {
-      "required": false,
-      "id": "heavy_weighted_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "honey_block"
-    },
-    {
-      "required": false,
-      "id": "honeycomb_block"
-    },
-    {
-      "required": false,
-      "id": "hopper"
-    },
-    {
-      "required": false,
-      "id": "horn_coral"
-    },
-    {
-      "required": false,
-      "id": "horn_coral_block"
-    },
-    {
-      "required": false,
-      "id": "horn_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "horn_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "ice"
-    },
-    {
-      "required": false,
-      "id": "infested_chiseled_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "infested_cobblestone"
-    },
-    {
-      "required": false,
-      "id": "infested_cracked_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "infested_deepslate"
-    },
-    {
-      "required": false,
-      "id": "infested_mossy_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "infested_stone"
-    },
-    {
-      "required": false,
-      "id": "infested_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "iron_bars"
-    },
-    {
-      "required": false,
-      "id": "iron_block"
-    },
-    {
-      "required": false,
-      "id": "iron_door"
-    },
-    {
-      "required": false,
-      "id": "iron_ore"
-    },
-    {
-      "required": false,
-      "id": "iron_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "jack_o_lantern"
-    },
-    {
-      "required": false,
-      "id": "jigsaw"
-    },
-    {
-      "required": false,
-      "id": "jukebox"
-    },
-    {
-      "required": false,
-      "id": "jungle_button"
-    },
-    {
-      "required": false,
-      "id": "jungle_door"
-    },
-    {
-      "required": false,
-      "id": "jungle_fence"
-    },
-    {
-      "required": false,
-      "id": "jungle_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "jungle_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "jungle_leaves"
-    },
-    {
-      "required": false,
-      "id": "jungle_log"
-    },
-    {
-      "required": false,
-      "id": "jungle_planks"
-    },
-    {
-      "required": false,
-      "id": "jungle_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "jungle_sapling"
-    },
-    {
-      "required": false,
-      "id": "jungle_sign"
-    },
-    {
-      "required": false,
-      "id": "jungle_slab"
-    },
-    {
-      "required": false,
-      "id": "jungle_stairs"
-    },
-    {
-      "required": false,
-      "id": "jungle_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "jungle_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "jungle_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "jungle_wood"
-    },
-    {
-      "required": false,
-      "id": "kelp"
-    },
-    {
-      "required": false,
-      "id": "kelp_plant"
-    },
-    {
-      "required": false,
-      "id": "ladder"
-    },
-    {
-      "required": false,
-      "id": "lantern"
-    },
-    {
-      "required": false,
-      "id": "lapis_block"
-    },
-    {
-      "required": false,
-      "id": "lapis_ore"
-    },
-    {
-      "required": false,
-      "id": "large_amethyst_bud"
-    },
-    {
-      "required": false,
-      "id": "large_fern"
-    },
-    {
-      "required": false,
-      "id": "lava"
-    },
-    {
-      "required": false,
-      "id": "lava_cauldron"
-    },
-    {
-      "required": false,
-      "id": "lectern"
-    },
-    {
-      "required": false,
-      "id": "lever"
-    },
-    {
-      "required": false,
-      "id": "light"
-    },
-    {
-      "required": false,
-      "id": "light_blue_banner"
-    },
-    {
-      "required": false,
-      "id": "light_blue_bed"
-    },
-    {
-      "required": false,
-      "id": "light_blue_candle"
-    },
-    {
-      "required": false,
-      "id": "light_blue_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "light_blue_carpet"
-    },
-    {
-      "required": false,
-      "id": "light_blue_concrete"
-    },
-    {
-      "required": false,
-      "id": "light_blue_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "light_blue_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "light_blue_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "light_blue_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "light_blue_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "light_blue_terracotta"
-    },
-    {
-      "required": false,
-      "id": "light_blue_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "light_blue_wool"
-    },
-    {
-      "required": false,
-      "id": "light_gray_banner"
-    },
-    {
-      "required": false,
-      "id": "light_gray_bed"
-    },
-    {
-      "required": false,
-      "id": "light_gray_candle"
-    },
-    {
-      "required": false,
-      "id": "light_gray_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "light_gray_carpet"
-    },
-    {
-      "required": false,
-      "id": "light_gray_concrete"
-    },
-    {
-      "required": false,
-      "id": "light_gray_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "light_gray_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "light_gray_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "light_gray_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "light_gray_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "light_gray_terracotta"
-    },
-    {
-      "required": false,
-      "id": "light_gray_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "light_gray_wool"
-    },
-    {
-      "required": false,
-      "id": "light_weighted_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "lightning_rod"
-    },
-    {
-      "required": false,
-      "id": "lilac"
-    },
-    {
-      "required": false,
-      "id": "lily_of_the_valley"
-    },
-    {
-      "required": false,
-      "id": "lily_pad"
-    },
-    {
-      "required": false,
-      "id": "lime_banner"
-    },
-    {
-      "required": false,
-      "id": "lime_bed"
-    },
-    {
-      "required": false,
-      "id": "lime_candle"
-    },
-    {
-      "required": false,
-      "id": "lime_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "lime_carpet"
-    },
-    {
-      "required": false,
-      "id": "lime_concrete"
-    },
-    {
-      "required": false,
-      "id": "lime_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "lime_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "lime_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "lime_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "lime_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "lime_terracotta"
-    },
-    {
-      "required": false,
-      "id": "lime_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "lime_wool"
-    },
-    {
-      "required": false,
-      "id": "lodestone"
-    },
-    {
-      "required": false,
-      "id": "loom"
-    },
-    {
-      "required": false,
-      "id": "magenta_banner"
-    },
-    {
-      "required": false,
-      "id": "magenta_bed"
-    },
-    {
-      "required": false,
-      "id": "magenta_candle"
-    },
-    {
-      "required": false,
-      "id": "magenta_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "magenta_carpet"
-    },
-    {
-      "required": false,
-      "id": "magenta_concrete"
-    },
-    {
-      "required": false,
-      "id": "magenta_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "magenta_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "magenta_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "magenta_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "magenta_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "magenta_terracotta"
-    },
-    {
-      "required": false,
-      "id": "magenta_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "magenta_wool"
-    },
-    {
-      "required": false,
-      "id": "magma_block"
-    },
-    {
-      "required": false,
-      "id": "mangrove_button"
-    },
-    {
-      "required": false,
-      "id": "mangrove_door"
-    },
-    {
-      "required": false,
-      "id": "mangrove_fence"
-    },
-    {
-      "required": false,
-      "id": "mangrove_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "mangrove_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "mangrove_leaves"
-    },
-    {
-      "required": false,
-      "id": "mangrove_log"
-    },
-    {
-      "required": false,
-      "id": "mangrove_planks"
-    },
-    {
-      "required": false,
-      "id": "mangrove_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "mangrove_propagule"
-    },
-    {
-      "required": false,
-      "id": "mangrove_roots"
-    },
-    {
-      "required": false,
-      "id": "mangrove_sign"
-    },
-    {
-      "required": false,
-      "id": "mangrove_slab"
-    },
-    {
-      "required": false,
-      "id": "mangrove_stairs"
-    },
-    {
-      "required": false,
-      "id": "mangrove_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "mangrove_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "mangrove_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "mangrove_wood"
-    },
-    {
-      "required": false,
-      "id": "medium_amethyst_bud"
-    },
-    {
-      "required": false,
-      "id": "melon"
-    },
-    {
-      "required": false,
-      "id": "melon_stem"
-    },
-    {
-      "required": false,
-      "id": "moss_block"
-    },
-    {
-      "required": false,
-      "id": "moss_carpet"
-    },
-    {
-      "required": false,
-      "id": "mossy_cobblestone"
-    },
-    {
-      "required": false,
-      "id": "mossy_cobblestone_slab"
-    },
-    {
-      "required": false,
-      "id": "mossy_cobblestone_stairs"
-    },
-    {
-      "required": false,
-      "id": "mossy_cobblestone_wall"
-    },
-    {
-      "required": false,
-      "id": "mossy_stone_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "mossy_stone_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "mossy_stone_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "mossy_stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "moving_piston"
-    },
-    {
-      "required": false,
-      "id": "mud"
-    },
-    {
-      "required": false,
-      "id": "mud_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "mud_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "mud_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "mud_bricks"
-    },
-    {
-      "required": false,
-      "id": "muddy_mangrove_roots"
-    },
-    {
-      "required": false,
-      "id": "mushroom_stem"
-    },
-    {
-      "required": false,
-      "id": "mycelium"
-    },
-    {
-      "required": false,
-      "id": "nether_brick_fence"
-    },
-    {
-      "required": false,
-      "id": "nether_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "nether_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "nether_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "nether_bricks"
-    },
-    {
-      "required": false,
-      "id": "nether_gold_ore"
-    },
-    {
-      "required": false,
-      "id": "nether_portal"
-    },
-    {
-      "required": false,
-      "id": "nether_quartz_ore"
-    },
-    {
-      "required": false,
-      "id": "nether_sprouts"
-    },
-    {
-      "required": false,
-      "id": "nether_wart"
-    },
-    {
-      "required": false,
-      "id": "nether_wart_block"
-    },
-    {
-      "required": false,
-      "id": "netherite_block"
-    },
-    {
-      "required": false,
-      "id": "netherrack"
-    },
-    {
-      "required": false,
-      "id": "note_block"
-    },
-    {
-      "required": false,
-      "id": "oak_button"
-    },
-    {
-      "required": false,
-      "id": "oak_door"
-    },
-    {
-      "required": false,
-      "id": "oak_fence"
-    },
-    {
-      "required": false,
-      "id": "oak_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "oak_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "oak_leaves"
-    },
-    {
-      "required": false,
-      "id": "oak_log"
-    },
-    {
-      "required": false,
-      "id": "oak_planks"
-    },
-    {
-      "required": false,
-      "id": "oak_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "oak_sapling"
-    },
-    {
-      "required": false,
-      "id": "oak_sign"
-    },
-    {
-      "required": false,
-      "id": "oak_slab"
-    },
-    {
-      "required": false,
-      "id": "oak_stairs"
-    },
-    {
-      "required": false,
-      "id": "oak_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "oak_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "oak_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "oak_wood"
-    },
-    {
-      "required": false,
-      "id": "observer"
-    },
-    {
-      "required": false,
-      "id": "obsidian"
-    },
-    {
-      "required": false,
-      "id": "ochre_froglight"
-    },
-    {
-      "required": false,
-      "id": "orange_banner"
-    },
-    {
-      "required": false,
-      "id": "orange_bed"
-    },
-    {
-      "required": false,
-      "id": "orange_candle"
-    },
-    {
-      "required": false,
-      "id": "orange_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "orange_carpet"
-    },
-    {
-      "required": false,
-      "id": "orange_concrete"
-    },
-    {
-      "required": false,
-      "id": "orange_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "orange_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "orange_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "orange_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "orange_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "orange_terracotta"
-    },
-    {
-      "required": false,
-      "id": "orange_tulip"
-    },
-    {
-      "required": false,
-      "id": "orange_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "orange_wool"
-    },
-    {
-      "required": false,
-      "id": "oxeye_daisy"
-    },
-    {
-      "required": false,
-      "id": "oxidized_chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "oxidized_copper"
-    },
-    {
-      "required": false,
-      "id": "oxidized_copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "oxidized_copper_door"
-    },
-    {
-      "required": false,
-      "id": "oxidized_copper_grate"
-    },
-    {
-      "required": false,
-      "id": "oxidized_copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "oxidized_cut_copper"
-    },
-    {
-      "required": false,
-      "id": "oxidized_cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "oxidized_cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "packed_ice"
-    },
-    {
-      "required": false,
-      "id": "packed_mud"
-    },
-    {
-      "required": false,
-      "id": "pale_hanging_moss"
-    },
-    {
-      "required": false,
-      "id": "pale_moss_block"
-    },
-    {
-      "required": false,
-      "id": "pale_moss_carpet"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_button"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_door"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_fence"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_leaves"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_log"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_planks"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_sapling"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_sign"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_slab"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_stairs"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "pale_oak_wood"
-    },
-    {
-      "required": false,
-      "id": "pearlescent_froglight"
-    },
-    {
-      "required": false,
-      "id": "peony"
-    },
-    {
-      "required": false,
-      "id": "petrified_oak_slab"
-    },
-    {
-      "required": false,
-      "id": "piglin_head"
-    },
-    {
-      "required": false,
-      "id": "piglin_wall_head"
-    },
-    {
-      "required": false,
-      "id": "pink_banner"
-    },
-    {
-      "required": false,
-      "id": "pink_bed"
-    },
-    {
-      "required": false,
-      "id": "pink_candle"
-    },
-    {
-      "required": false,
-      "id": "pink_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "pink_carpet"
-    },
-    {
-      "required": false,
-      "id": "pink_concrete"
-    },
-    {
-      "required": false,
-      "id": "pink_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "pink_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "pink_petals"
-    },
-    {
-      "required": false,
-      "id": "pink_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "pink_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "pink_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "pink_terracotta"
-    },
-    {
-      "required": false,
-      "id": "pink_tulip"
-    },
-    {
-      "required": false,
-      "id": "pink_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "pink_wool"
-    },
-    {
-      "required": false,
-      "id": "piston"
-    },
-    {
-      "required": false,
-      "id": "piston_head"
-    },
-    {
-      "required": false,
-      "id": "pitcher_crop"
-    },
-    {
-      "required": false,
-      "id": "pitcher_plant"
-    },
-    {
-      "required": false,
-      "id": "player_head"
-    },
-    {
-      "required": false,
-      "id": "player_wall_head"
-    },
-    {
-      "required": false,
-      "id": "podzol"
-    },
-    {
-      "required": false,
-      "id": "pointed_dripstone"
-    },
-    {
-      "required": false,
-      "id": "polished_andesite"
-    },
-    {
-      "required": false,
-      "id": "polished_andesite_slab"
-    },
-    {
-      "required": false,
-      "id": "polished_andesite_stairs"
-    },
-    {
-      "required": false,
-      "id": "polished_basalt"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_bricks"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_button"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_slab"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_stairs"
-    },
-    {
-      "required": false,
-      "id": "polished_blackstone_wall"
-    },
-    {
-      "required": false,
-      "id": "polished_deepslate"
-    },
-    {
-      "required": false,
-      "id": "polished_deepslate_slab"
-    },
-    {
-      "required": false,
-      "id": "polished_deepslate_stairs"
-    },
-    {
-      "required": false,
-      "id": "polished_deepslate_wall"
-    },
-    {
-      "required": false,
-      "id": "polished_diorite"
-    },
-    {
-      "required": false,
-      "id": "polished_diorite_slab"
-    },
-    {
-      "required": false,
-      "id": "polished_diorite_stairs"
-    },
-    {
-      "required": false,
-      "id": "polished_granite"
-    },
-    {
-      "required": false,
-      "id": "polished_granite_slab"
-    },
-    {
-      "required": false,
-      "id": "polished_granite_stairs"
-    },
-    {
-      "required": false,
-      "id": "polished_tuff"
-    },
-    {
-      "required": false,
-      "id": "polished_tuff_slab"
-    },
-    {
-      "required": false,
-      "id": "polished_tuff_stairs"
-    },
-    {
-      "required": false,
-      "id": "polished_tuff_wall"
-    },
-    {
-      "required": false,
-      "id": "poppy"
-    },
-    {
-      "required": false,
-      "id": "potatoes"
-    },
-    {
-      "required": false,
-      "id": "potted_acacia_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_allium"
-    },
-    {
-      "required": false,
-      "id": "potted_azalea_bush"
-    },
-    {
-      "required": false,
-      "id": "potted_azure_bluet"
-    },
-    {
-      "required": false,
-      "id": "potted_bamboo"
-    },
-    {
-      "required": false,
-      "id": "potted_birch_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_blue_orchid"
-    },
-    {
-      "required": false,
-      "id": "potted_brown_mushroom"
-    },
-    {
-      "required": false,
-      "id": "potted_cactus"
-    },
-    {
-      "required": false,
-      "id": "potted_cherry_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_cornflower"
-    },
-    {
-      "required": false,
-      "id": "potted_crimson_fungus"
-    },
-    {
-      "required": false,
-      "id": "potted_crimson_roots"
-    },
-    {
-      "required": false,
-      "id": "potted_dandelion"
-    },
-    {
-      "required": false,
-      "id": "potted_dark_oak_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_dead_bush"
-    },
-    {
-      "required": false,
-      "id": "potted_fern"
-    },
-    {
-      "required": false,
-      "id": "potted_flowering_azalea_bush"
-    },
-    {
-      "required": false,
-      "id": "potted_jungle_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_lily_of_the_valley"
-    },
-    {
-      "required": false,
-      "id": "potted_mangrove_propagule"
-    },
-    {
-      "required": false,
-      "id": "potted_oak_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_orange_tulip"
-    },
-    {
-      "required": false,
-      "id": "potted_oxeye_daisy"
-    },
-    {
-      "required": false,
-      "id": "potted_pale_oak_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_pink_tulip"
-    },
-    {
-      "required": false,
-      "id": "potted_poppy"
-    },
-    {
-      "required": false,
-      "id": "potted_red_mushroom"
-    },
-    {
-      "required": false,
-      "id": "potted_red_tulip"
-    },
-    {
-      "required": false,
-      "id": "potted_spruce_sapling"
-    },
-    {
-      "required": false,
-      "id": "potted_torchflower"
-    },
-    {
-      "required": false,
-      "id": "potted_warped_fungus"
-    },
-    {
-      "required": false,
-      "id": "potted_warped_roots"
-    },
-    {
-      "required": false,
-      "id": "potted_white_tulip"
-    },
-    {
-      "required": false,
-      "id": "potted_wither_rose"
-    },
-    {
-      "required": false,
-      "id": "powder_snow"
-    },
-    {
-      "required": false,
-      "id": "powder_snow_cauldron"
-    },
-    {
-      "required": false,
-      "id": "powered_rail"
-    },
-    {
-      "required": false,
-      "id": "prismarine"
-    },
-    {
-      "required": false,
-      "id": "prismarine_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "prismarine_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "prismarine_bricks"
-    },
-    {
-      "required": false,
-      "id": "prismarine_slab"
-    },
-    {
-      "required": false,
-      "id": "prismarine_stairs"
-    },
-    {
-      "required": false,
-      "id": "prismarine_wall"
-    },
-    {
-      "required": false,
-      "id": "pumpkin"
-    },
-    {
-      "required": false,
-      "id": "pumpkin_stem"
-    },
-    {
-      "required": false,
-      "id": "purple_banner"
-    },
-    {
-      "required": false,
-      "id": "purple_bed"
-    },
-    {
-      "required": false,
-      "id": "purple_candle"
-    },
-    {
-      "required": false,
-      "id": "purple_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "purple_carpet"
-    },
-    {
-      "required": false,
-      "id": "purple_concrete"
-    },
-    {
-      "required": false,
-      "id": "purple_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "purple_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "purple_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "purple_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "purple_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "purple_terracotta"
-    },
-    {
-      "required": false,
-      "id": "purple_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "purple_wool"
-    },
-    {
-      "required": false,
-      "id": "purpur_block"
-    },
-    {
-      "required": false,
-      "id": "purpur_pillar"
-    },
-    {
-      "required": false,
-      "id": "purpur_slab"
-    },
-    {
-      "required": false,
-      "id": "purpur_stairs"
-    },
-    {
-      "required": false,
-      "id": "quartz_block"
-    },
-    {
-      "required": false,
-      "id": "quartz_bricks"
-    },
-    {
-      "required": false,
-      "id": "quartz_pillar"
-    },
-    {
-      "required": false,
-      "id": "quartz_slab"
-    },
-    {
-      "required": false,
-      "id": "quartz_stairs"
-    },
-    {
-      "required": false,
-      "id": "rail"
-    },
-    {
-      "required": false,
-      "id": "raw_copper_block"
-    },
-    {
-      "required": false,
-      "id": "raw_gold_block"
-    },
-    {
-      "required": false,
-      "id": "raw_iron_block"
-    },
-    {
-      "required": false,
-      "id": "red_banner"
-    },
-    {
-      "required": false,
-      "id": "red_bed"
-    },
-    {
-      "required": false,
-      "id": "red_candle"
-    },
-    {
-      "required": false,
-      "id": "red_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "red_carpet"
-    },
-    {
-      "required": false,
-      "id": "red_concrete"
-    },
-    {
-      "required": false,
-      "id": "red_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "red_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "red_mushroom"
-    },
-    {
-      "required": false,
-      "id": "red_mushroom_block"
-    },
-    {
-      "required": false,
-      "id": "red_nether_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "red_nether_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "red_nether_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "red_nether_bricks"
-    },
-    {
-      "required": false,
-      "id": "red_sand"
-    },
-    {
-      "required": false,
-      "id": "red_sandstone"
-    },
-    {
-      "required": false,
-      "id": "red_sandstone_slab"
-    },
-    {
-      "required": false,
-      "id": "red_sandstone_stairs"
-    },
-    {
-      "required": false,
-      "id": "red_sandstone_wall"
-    },
-    {
-      "required": false,
-      "id": "red_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "red_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "red_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "red_terracotta"
-    },
-    {
-      "required": false,
-      "id": "red_tulip"
-    },
-    {
-      "required": false,
-      "id": "red_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "red_wool"
-    },
-    {
-      "required": false,
-      "id": "redstone_block"
-    },
-    {
-      "required": false,
-      "id": "redstone_lamp"
-    },
-    {
-      "required": false,
-      "id": "redstone_ore"
-    },
-    {
-      "required": false,
-      "id": "redstone_torch"
-    },
-    {
-      "required": false,
-      "id": "redstone_wall_torch"
-    },
-    {
-      "required": false,
-      "id": "redstone_wire"
-    },
-    {
-      "required": false,
-      "id": "reinforced_deepslate"
-    },
-    {
-      "required": false,
-      "id": "repeater"
-    },
-    {
-      "required": false,
-      "id": "repeating_command_block"
-    },
-    {
-      "required": false,
-      "id": "respawn_anchor"
-    },
-    {
-      "required": false,
-      "id": "rooted_dirt"
-    },
-    {
-      "required": false,
-      "id": "rose_bush"
-    },
-    {
-      "required": false,
-      "id": "sand"
-    },
-    {
-      "required": false,
-      "id": "sandstone"
-    },
-    {
-      "required": false,
-      "id": "sandstone_slab"
-    },
-    {
-      "required": false,
-      "id": "sandstone_stairs"
-    },
-    {
-      "required": false,
-      "id": "sandstone_wall"
-    },
-    {
-      "required": false,
-      "id": "scaffolding"
-    },
-    {
-      "required": false,
-      "id": "sculk"
-    },
-    {
-      "required": false,
-      "id": "sculk_catalyst"
-    },
-    {
-      "required": false,
-      "id": "sculk_sensor"
-    },
-    {
-      "required": false,
-      "id": "sculk_shrieker"
-    },
-    {
-      "required": false,
-      "id": "sculk_vein"
-    },
-    {
-      "required": false,
-      "id": "sea_lantern"
-    },
-    {
-      "required": false,
-      "id": "sea_pickle"
-    },
-    {
-      "required": false,
-      "id": "seagrass"
-    },
-    {
-      "required": false,
-      "id": "short_grass"
-    },
-    {
-      "required": false,
-      "id": "shroomlight"
-    },
-    {
-      "required": false,
-      "id": "shulker_box"
-    },
-    {
-      "required": false,
-      "id": "skeleton_skull"
-    },
-    {
-      "required": false,
-      "id": "skeleton_wall_skull"
-    },
-    {
-      "required": false,
-      "id": "slime_block"
-    },
-    {
-      "required": false,
-      "id": "small_amethyst_bud"
-    },
-    {
-      "required": false,
-      "id": "small_dripleaf"
-    },
-    {
-      "required": false,
-      "id": "smithing_table"
-    },
-    {
-      "required": false,
-      "id": "smoker"
-    },
-    {
-      "required": false,
-      "id": "smooth_basalt"
-    },
-    {
-      "required": false,
-      "id": "smooth_quartz"
-    },
-    {
-      "required": false,
-      "id": "smooth_quartz_slab"
-    },
-    {
-      "required": false,
-      "id": "smooth_quartz_stairs"
-    },
-    {
-      "required": false,
-      "id": "smooth_red_sandstone"
-    },
-    {
-      "required": false,
-      "id": "smooth_red_sandstone_slab"
-    },
-    {
-      "required": false,
-      "id": "smooth_red_sandstone_stairs"
-    },
-    {
-      "required": false,
-      "id": "smooth_sandstone"
-    },
-    {
-      "required": false,
-      "id": "smooth_sandstone_slab"
-    },
-    {
-      "required": false,
-      "id": "smooth_sandstone_stairs"
-    },
-    {
-      "required": false,
-      "id": "smooth_stone"
-    },
-    {
-      "required": false,
-      "id": "smooth_stone_slab"
-    },
-    {
-      "required": false,
-      "id": "sniffer_egg"
-    },
-    {
-      "required": false,
-      "id": "snow"
-    },
-    {
-      "required": false,
-      "id": "snow_block"
-    },
-    {
-      "required": false,
-      "id": "soul_campfire"
-    },
-    {
-      "required": false,
-      "id": "soul_fire"
-    },
-    {
-      "required": false,
-      "id": "soul_lantern"
-    },
-    {
-      "required": false,
-      "id": "soul_sand"
-    },
-    {
-      "required": false,
-      "id": "soul_soil"
-    },
-    {
-      "required": false,
-      "id": "soul_torch"
-    },
-    {
-      "required": false,
-      "id": "soul_wall_torch"
-    },
-    {
-      "required": false,
-      "id": "spawner"
-    },
-    {
-      "required": false,
-      "id": "sponge"
-    },
-    {
-      "required": false,
-      "id": "spore_blossom"
-    },
-    {
-      "required": false,
-      "id": "spruce_button"
-    },
-    {
-      "required": false,
-      "id": "spruce_door"
-    },
-    {
-      "required": false,
-      "id": "spruce_fence"
-    },
-    {
-      "required": false,
-      "id": "spruce_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "spruce_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "spruce_leaves"
-    },
-    {
-      "required": false,
-      "id": "spruce_log"
-    },
-    {
-      "required": false,
-      "id": "spruce_planks"
-    },
-    {
-      "required": false,
-      "id": "spruce_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "spruce_sapling"
-    },
-    {
-      "required": false,
-      "id": "spruce_sign"
-    },
-    {
-      "required": false,
-      "id": "spruce_slab"
-    },
-    {
-      "required": false,
-      "id": "spruce_stairs"
-    },
-    {
-      "required": false,
-      "id": "spruce_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "spruce_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "spruce_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "spruce_wood"
-    },
-    {
-      "required": false,
-      "id": "sticky_piston"
-    },
-    {
-      "required": false,
-      "id": "stone"
-    },
-    {
-      "required": false,
-      "id": "stone_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "stone_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "stone_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "stone_bricks"
-    },
-    {
-      "required": false,
-      "id": "stone_button"
-    },
-    {
-      "required": false,
-      "id": "stone_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "stone_slab"
-    },
-    {
-      "required": false,
-      "id": "stone_stairs"
-    },
-    {
-      "required": false,
-      "id": "stonecutter"
-    },
-    {
-      "required": false,
-      "id": "stripped_acacia_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_acacia_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_bamboo_block"
-    },
-    {
-      "required": false,
-      "id": "stripped_birch_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_birch_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_cherry_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_cherry_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_crimson_hyphae"
-    },
-    {
-      "required": false,
-      "id": "stripped_crimson_stem"
-    },
-    {
-      "required": false,
-      "id": "stripped_dark_oak_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_dark_oak_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_jungle_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_jungle_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_mangrove_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_mangrove_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_oak_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_oak_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_pale_oak_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_pale_oak_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_spruce_log"
-    },
-    {
-      "required": false,
-      "id": "stripped_spruce_wood"
-    },
-    {
-      "required": false,
-      "id": "stripped_warped_hyphae"
-    },
-    {
-      "required": false,
-      "id": "stripped_warped_stem"
-    },
-    {
-      "required": false,
-      "id": "structure_block"
-    },
-    {
-      "required": false,
-      "id": "structure_void"
-    },
-    {
-      "required": false,
-      "id": "sugar_cane"
-    },
-    {
-      "required": false,
-      "id": "sunflower"
-    },
-    {
-      "required": false,
-      "id": "suspicious_gravel"
-    },
-    {
-      "required": false,
-      "id": "suspicious_sand"
-    },
-    {
-      "required": false,
-      "id": "sweet_berry_bush"
-    },
-    {
-      "required": false,
-      "id": "tall_grass"
-    },
-    {
-      "required": false,
-      "id": "tall_seagrass"
-    },
-    {
-      "required": false,
-      "id": "target"
-    },
-    {
-      "required": false,
-      "id": "terracotta"
-    },
-    {
-      "required": false,
-      "id": "tinted_glass"
-    },
-    {
-      "required": false,
-      "id": "tnt"
-    },
-    {
-      "required": false,
-      "id": "torch"
-    },
-    {
-      "required": false,
-      "id": "torchflower"
-    },
-    {
-      "required": false,
-      "id": "torchflower_crop"
-    },
-    {
-      "required": false,
-      "id": "trapped_chest"
-    },
-    {
-      "required": false,
-      "id": "trial_spawner"
-    },
-    {
-      "required": false,
-      "id": "tripwire"
-    },
-    {
-      "required": false,
-      "id": "tripwire_hook"
-    },
-    {
-      "required": false,
-      "id": "tube_coral"
-    },
-    {
-      "required": false,
-      "id": "tube_coral_block"
-    },
-    {
-      "required": false,
-      "id": "tube_coral_fan"
-    },
-    {
-      "required": false,
-      "id": "tube_coral_wall_fan"
-    },
-    {
-      "required": false,
-      "id": "tuff"
-    },
-    {
-      "required": false,
-      "id": "tuff_brick_slab"
-    },
-    {
-      "required": false,
-      "id": "tuff_brick_stairs"
-    },
-    {
-      "required": false,
-      "id": "tuff_brick_wall"
-    },
-    {
-      "required": false,
-      "id": "tuff_bricks"
-    },
-    {
-      "required": false,
-      "id": "tuff_slab"
-    },
-    {
-      "required": false,
-      "id": "tuff_stairs"
-    },
-    {
-      "required": false,
-      "id": "tuff_wall"
-    },
-    {
-      "required": false,
-      "id": "turtle_egg"
-    },
-    {
-      "required": false,
-      "id": "twisting_vines"
-    },
-    {
-      "required": false,
-      "id": "twisting_vines_plant"
-    },
-    {
-      "required": false,
-      "id": "vault"
-    },
-    {
-      "required": false,
-      "id": "verdant_froglight"
-    },
-    {
-      "required": false,
-      "id": "vine"
-    },
-    {
-      "required": false,
-      "id": "void_air"
-    },
-    {
-      "required": false,
-      "id": "wall_torch"
-    },
-    {
-      "required": false,
-      "id": "warped_button"
-    },
-    {
-      "required": false,
-      "id": "warped_door"
-    },
-    {
-      "required": false,
-      "id": "warped_fence"
-    },
-    {
-      "required": false,
-      "id": "warped_fence_gate"
-    },
-    {
-      "required": false,
-      "id": "warped_fungus"
-    },
-    {
-      "required": false,
-      "id": "warped_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "warped_hyphae"
-    },
-    {
-      "required": false,
-      "id": "warped_nylium"
-    },
-    {
-      "required": false,
-      "id": "warped_planks"
-    },
-    {
-      "required": false,
-      "id": "warped_pressure_plate"
-    },
-    {
-      "required": false,
-      "id": "warped_roots"
-    },
-    {
-      "required": false,
-      "id": "warped_sign"
-    },
-    {
-      "required": false,
-      "id": "warped_slab"
-    },
-    {
-      "required": false,
-      "id": "warped_stairs"
-    },
-    {
-      "required": false,
-      "id": "warped_stem"
-    },
-    {
-      "required": false,
-      "id": "warped_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "warped_wall_hanging_sign"
-    },
-    {
-      "required": false,
-      "id": "warped_wall_sign"
-    },
-    {
-      "required": false,
-      "id": "warped_wart_block"
-    },
-    {
-      "required": false,
-      "id": "water"
-    },
-    {
-      "required": false,
-      "id": "water_cauldron"
-    },
-    {
-      "required": false,
-      "id": "waxed_chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_copper_block"
-    },
-    {
-      "required": false,
-      "id": "waxed_copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "waxed_copper_door"
-    },
-    {
-      "required": false,
-      "id": "waxed_copper_grate"
-    },
-    {
-      "required": false,
-      "id": "waxed_copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "waxed_cut_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "waxed_cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_copper_door"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_copper_grate"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_cut_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "waxed_exposed_cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_copper_door"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_copper_grate"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_cut_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "waxed_oxidized_cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_copper_door"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_copper_grate"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_cut_copper"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "waxed_weathered_cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "weathered_chiseled_copper"
-    },
-    {
-      "required": false,
-      "id": "weathered_copper"
-    },
-    {
-      "required": false,
-      "id": "weathered_copper_bulb"
-    },
-    {
-      "required": false,
-      "id": "weathered_copper_door"
-    },
-    {
-      "required": false,
-      "id": "weathered_copper_grate"
-    },
-    {
-      "required": false,
-      "id": "weathered_copper_trapdoor"
-    },
-    {
-      "required": false,
-      "id": "weathered_cut_copper"
-    },
-    {
-      "required": false,
-      "id": "weathered_cut_copper_slab"
-    },
-    {
-      "required": false,
-      "id": "weathered_cut_copper_stairs"
-    },
-    {
-      "required": false,
-      "id": "weeping_vines"
-    },
-    {
-      "required": false,
-      "id": "weeping_vines_plant"
-    },
-    {
-      "required": false,
-      "id": "wet_sponge"
-    },
-    {
-      "required": false,
-      "id": "wheat"
-    },
-    {
-      "required": false,
-      "id": "white_banner"
-    },
-    {
-      "required": false,
-      "id": "white_bed"
-    },
-    {
-      "required": false,
-      "id": "white_candle"
-    },
-    {
-      "required": false,
-      "id": "white_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "white_carpet"
-    },
-    {
-      "required": false,
-      "id": "white_concrete"
-    },
-    {
-      "required": false,
-      "id": "white_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "white_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "white_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "white_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "white_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "white_terracotta"
-    },
-    {
-      "required": false,
-      "id": "white_tulip"
-    },
-    {
-      "required": false,
-      "id": "white_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "white_wool"
-    },
-    {
-      "required": false,
-      "id": "wither_rose"
-    },
-    {
-      "required": false,
-      "id": "wither_skeleton_skull"
-    },
-    {
-      "required": false,
-      "id": "wither_skeleton_wall_skull"
-    },
-    {
-      "required": false,
-      "id": "yellow_banner"
-    },
-    {
-      "required": false,
-      "id": "yellow_bed"
-    },
-    {
-      "required": false,
-      "id": "yellow_candle"
-    },
-    {
-      "required": false,
-      "id": "yellow_candle_cake"
-    },
-    {
-      "required": false,
-      "id": "yellow_carpet"
-    },
-    {
-      "required": false,
-      "id": "yellow_concrete"
-    },
-    {
-      "required": false,
-      "id": "yellow_concrete_powder"
-    },
-    {
-      "required": false,
-      "id": "yellow_glazed_terracotta"
-    },
-    {
-      "required": false,
-      "id": "yellow_shulker_box"
-    },
-    {
-      "required": false,
-      "id": "yellow_stained_glass"
-    },
-    {
-      "required": false,
-      "id": "yellow_stained_glass_pane"
-    },
-    {
-      "required": false,
-      "id": "yellow_terracotta"
-    },
-    {
-      "required": false,
-      "id": "yellow_wall_banner"
-    },
-    {
-      "required": false,
-      "id": "yellow_wool"
-    },
-    {
-      "required": false,
-      "id": "zombie_head"
-    },
-    {
-      "required": false,
-      "id": "zombie_wall_head"
-    }
-  ]
+    "replace": false,
+    "values": [
+        {
+            "required": false,
+            "id": "acacia_button"
+        },
+        {
+            "required": false,
+            "id": "acacia_door"
+        },
+        {
+            "required": false,
+            "id": "acacia_fence"
+        },
+        {
+            "required": false,
+            "id": "acacia_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "acacia_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "acacia_leaves"
+        },
+        {
+            "required": false,
+            "id": "acacia_log"
+        },
+        {
+            "required": false,
+            "id": "acacia_planks"
+        },
+        {
+            "required": false,
+            "id": "acacia_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "acacia_sapling"
+        },
+        {
+            "required": false,
+            "id": "acacia_sign"
+        },
+        {
+            "required": false,
+            "id": "acacia_slab"
+        },
+        {
+            "required": false,
+            "id": "acacia_stairs"
+        },
+        {
+            "required": false,
+            "id": "acacia_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "acacia_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "acacia_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "acacia_wood"
+        },
+        {
+            "required": false,
+            "id": "activator_rail"
+        },
+        {
+            "required": false,
+            "id": "air"
+        },
+        {
+            "required": false,
+            "id": "allium"
+        },
+        {
+            "required": false,
+            "id": "amethyst_block"
+        },
+        {
+            "required": false,
+            "id": "amethyst_cluster"
+        },
+        {
+            "required": false,
+            "id": "ancient_debris"
+        },
+        {
+            "required": false,
+            "id": "andesite"
+        },
+        {
+            "required": false,
+            "id": "andesite_slab"
+        },
+        {
+            "required": false,
+            "id": "andesite_stairs"
+        },
+        {
+            "required": false,
+            "id": "andesite_wall"
+        },
+        {
+            "required": false,
+            "id": "anvil"
+        },
+        {
+            "required": false,
+            "id": "attached_melon_stem"
+        },
+        {
+            "required": false,
+            "id": "attached_pumpkin_stem"
+        },
+        {
+            "required": false,
+            "id": "azalea"
+        },
+        {
+            "required": false,
+            "id": "azalea_leaves"
+        },
+        {
+            "required": false,
+            "id": "azure_bluet"
+        },
+        {
+            "required": false,
+            "id": "bamboo"
+        },
+        {
+            "required": false,
+            "id": "bamboo_block"
+        },
+        {
+            "required": false,
+            "id": "bamboo_button"
+        },
+        {
+            "required": false,
+            "id": "bamboo_door"
+        },
+        {
+            "required": false,
+            "id": "bamboo_fence"
+        },
+        {
+            "required": false,
+            "id": "bamboo_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "bamboo_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "bamboo_mosaic"
+        },
+        {
+            "required": false,
+            "id": "bamboo_mosaic_slab"
+        },
+        {
+            "required": false,
+            "id": "bamboo_mosaic_stairs"
+        },
+        {
+            "required": false,
+            "id": "bamboo_planks"
+        },
+        {
+            "required": false,
+            "id": "bamboo_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "bamboo_sapling"
+        },
+        {
+            "required": false,
+            "id": "bamboo_sign"
+        },
+        {
+            "required": false,
+            "id": "bamboo_slab"
+        },
+        {
+            "required": false,
+            "id": "bamboo_stairs"
+        },
+        {
+            "required": false,
+            "id": "bamboo_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "bamboo_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "bamboo_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "barrel"
+        },
+        {
+            "required": false,
+            "id": "barrier"
+        },
+        {
+            "required": false,
+            "id": "basalt"
+        },
+        {
+            "required": false,
+            "id": "beacon"
+        },
+        {
+            "required": false,
+            "id": "bedrock"
+        },
+        {
+            "required": false,
+            "id": "bee_nest"
+        },
+        {
+            "required": false,
+            "id": "beehive"
+        },
+        {
+            "required": false,
+            "id": "beetroots"
+        },
+        {
+            "required": false,
+            "id": "bell"
+        },
+        {
+            "required": false,
+            "id": "big_dripleaf"
+        },
+        {
+            "required": false,
+            "id": "big_dripleaf_stem"
+        },
+        {
+            "required": false,
+            "id": "birch_button"
+        },
+        {
+            "required": false,
+            "id": "birch_door"
+        },
+        {
+            "required": false,
+            "id": "birch_fence"
+        },
+        {
+            "required": false,
+            "id": "birch_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "birch_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "birch_leaves"
+        },
+        {
+            "required": false,
+            "id": "birch_log"
+        },
+        {
+            "required": false,
+            "id": "birch_planks"
+        },
+        {
+            "required": false,
+            "id": "birch_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "birch_sapling"
+        },
+        {
+            "required": false,
+            "id": "birch_sign"
+        },
+        {
+            "required": false,
+            "id": "birch_slab"
+        },
+        {
+            "required": false,
+            "id": "birch_stairs"
+        },
+        {
+            "required": false,
+            "id": "birch_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "birch_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "birch_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "birch_wood"
+        },
+        {
+            "required": false,
+            "id": "black_banner"
+        },
+        {
+            "required": false,
+            "id": "black_bed"
+        },
+        {
+            "required": false,
+            "id": "black_candle"
+        },
+        {
+            "required": false,
+            "id": "black_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "black_carpet"
+        },
+        {
+            "required": false,
+            "id": "black_concrete"
+        },
+        {
+            "required": false,
+            "id": "black_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "black_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "black_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "black_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "black_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "black_terracotta"
+        },
+        {
+            "required": false,
+            "id": "black_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "black_wool"
+        },
+        {
+            "required": false,
+            "id": "blackstone"
+        },
+        {
+            "required": false,
+            "id": "blackstone_slab"
+        },
+        {
+            "required": false,
+            "id": "blackstone_stairs"
+        },
+        {
+            "required": false,
+            "id": "blackstone_wall"
+        },
+        {
+            "required": false,
+            "id": "blast_furnace"
+        },
+        {
+            "required": false,
+            "id": "blue_banner"
+        },
+        {
+            "required": false,
+            "id": "blue_bed"
+        },
+        {
+            "required": false,
+            "id": "blue_candle"
+        },
+        {
+            "required": false,
+            "id": "blue_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "blue_carpet"
+        },
+        {
+            "required": false,
+            "id": "blue_concrete"
+        },
+        {
+            "required": false,
+            "id": "blue_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "blue_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "blue_ice"
+        },
+        {
+            "required": false,
+            "id": "blue_orchid"
+        },
+        {
+            "required": false,
+            "id": "blue_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "blue_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "blue_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "blue_terracotta"
+        },
+        {
+            "required": false,
+            "id": "blue_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "blue_wool"
+        },
+        {
+            "required": false,
+            "id": "bone_block"
+        },
+        {
+            "required": false,
+            "id": "bookshelf"
+        },
+        {
+            "required": false,
+            "id": "brain_coral"
+        },
+        {
+            "required": false,
+            "id": "brain_coral_block"
+        },
+        {
+            "required": false,
+            "id": "brain_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "brain_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "brewing_stand"
+        },
+        {
+            "required": false,
+            "id": "brick_slab"
+        },
+        {
+            "required": false,
+            "id": "brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "brick_wall"
+        },
+        {
+            "required": false,
+            "id": "bricks"
+        },
+        {
+            "required": false,
+            "id": "brown_banner"
+        },
+        {
+            "required": false,
+            "id": "brown_bed"
+        },
+        {
+            "required": false,
+            "id": "brown_candle"
+        },
+        {
+            "required": false,
+            "id": "brown_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "brown_carpet"
+        },
+        {
+            "required": false,
+            "id": "brown_concrete"
+        },
+        {
+            "required": false,
+            "id": "brown_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "brown_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "brown_mushroom"
+        },
+        {
+            "required": false,
+            "id": "brown_mushroom_block"
+        },
+        {
+            "required": false,
+            "id": "brown_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "brown_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "brown_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "brown_terracotta"
+        },
+        {
+            "required": false,
+            "id": "brown_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "brown_wool"
+        },
+        {
+            "required": false,
+            "id": "bubble_column"
+        },
+        {
+            "required": false,
+            "id": "bubble_coral"
+        },
+        {
+            "required": false,
+            "id": "bubble_coral_block"
+        },
+        {
+            "required": false,
+            "id": "bubble_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "bubble_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "budding_amethyst"
+        },
+        {
+            "required": false,
+            "id": "bush"
+        },
+        {
+            "required": false,
+            "id": "cactus"
+        },
+        {
+            "required": false,
+            "id": "cactus_flower"
+        },
+        {
+            "required": false,
+            "id": "cake"
+        },
+        {
+            "required": false,
+            "id": "calcite"
+        },
+        {
+            "required": false,
+            "id": "calibrated_sculk_sensor"
+        },
+        {
+            "required": false,
+            "id": "campfire"
+        },
+        {
+            "required": false,
+            "id": "candle"
+        },
+        {
+            "required": false,
+            "id": "candle_cake"
+        },
+        {
+            "required": false,
+            "id": "carrots"
+        },
+        {
+            "required": false,
+            "id": "cartography_table"
+        },
+        {
+            "required": false,
+            "id": "carved_pumpkin"
+        },
+        {
+            "required": false,
+            "id": "cauldron"
+        },
+        {
+            "required": false,
+            "id": "cave_air"
+        },
+        {
+            "required": false,
+            "id": "cave_vines"
+        },
+        {
+            "required": false,
+            "id": "cave_vines_plant"
+        },
+        {
+            "required": false,
+            "id": "chain"
+        },
+        {
+            "required": false,
+            "id": "chain_command_block"
+        },
+        {
+            "required": false,
+            "id": "cherry_button"
+        },
+        {
+            "required": false,
+            "id": "cherry_door"
+        },
+        {
+            "required": false,
+            "id": "cherry_fence"
+        },
+        {
+            "required": false,
+            "id": "cherry_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "cherry_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "cherry_leaves"
+        },
+        {
+            "required": false,
+            "id": "cherry_log"
+        },
+        {
+            "required": false,
+            "id": "cherry_planks"
+        },
+        {
+            "required": false,
+            "id": "cherry_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "cherry_sapling"
+        },
+        {
+            "required": false,
+            "id": "cherry_sign"
+        },
+        {
+            "required": false,
+            "id": "cherry_slab"
+        },
+        {
+            "required": false,
+            "id": "cherry_stairs"
+        },
+        {
+            "required": false,
+            "id": "cherry_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "cherry_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "cherry_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "cherry_wood"
+        },
+        {
+            "required": false,
+            "id": "chest"
+        },
+        {
+            "required": false,
+            "id": "chipped_anvil"
+        },
+        {
+            "required": false,
+            "id": "chiseled_bookshelf"
+        },
+        {
+            "required": false,
+            "id": "chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "chiseled_deepslate"
+        },
+        {
+            "required": false,
+            "id": "chiseled_nether_bricks"
+        },
+        {
+            "required": false,
+            "id": "chiseled_polished_blackstone"
+        },
+        {
+            "required": false,
+            "id": "chiseled_quartz_block"
+        },
+        {
+            "required": false,
+            "id": "chiseled_red_sandstone"
+        },
+        {
+            "required": false,
+            "id": "chiseled_resin_bricks"
+        },
+        {
+            "required": false,
+            "id": "chiseled_sandstone"
+        },
+        {
+            "required": false,
+            "id": "chiseled_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "chiseled_tuff"
+        },
+        {
+            "required": false,
+            "id": "chiseled_tuff_bricks"
+        },
+        {
+            "required": false,
+            "id": "chorus_flower"
+        },
+        {
+            "required": false,
+            "id": "chorus_plant"
+        },
+        {
+            "required": false,
+            "id": "clay"
+        },
+        {
+            "required": false,
+            "id": "closed_eyeblossom"
+        },
+        {
+            "required": false,
+            "id": "coal_block"
+        },
+        {
+            "required": false,
+            "id": "coal_ore"
+        },
+        {
+            "required": false,
+            "id": "coarse_dirt"
+        },
+        {
+            "required": false,
+            "id": "cobbled_deepslate"
+        },
+        {
+            "required": false,
+            "id": "cobbled_deepslate_slab"
+        },
+        {
+            "required": false,
+            "id": "cobbled_deepslate_stairs"
+        },
+        {
+            "required": false,
+            "id": "cobbled_deepslate_wall"
+        },
+        {
+            "required": false,
+            "id": "cobblestone"
+        },
+        {
+            "required": false,
+            "id": "cobblestone_slab"
+        },
+        {
+            "required": false,
+            "id": "cobblestone_stairs"
+        },
+        {
+            "required": false,
+            "id": "cobblestone_wall"
+        },
+        {
+            "required": false,
+            "id": "cobweb"
+        },
+        {
+            "required": false,
+            "id": "cocoa"
+        },
+        {
+            "required": false,
+            "id": "command_block"
+        },
+        {
+            "required": false,
+            "id": "comparator"
+        },
+        {
+            "required": false,
+            "id": "composter"
+        },
+        {
+            "required": false,
+            "id": "conduit"
+        },
+        {
+            "required": false,
+            "id": "copper_block"
+        },
+        {
+            "required": false,
+            "id": "copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "copper_door"
+        },
+        {
+            "required": false,
+            "id": "copper_grate"
+        },
+        {
+            "required": false,
+            "id": "copper_ore"
+        },
+        {
+            "required": false,
+            "id": "copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "cornflower"
+        },
+        {
+            "required": false,
+            "id": "cracked_deepslate_bricks"
+        },
+        {
+            "required": false,
+            "id": "cracked_deepslate_tiles"
+        },
+        {
+            "required": false,
+            "id": "cracked_nether_bricks"
+        },
+        {
+            "required": false,
+            "id": "cracked_polished_blackstone_bricks"
+        },
+        {
+            "required": false,
+            "id": "cracked_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "crafter"
+        },
+        {
+            "required": false,
+            "id": "crafting_table"
+        },
+        {
+            "required": false,
+            "id": "creaking_heart"
+        },
+        {
+            "required": false,
+            "id": "creeper_head"
+        },
+        {
+            "required": false,
+            "id": "creeper_wall_head"
+        },
+        {
+            "required": false,
+            "id": "crimson_button"
+        },
+        {
+            "required": false,
+            "id": "crimson_door"
+        },
+        {
+            "required": false,
+            "id": "crimson_fence"
+        },
+        {
+            "required": false,
+            "id": "crimson_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "crimson_fungus"
+        },
+        {
+            "required": false,
+            "id": "crimson_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "crimson_hyphae"
+        },
+        {
+            "required": false,
+            "id": "crimson_nylium"
+        },
+        {
+            "required": false,
+            "id": "crimson_planks"
+        },
+        {
+            "required": false,
+            "id": "crimson_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "crimson_roots"
+        },
+        {
+            "required": false,
+            "id": "crimson_sign"
+        },
+        {
+            "required": false,
+            "id": "crimson_slab"
+        },
+        {
+            "required": false,
+            "id": "crimson_stairs"
+        },
+        {
+            "required": false,
+            "id": "crimson_stem"
+        },
+        {
+            "required": false,
+            "id": "crimson_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "crimson_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "crimson_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "crying_obsidian"
+        },
+        {
+            "required": false,
+            "id": "cut_copper"
+        },
+        {
+            "required": false,
+            "id": "cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "cut_red_sandstone"
+        },
+        {
+            "required": false,
+            "id": "cut_red_sandstone_slab"
+        },
+        {
+            "required": false,
+            "id": "cut_sandstone"
+        },
+        {
+            "required": false,
+            "id": "cut_sandstone_slab"
+        },
+        {
+            "required": false,
+            "id": "cyan_banner"
+        },
+        {
+            "required": false,
+            "id": "cyan_bed"
+        },
+        {
+            "required": false,
+            "id": "cyan_candle"
+        },
+        {
+            "required": false,
+            "id": "cyan_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "cyan_carpet"
+        },
+        {
+            "required": false,
+            "id": "cyan_concrete"
+        },
+        {
+            "required": false,
+            "id": "cyan_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "cyan_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "cyan_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "cyan_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "cyan_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "cyan_terracotta"
+        },
+        {
+            "required": false,
+            "id": "cyan_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "cyan_wool"
+        },
+        {
+            "required": false,
+            "id": "damaged_anvil"
+        },
+        {
+            "required": false,
+            "id": "dandelion"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_button"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_door"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_fence"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_leaves"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_log"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_planks"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_sign"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_slab"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_stairs"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_wood"
+        },
+        {
+            "required": false,
+            "id": "dark_prismarine"
+        },
+        {
+            "required": false,
+            "id": "dark_prismarine_slab"
+        },
+        {
+            "required": false,
+            "id": "dark_prismarine_stairs"
+        },
+        {
+            "required": false,
+            "id": "daylight_detector"
+        },
+        {
+            "required": false,
+            "id": "dead_brain_coral"
+        },
+        {
+            "required": false,
+            "id": "dead_brain_coral_block"
+        },
+        {
+            "required": false,
+            "id": "dead_brain_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_brain_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_bubble_coral"
+        },
+        {
+            "required": false,
+            "id": "dead_bubble_coral_block"
+        },
+        {
+            "required": false,
+            "id": "dead_bubble_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_bubble_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_bush"
+        },
+        {
+            "required": false,
+            "id": "dead_fire_coral"
+        },
+        {
+            "required": false,
+            "id": "dead_fire_coral_block"
+        },
+        {
+            "required": false,
+            "id": "dead_fire_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_fire_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_horn_coral"
+        },
+        {
+            "required": false,
+            "id": "dead_horn_coral_block"
+        },
+        {
+            "required": false,
+            "id": "dead_horn_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_horn_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_tube_coral"
+        },
+        {
+            "required": false,
+            "id": "dead_tube_coral_block"
+        },
+        {
+            "required": false,
+            "id": "dead_tube_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "dead_tube_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "decorated_pot"
+        },
+        {
+            "required": false,
+            "id": "deepslate"
+        },
+        {
+            "required": false,
+            "id": "deepslate_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "deepslate_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "deepslate_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "deepslate_bricks"
+        },
+        {
+            "required": false,
+            "id": "deepslate_coal_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_copper_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_diamond_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_emerald_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_gold_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_iron_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_lapis_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_redstone_ore"
+        },
+        {
+            "required": false,
+            "id": "deepslate_tile_slab"
+        },
+        {
+            "required": false,
+            "id": "deepslate_tile_stairs"
+        },
+        {
+            "required": false,
+            "id": "deepslate_tile_wall"
+        },
+        {
+            "required": false,
+            "id": "deepslate_tiles"
+        },
+        {
+            "required": false,
+            "id": "detector_rail"
+        },
+        {
+            "required": false,
+            "id": "diamond_block"
+        },
+        {
+            "required": false,
+            "id": "diamond_ore"
+        },
+        {
+            "required": false,
+            "id": "diorite"
+        },
+        {
+            "required": false,
+            "id": "diorite_slab"
+        },
+        {
+            "required": false,
+            "id": "diorite_stairs"
+        },
+        {
+            "required": false,
+            "id": "diorite_wall"
+        },
+        {
+            "required": false,
+            "id": "dirt"
+        },
+        {
+            "required": false,
+            "id": "dirt_path"
+        },
+        {
+            "required": false,
+            "id": "dispenser"
+        },
+        {
+            "required": false,
+            "id": "dragon_egg"
+        },
+        {
+            "required": false,
+            "id": "dragon_head"
+        },
+        {
+            "required": false,
+            "id": "dragon_wall_head"
+        },
+        {
+            "required": false,
+            "id": "dried_ghast"
+        },
+        {
+            "required": false,
+            "id": "dried_kelp_block"
+        },
+        {
+            "required": false,
+            "id": "dripstone_block"
+        },
+        {
+            "required": false,
+            "id": "dropper"
+        },
+        {
+            "required": false,
+            "id": "emerald_block"
+        },
+        {
+            "required": false,
+            "id": "emerald_ore"
+        },
+        {
+            "required": false,
+            "id": "enchanting_table"
+        },
+        {
+            "required": false,
+            "id": "end_gateway"
+        },
+        {
+            "required": false,
+            "id": "end_portal"
+        },
+        {
+            "required": false,
+            "id": "end_portal_frame"
+        },
+        {
+            "required": false,
+            "id": "end_rod"
+        },
+        {
+            "required": false,
+            "id": "end_stone"
+        },
+        {
+            "required": false,
+            "id": "end_stone_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "end_stone_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "end_stone_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "end_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "ender_chest"
+        },
+        {
+            "required": false,
+            "id": "exposed_chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper_door"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "exposed_cut_copper"
+        },
+        {
+            "required": false,
+            "id": "exposed_cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "exposed_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "farmland"
+        },
+        {
+            "required": false,
+            "id": "fern"
+        },
+        {
+            "required": false,
+            "id": "fire"
+        },
+        {
+            "required": false,
+            "id": "fire_coral"
+        },
+        {
+            "required": false,
+            "id": "fire_coral_block"
+        },
+        {
+            "required": false,
+            "id": "fire_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "fire_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "firefly_bush"
+        },
+        {
+            "required": false,
+            "id": "fletching_table"
+        },
+        {
+            "required": false,
+            "id": "flower_pot"
+        },
+        {
+            "required": false,
+            "id": "flowering_azalea"
+        },
+        {
+            "required": false,
+            "id": "flowering_azalea_leaves"
+        },
+        {
+            "required": false,
+            "id": "frogspawn"
+        },
+        {
+            "required": false,
+            "id": "frosted_ice"
+        },
+        {
+            "required": false,
+            "id": "furnace"
+        },
+        {
+            "required": false,
+            "id": "gilded_blackstone"
+        },
+        {
+            "required": false,
+            "id": "glass"
+        },
+        {
+            "required": false,
+            "id": "glass_pane"
+        },
+        {
+            "required": false,
+            "id": "glow_lichen"
+        },
+        {
+            "required": false,
+            "id": "glowstone"
+        },
+        {
+            "required": false,
+            "id": "gold_block"
+        },
+        {
+            "required": false,
+            "id": "gold_ore"
+        },
+        {
+            "required": false,
+            "id": "granite"
+        },
+        {
+            "required": false,
+            "id": "granite_slab"
+        },
+        {
+            "required": false,
+            "id": "granite_stairs"
+        },
+        {
+            "required": false,
+            "id": "granite_wall"
+        },
+        {
+            "required": false,
+            "id": "grass_block"
+        },
+        {
+            "required": false,
+            "id": "gravel"
+        },
+        {
+            "required": false,
+            "id": "gray_banner"
+        },
+        {
+            "required": false,
+            "id": "gray_bed"
+        },
+        {
+            "required": false,
+            "id": "gray_candle"
+        },
+        {
+            "required": false,
+            "id": "gray_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "gray_carpet"
+        },
+        {
+            "required": false,
+            "id": "gray_concrete"
+        },
+        {
+            "required": false,
+            "id": "gray_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "gray_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "gray_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "gray_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "gray_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "gray_terracotta"
+        },
+        {
+            "required": false,
+            "id": "gray_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "gray_wool"
+        },
+        {
+            "required": false,
+            "id": "green_banner"
+        },
+        {
+            "required": false,
+            "id": "green_bed"
+        },
+        {
+            "required": false,
+            "id": "green_candle"
+        },
+        {
+            "required": false,
+            "id": "green_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "green_carpet"
+        },
+        {
+            "required": false,
+            "id": "green_concrete"
+        },
+        {
+            "required": false,
+            "id": "green_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "green_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "green_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "green_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "green_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "green_terracotta"
+        },
+        {
+            "required": false,
+            "id": "green_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "green_wool"
+        },
+        {
+            "required": false,
+            "id": "grindstone"
+        },
+        {
+            "required": false,
+            "id": "hanging_roots"
+        },
+        {
+            "required": false,
+            "id": "hay_block"
+        },
+        {
+            "required": false,
+            "id": "heavy_core"
+        },
+        {
+            "required": false,
+            "id": "heavy_weighted_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "honey_block"
+        },
+        {
+            "required": false,
+            "id": "honeycomb_block"
+        },
+        {
+            "required": false,
+            "id": "hopper"
+        },
+        {
+            "required": false,
+            "id": "horn_coral"
+        },
+        {
+            "required": false,
+            "id": "horn_coral_block"
+        },
+        {
+            "required": false,
+            "id": "horn_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "horn_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "ice"
+        },
+        {
+            "required": false,
+            "id": "infested_chiseled_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "infested_cobblestone"
+        },
+        {
+            "required": false,
+            "id": "infested_cracked_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "infested_deepslate"
+        },
+        {
+            "required": false,
+            "id": "infested_mossy_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "infested_stone"
+        },
+        {
+            "required": false,
+            "id": "infested_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "iron_bars"
+        },
+        {
+            "required": false,
+            "id": "iron_block"
+        },
+        {
+            "required": false,
+            "id": "iron_door"
+        },
+        {
+            "required": false,
+            "id": "iron_ore"
+        },
+        {
+            "required": false,
+            "id": "iron_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "jack_o_lantern"
+        },
+        {
+            "required": false,
+            "id": "jigsaw"
+        },
+        {
+            "required": false,
+            "id": "jukebox"
+        },
+        {
+            "required": false,
+            "id": "jungle_button"
+        },
+        {
+            "required": false,
+            "id": "jungle_door"
+        },
+        {
+            "required": false,
+            "id": "jungle_fence"
+        },
+        {
+            "required": false,
+            "id": "jungle_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "jungle_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "jungle_leaves"
+        },
+        {
+            "required": false,
+            "id": "jungle_log"
+        },
+        {
+            "required": false,
+            "id": "jungle_planks"
+        },
+        {
+            "required": false,
+            "id": "jungle_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "jungle_sapling"
+        },
+        {
+            "required": false,
+            "id": "jungle_sign"
+        },
+        {
+            "required": false,
+            "id": "jungle_slab"
+        },
+        {
+            "required": false,
+            "id": "jungle_stairs"
+        },
+        {
+            "required": false,
+            "id": "jungle_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "jungle_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "jungle_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "jungle_wood"
+        },
+        {
+            "required": false,
+            "id": "kelp"
+        },
+        {
+            "required": false,
+            "id": "kelp_plant"
+        },
+        {
+            "required": false,
+            "id": "ladder"
+        },
+        {
+            "required": false,
+            "id": "lantern"
+        },
+        {
+            "required": false,
+            "id": "lapis_block"
+        },
+        {
+            "required": false,
+            "id": "lapis_ore"
+        },
+        {
+            "required": false,
+            "id": "large_amethyst_bud"
+        },
+        {
+            "required": false,
+            "id": "large_fern"
+        },
+        {
+            "required": false,
+            "id": "lava"
+        },
+        {
+            "required": false,
+            "id": "lava_cauldron"
+        },
+        {
+            "required": false,
+            "id": "leaf_litter"
+        },
+        {
+            "required": false,
+            "id": "lectern"
+        },
+        {
+            "required": false,
+            "id": "lever"
+        },
+        {
+            "required": false,
+            "id": "light"
+        },
+        {
+            "required": false,
+            "id": "light_blue_banner"
+        },
+        {
+            "required": false,
+            "id": "light_blue_bed"
+        },
+        {
+            "required": false,
+            "id": "light_blue_candle"
+        },
+        {
+            "required": false,
+            "id": "light_blue_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "light_blue_carpet"
+        },
+        {
+            "required": false,
+            "id": "light_blue_concrete"
+        },
+        {
+            "required": false,
+            "id": "light_blue_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "light_blue_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "light_blue_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "light_blue_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "light_blue_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "light_blue_terracotta"
+        },
+        {
+            "required": false,
+            "id": "light_blue_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "light_blue_wool"
+        },
+        {
+            "required": false,
+            "id": "light_gray_banner"
+        },
+        {
+            "required": false,
+            "id": "light_gray_bed"
+        },
+        {
+            "required": false,
+            "id": "light_gray_candle"
+        },
+        {
+            "required": false,
+            "id": "light_gray_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "light_gray_carpet"
+        },
+        {
+            "required": false,
+            "id": "light_gray_concrete"
+        },
+        {
+            "required": false,
+            "id": "light_gray_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "light_gray_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "light_gray_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "light_gray_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "light_gray_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "light_gray_terracotta"
+        },
+        {
+            "required": false,
+            "id": "light_gray_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "light_gray_wool"
+        },
+        {
+            "required": false,
+            "id": "light_weighted_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "lightning_rod"
+        },
+        {
+            "required": false,
+            "id": "lilac"
+        },
+        {
+            "required": false,
+            "id": "lily_of_the_valley"
+        },
+        {
+            "required": false,
+            "id": "lily_pad"
+        },
+        {
+            "required": false,
+            "id": "lime_banner"
+        },
+        {
+            "required": false,
+            "id": "lime_bed"
+        },
+        {
+            "required": false,
+            "id": "lime_candle"
+        },
+        {
+            "required": false,
+            "id": "lime_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "lime_carpet"
+        },
+        {
+            "required": false,
+            "id": "lime_concrete"
+        },
+        {
+            "required": false,
+            "id": "lime_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "lime_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "lime_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "lime_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "lime_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "lime_terracotta"
+        },
+        {
+            "required": false,
+            "id": "lime_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "lime_wool"
+        },
+        {
+            "required": false,
+            "id": "lodestone"
+        },
+        {
+            "required": false,
+            "id": "loom"
+        },
+        {
+            "required": false,
+            "id": "magenta_banner"
+        },
+        {
+            "required": false,
+            "id": "magenta_bed"
+        },
+        {
+            "required": false,
+            "id": "magenta_candle"
+        },
+        {
+            "required": false,
+            "id": "magenta_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "magenta_carpet"
+        },
+        {
+            "required": false,
+            "id": "magenta_concrete"
+        },
+        {
+            "required": false,
+            "id": "magenta_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "magenta_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "magenta_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "magenta_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "magenta_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "magenta_terracotta"
+        },
+        {
+            "required": false,
+            "id": "magenta_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "magenta_wool"
+        },
+        {
+            "required": false,
+            "id": "magma_block"
+        },
+        {
+            "required": false,
+            "id": "mangrove_button"
+        },
+        {
+            "required": false,
+            "id": "mangrove_door"
+        },
+        {
+            "required": false,
+            "id": "mangrove_fence"
+        },
+        {
+            "required": false,
+            "id": "mangrove_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "mangrove_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "mangrove_leaves"
+        },
+        {
+            "required": false,
+            "id": "mangrove_log"
+        },
+        {
+            "required": false,
+            "id": "mangrove_planks"
+        },
+        {
+            "required": false,
+            "id": "mangrove_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "mangrove_propagule"
+        },
+        {
+            "required": false,
+            "id": "mangrove_roots"
+        },
+        {
+            "required": false,
+            "id": "mangrove_sign"
+        },
+        {
+            "required": false,
+            "id": "mangrove_slab"
+        },
+        {
+            "required": false,
+            "id": "mangrove_stairs"
+        },
+        {
+            "required": false,
+            "id": "mangrove_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "mangrove_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "mangrove_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "mangrove_wood"
+        },
+        {
+            "required": false,
+            "id": "medium_amethyst_bud"
+        },
+        {
+            "required": false,
+            "id": "melon"
+        },
+        {
+            "required": false,
+            "id": "melon_stem"
+        },
+        {
+            "required": false,
+            "id": "moss_block"
+        },
+        {
+            "required": false,
+            "id": "moss_carpet"
+        },
+        {
+            "required": false,
+            "id": "mossy_cobblestone"
+        },
+        {
+            "required": false,
+            "id": "mossy_cobblestone_slab"
+        },
+        {
+            "required": false,
+            "id": "mossy_cobblestone_stairs"
+        },
+        {
+            "required": false,
+            "id": "mossy_cobblestone_wall"
+        },
+        {
+            "required": false,
+            "id": "mossy_stone_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "mossy_stone_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "mossy_stone_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "mossy_stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "moving_piston"
+        },
+        {
+            "required": false,
+            "id": "mud"
+        },
+        {
+            "required": false,
+            "id": "mud_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "mud_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "mud_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "mud_bricks"
+        },
+        {
+            "required": false,
+            "id": "muddy_mangrove_roots"
+        },
+        {
+            "required": false,
+            "id": "mushroom_stem"
+        },
+        {
+            "required": false,
+            "id": "mycelium"
+        },
+        {
+            "required": false,
+            "id": "nether_brick_fence"
+        },
+        {
+            "required": false,
+            "id": "nether_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "nether_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "nether_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "nether_bricks"
+        },
+        {
+            "required": false,
+            "id": "nether_gold_ore"
+        },
+        {
+            "required": false,
+            "id": "nether_portal"
+        },
+        {
+            "required": false,
+            "id": "nether_quartz_ore"
+        },
+        {
+            "required": false,
+            "id": "nether_sprouts"
+        },
+        {
+            "required": false,
+            "id": "nether_wart"
+        },
+        {
+            "required": false,
+            "id": "nether_wart_block"
+        },
+        {
+            "required": false,
+            "id": "netherite_block"
+        },
+        {
+            "required": false,
+            "id": "netherrack"
+        },
+        {
+            "required": false,
+            "id": "note_block"
+        },
+        {
+            "required": false,
+            "id": "oak_button"
+        },
+        {
+            "required": false,
+            "id": "oak_door"
+        },
+        {
+            "required": false,
+            "id": "oak_fence"
+        },
+        {
+            "required": false,
+            "id": "oak_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "oak_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "oak_leaves"
+        },
+        {
+            "required": false,
+            "id": "oak_log"
+        },
+        {
+            "required": false,
+            "id": "oak_planks"
+        },
+        {
+            "required": false,
+            "id": "oak_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "oak_sign"
+        },
+        {
+            "required": false,
+            "id": "oak_slab"
+        },
+        {
+            "required": false,
+            "id": "oak_stairs"
+        },
+        {
+            "required": false,
+            "id": "oak_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "oak_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "oak_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "oak_wood"
+        },
+        {
+            "required": false,
+            "id": "observer"
+        },
+        {
+            "required": false,
+            "id": "obsidian"
+        },
+        {
+            "required": false,
+            "id": "ochre_froglight"
+        },
+        {
+            "required": false,
+            "id": "open_eyeblossom"
+        },
+        {
+            "required": false,
+            "id": "orange_banner"
+        },
+        {
+            "required": false,
+            "id": "orange_bed"
+        },
+        {
+            "required": false,
+            "id": "orange_candle"
+        },
+        {
+            "required": false,
+            "id": "orange_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "orange_carpet"
+        },
+        {
+            "required": false,
+            "id": "orange_concrete"
+        },
+        {
+            "required": false,
+            "id": "orange_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "orange_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "orange_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "orange_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "orange_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "orange_terracotta"
+        },
+        {
+            "required": false,
+            "id": "orange_tulip"
+        },
+        {
+            "required": false,
+            "id": "orange_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "orange_wool"
+        },
+        {
+            "required": false,
+            "id": "oxeye_daisy"
+        },
+        {
+            "required": false,
+            "id": "oxidized_chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper_door"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "oxidized_cut_copper"
+        },
+        {
+            "required": false,
+            "id": "oxidized_cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "oxidized_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "packed_ice"
+        },
+        {
+            "required": false,
+            "id": "packed_mud"
+        },
+        {
+            "required": false,
+            "id": "pale_hanging_moss"
+        },
+        {
+            "required": false,
+            "id": "pale_moss_block"
+        },
+        {
+            "required": false,
+            "id": "pale_moss_carpet"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_button"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_door"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_fence"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_leaves"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_log"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_planks"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_sign"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_slab"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_stairs"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_wood"
+        },
+        {
+            "required": false,
+            "id": "pearlescent_froglight"
+        },
+        {
+            "required": false,
+            "id": "peony"
+        },
+        {
+            "required": false,
+            "id": "petrified_oak_slab"
+        },
+        {
+            "required": false,
+            "id": "piglin_head"
+        },
+        {
+            "required": false,
+            "id": "piglin_wall_head"
+        },
+        {
+            "required": false,
+            "id": "pink_banner"
+        },
+        {
+            "required": false,
+            "id": "pink_bed"
+        },
+        {
+            "required": false,
+            "id": "pink_candle"
+        },
+        {
+            "required": false,
+            "id": "pink_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "pink_carpet"
+        },
+        {
+            "required": false,
+            "id": "pink_concrete"
+        },
+        {
+            "required": false,
+            "id": "pink_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "pink_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "pink_petals"
+        },
+        {
+            "required": false,
+            "id": "pink_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "pink_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "pink_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "pink_terracotta"
+        },
+        {
+            "required": false,
+            "id": "pink_tulip"
+        },
+        {
+            "required": false,
+            "id": "pink_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "pink_wool"
+        },
+        {
+            "required": false,
+            "id": "piston"
+        },
+        {
+            "required": false,
+            "id": "piston_head"
+        },
+        {
+            "required": false,
+            "id": "pitcher_crop"
+        },
+        {
+            "required": false,
+            "id": "pitcher_plant"
+        },
+        {
+            "required": false,
+            "id": "player_head"
+        },
+        {
+            "required": false,
+            "id": "player_wall_head"
+        },
+        {
+            "required": false,
+            "id": "podzol"
+        },
+        {
+            "required": false,
+            "id": "pointed_dripstone"
+        },
+        {
+            "required": false,
+            "id": "polished_andesite"
+        },
+        {
+            "required": false,
+            "id": "polished_andesite_slab"
+        },
+        {
+            "required": false,
+            "id": "polished_andesite_stairs"
+        },
+        {
+            "required": false,
+            "id": "polished_basalt"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_bricks"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_button"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_slab"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_stairs"
+        },
+        {
+            "required": false,
+            "id": "polished_blackstone_wall"
+        },
+        {
+            "required": false,
+            "id": "polished_deepslate"
+        },
+        {
+            "required": false,
+            "id": "polished_deepslate_slab"
+        },
+        {
+            "required": false,
+            "id": "polished_deepslate_stairs"
+        },
+        {
+            "required": false,
+            "id": "polished_deepslate_wall"
+        },
+        {
+            "required": false,
+            "id": "polished_diorite"
+        },
+        {
+            "required": false,
+            "id": "polished_diorite_slab"
+        },
+        {
+            "required": false,
+            "id": "polished_diorite_stairs"
+        },
+        {
+            "required": false,
+            "id": "polished_granite"
+        },
+        {
+            "required": false,
+            "id": "polished_granite_slab"
+        },
+        {
+            "required": false,
+            "id": "polished_granite_stairs"
+        },
+        {
+            "required": false,
+            "id": "polished_tuff"
+        },
+        {
+            "required": false,
+            "id": "polished_tuff_slab"
+        },
+        {
+            "required": false,
+            "id": "polished_tuff_stairs"
+        },
+        {
+            "required": false,
+            "id": "polished_tuff_wall"
+        },
+        {
+            "required": false,
+            "id": "poppy"
+        },
+        {
+            "required": false,
+            "id": "potatoes"
+        },
+        {
+            "required": false,
+            "id": "potted_acacia_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_allium"
+        },
+        {
+            "required": false,
+            "id": "potted_azalea_bush"
+        },
+        {
+            "required": false,
+            "id": "potted_azure_bluet"
+        },
+        {
+            "required": false,
+            "id": "potted_bamboo"
+        },
+        {
+            "required": false,
+            "id": "potted_birch_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_blue_orchid"
+        },
+        {
+            "required": false,
+            "id": "potted_brown_mushroom"
+        },
+        {
+            "required": false,
+            "id": "potted_cactus"
+        },
+        {
+            "required": false,
+            "id": "potted_cherry_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_closed_eyeblossom"
+        },
+        {
+            "required": false,
+            "id": "potted_cornflower"
+        },
+        {
+            "required": false,
+            "id": "potted_crimson_fungus"
+        },
+        {
+            "required": false,
+            "id": "potted_crimson_roots"
+        },
+        {
+            "required": false,
+            "id": "potted_dandelion"
+        },
+        {
+            "required": false,
+            "id": "potted_dark_oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_dead_bush"
+        },
+        {
+            "required": false,
+            "id": "potted_fern"
+        },
+        {
+            "required": false,
+            "id": "potted_flowering_azalea_bush"
+        },
+        {
+            "required": false,
+            "id": "potted_jungle_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_lily_of_the_valley"
+        },
+        {
+            "required": false,
+            "id": "potted_mangrove_propagule"
+        },
+        {
+            "required": false,
+            "id": "potted_oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_open_eyeblossom"
+        },
+        {
+            "required": false,
+            "id": "potted_orange_tulip"
+        },
+        {
+            "required": false,
+            "id": "potted_oxeye_daisy"
+        },
+        {
+            "required": false,
+            "id": "potted_pale_oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_pink_tulip"
+        },
+        {
+            "required": false,
+            "id": "potted_poppy"
+        },
+        {
+            "required": false,
+            "id": "potted_red_mushroom"
+        },
+        {
+            "required": false,
+            "id": "potted_red_tulip"
+        },
+        {
+            "required": false,
+            "id": "potted_spruce_sapling"
+        },
+        {
+            "required": false,
+            "id": "potted_torchflower"
+        },
+        {
+            "required": false,
+            "id": "potted_warped_fungus"
+        },
+        {
+            "required": false,
+            "id": "potted_warped_roots"
+        },
+        {
+            "required": false,
+            "id": "potted_white_tulip"
+        },
+        {
+            "required": false,
+            "id": "potted_wither_rose"
+        },
+        {
+            "required": false,
+            "id": "powder_snow"
+        },
+        {
+            "required": false,
+            "id": "powder_snow_cauldron"
+        },
+        {
+            "required": false,
+            "id": "powered_rail"
+        },
+        {
+            "required": false,
+            "id": "prismarine"
+        },
+        {
+            "required": false,
+            "id": "prismarine_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "prismarine_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "prismarine_bricks"
+        },
+        {
+            "required": false,
+            "id": "prismarine_slab"
+        },
+        {
+            "required": false,
+            "id": "prismarine_stairs"
+        },
+        {
+            "required": false,
+            "id": "prismarine_wall"
+        },
+        {
+            "required": false,
+            "id": "pumpkin"
+        },
+        {
+            "required": false,
+            "id": "pumpkin_stem"
+        },
+        {
+            "required": false,
+            "id": "purple_banner"
+        },
+        {
+            "required": false,
+            "id": "purple_bed"
+        },
+        {
+            "required": false,
+            "id": "purple_candle"
+        },
+        {
+            "required": false,
+            "id": "purple_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "purple_carpet"
+        },
+        {
+            "required": false,
+            "id": "purple_concrete"
+        },
+        {
+            "required": false,
+            "id": "purple_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "purple_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "purple_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "purple_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "purple_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "purple_terracotta"
+        },
+        {
+            "required": false,
+            "id": "purple_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "purple_wool"
+        },
+        {
+            "required": false,
+            "id": "purpur_block"
+        },
+        {
+            "required": false,
+            "id": "purpur_pillar"
+        },
+        {
+            "required": false,
+            "id": "purpur_slab"
+        },
+        {
+            "required": false,
+            "id": "purpur_stairs"
+        },
+        {
+            "required": false,
+            "id": "quartz_block"
+        },
+        {
+            "required": false,
+            "id": "quartz_bricks"
+        },
+        {
+            "required": false,
+            "id": "quartz_pillar"
+        },
+        {
+            "required": false,
+            "id": "quartz_slab"
+        },
+        {
+            "required": false,
+            "id": "quartz_stairs"
+        },
+        {
+            "required": false,
+            "id": "rail"
+        },
+        {
+            "required": false,
+            "id": "raw_copper_block"
+        },
+        {
+            "required": false,
+            "id": "raw_gold_block"
+        },
+        {
+            "required": false,
+            "id": "raw_iron_block"
+        },
+        {
+            "required": false,
+            "id": "red_banner"
+        },
+        {
+            "required": false,
+            "id": "red_bed"
+        },
+        {
+            "required": false,
+            "id": "red_candle"
+        },
+        {
+            "required": false,
+            "id": "red_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "red_carpet"
+        },
+        {
+            "required": false,
+            "id": "red_concrete"
+        },
+        {
+            "required": false,
+            "id": "red_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "red_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "red_mushroom"
+        },
+        {
+            "required": false,
+            "id": "red_mushroom_block"
+        },
+        {
+            "required": false,
+            "id": "red_nether_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "red_nether_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "red_nether_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "red_nether_bricks"
+        },
+        {
+            "required": false,
+            "id": "red_sand"
+        },
+        {
+            "required": false,
+            "id": "red_sandstone"
+        },
+        {
+            "required": false,
+            "id": "red_sandstone_slab"
+        },
+        {
+            "required": false,
+            "id": "red_sandstone_stairs"
+        },
+        {
+            "required": false,
+            "id": "red_sandstone_wall"
+        },
+        {
+            "required": false,
+            "id": "red_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "red_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "red_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "red_terracotta"
+        },
+        {
+            "required": false,
+            "id": "red_tulip"
+        },
+        {
+            "required": false,
+            "id": "red_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "red_wool"
+        },
+        {
+            "required": false,
+            "id": "redstone_block"
+        },
+        {
+            "required": false,
+            "id": "redstone_lamp"
+        },
+        {
+            "required": false,
+            "id": "redstone_ore"
+        },
+        {
+            "required": false,
+            "id": "redstone_torch"
+        },
+        {
+            "required": false,
+            "id": "redstone_wall_torch"
+        },
+        {
+            "required": false,
+            "id": "redstone_wire"
+        },
+        {
+            "required": false,
+            "id": "reinforced_deepslate"
+        },
+        {
+            "required": false,
+            "id": "repeater"
+        },
+        {
+            "required": false,
+            "id": "repeating_command_block"
+        },
+        {
+            "required": false,
+            "id": "resin_block"
+        },
+        {
+            "required": false,
+            "id": "resin_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "resin_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "resin_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "resin_bricks"
+        },
+        {
+            "required": false,
+            "id": "resin_clump"
+        },
+        {
+            "required": false,
+            "id": "respawn_anchor"
+        },
+        {
+            "required": false,
+            "id": "rooted_dirt"
+        },
+        {
+            "required": false,
+            "id": "rose_bush"
+        },
+        {
+            "required": false,
+            "id": "sand"
+        },
+        {
+            "required": false,
+            "id": "sandstone"
+        },
+        {
+            "required": false,
+            "id": "sandstone_slab"
+        },
+        {
+            "required": false,
+            "id": "sandstone_stairs"
+        },
+        {
+            "required": false,
+            "id": "sandstone_wall"
+        },
+        {
+            "required": false,
+            "id": "scaffolding"
+        },
+        {
+            "required": false,
+            "id": "sculk"
+        },
+        {
+            "required": false,
+            "id": "sculk_catalyst"
+        },
+        {
+            "required": false,
+            "id": "sculk_sensor"
+        },
+        {
+            "required": false,
+            "id": "sculk_shrieker"
+        },
+        {
+            "required": false,
+            "id": "sculk_vein"
+        },
+        {
+            "required": false,
+            "id": "sea_lantern"
+        },
+        {
+            "required": false,
+            "id": "sea_pickle"
+        },
+        {
+            "required": false,
+            "id": "seagrass"
+        },
+        {
+            "required": false,
+            "id": "short_dry_grass"
+        },
+        {
+            "required": false,
+            "id": "short_grass"
+        },
+        {
+            "required": false,
+            "id": "shroomlight"
+        },
+        {
+            "required": false,
+            "id": "shulker_box"
+        },
+        {
+            "required": false,
+            "id": "skeleton_skull"
+        },
+        {
+            "required": false,
+            "id": "skeleton_wall_skull"
+        },
+        {
+            "required": false,
+            "id": "slime_block"
+        },
+        {
+            "required": false,
+            "id": "small_amethyst_bud"
+        },
+        {
+            "required": false,
+            "id": "small_dripleaf"
+        },
+        {
+            "required": false,
+            "id": "smithing_table"
+        },
+        {
+            "required": false,
+            "id": "smoker"
+        },
+        {
+            "required": false,
+            "id": "smooth_basalt"
+        },
+        {
+            "required": false,
+            "id": "smooth_quartz"
+        },
+        {
+            "required": false,
+            "id": "smooth_quartz_slab"
+        },
+        {
+            "required": false,
+            "id": "smooth_quartz_stairs"
+        },
+        {
+            "required": false,
+            "id": "smooth_red_sandstone"
+        },
+        {
+            "required": false,
+            "id": "smooth_red_sandstone_slab"
+        },
+        {
+            "required": false,
+            "id": "smooth_red_sandstone_stairs"
+        },
+        {
+            "required": false,
+            "id": "smooth_sandstone"
+        },
+        {
+            "required": false,
+            "id": "smooth_sandstone_slab"
+        },
+        {
+            "required": false,
+            "id": "smooth_sandstone_stairs"
+        },
+        {
+            "required": false,
+            "id": "smooth_stone"
+        },
+        {
+            "required": false,
+            "id": "smooth_stone_slab"
+        },
+        {
+            "required": false,
+            "id": "sniffer_egg"
+        },
+        {
+            "required": false,
+            "id": "snow"
+        },
+        {
+            "required": false,
+            "id": "snow_block"
+        },
+        {
+            "required": false,
+            "id": "soul_campfire"
+        },
+        {
+            "required": false,
+            "id": "soul_fire"
+        },
+        {
+            "required": false,
+            "id": "soul_lantern"
+        },
+        {
+            "required": false,
+            "id": "soul_sand"
+        },
+        {
+            "required": false,
+            "id": "soul_soil"
+        },
+        {
+            "required": false,
+            "id": "soul_torch"
+        },
+        {
+            "required": false,
+            "id": "soul_wall_torch"
+        },
+        {
+            "required": false,
+            "id": "spawner"
+        },
+        {
+            "required": false,
+            "id": "sponge"
+        },
+        {
+            "required": false,
+            "id": "spore_blossom"
+        },
+        {
+            "required": false,
+            "id": "spruce_button"
+        },
+        {
+            "required": false,
+            "id": "spruce_door"
+        },
+        {
+            "required": false,
+            "id": "spruce_fence"
+        },
+        {
+            "required": false,
+            "id": "spruce_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "spruce_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "spruce_leaves"
+        },
+        {
+            "required": false,
+            "id": "spruce_log"
+        },
+        {
+            "required": false,
+            "id": "spruce_planks"
+        },
+        {
+            "required": false,
+            "id": "spruce_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "spruce_sapling"
+        },
+        {
+            "required": false,
+            "id": "spruce_sign"
+        },
+        {
+            "required": false,
+            "id": "spruce_slab"
+        },
+        {
+            "required": false,
+            "id": "spruce_stairs"
+        },
+        {
+            "required": false,
+            "id": "spruce_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "spruce_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "spruce_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "spruce_wood"
+        },
+        {
+            "required": false,
+            "id": "sticky_piston"
+        },
+        {
+            "required": false,
+            "id": "stone"
+        },
+        {
+            "required": false,
+            "id": "stone_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "stone_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "stone_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "stone_bricks"
+        },
+        {
+            "required": false,
+            "id": "stone_button"
+        },
+        {
+            "required": false,
+            "id": "stone_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "stone_slab"
+        },
+        {
+            "required": false,
+            "id": "stone_stairs"
+        },
+        {
+            "required": false,
+            "id": "stonecutter"
+        },
+        {
+            "required": false,
+            "id": "stripped_acacia_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_acacia_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_bamboo_block"
+        },
+        {
+            "required": false,
+            "id": "stripped_birch_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_birch_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_cherry_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_cherry_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_crimson_hyphae"
+        },
+        {
+            "required": false,
+            "id": "stripped_crimson_stem"
+        },
+        {
+            "required": false,
+            "id": "stripped_dark_oak_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_dark_oak_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_jungle_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_jungle_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_mangrove_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_mangrove_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_oak_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_oak_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_pale_oak_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_pale_oak_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_spruce_log"
+        },
+        {
+            "required": false,
+            "id": "stripped_spruce_wood"
+        },
+        {
+            "required": false,
+            "id": "stripped_warped_hyphae"
+        },
+        {
+            "required": false,
+            "id": "stripped_warped_stem"
+        },
+        {
+            "required": false,
+            "id": "structure_block"
+        },
+        {
+            "required": false,
+            "id": "structure_void"
+        },
+        {
+            "required": false,
+            "id": "sugar_cane"
+        },
+        {
+            "required": false,
+            "id": "sunflower"
+        },
+        {
+            "required": false,
+            "id": "suspicious_gravel"
+        },
+        {
+            "required": false,
+            "id": "suspicious_sand"
+        },
+        {
+            "required": false,
+            "id": "sweet_berry_bush"
+        },
+        {
+            "required": false,
+            "id": "tall_dry_grass"
+        },
+        {
+            "required": false,
+            "id": "tall_grass"
+        },
+        {
+            "required": false,
+            "id": "tall_seagrass"
+        },
+        {
+            "required": false,
+            "id": "target"
+        },
+        {
+            "required": false,
+            "id": "terracotta"
+        },
+        {
+            "required": false,
+            "id": "test_block"
+        },
+        {
+            "required": false,
+            "id": "test_instance_block"
+        },
+        {
+            "required": false,
+            "id": "tinted_glass"
+        },
+        {
+            "required": false,
+            "id": "tnt"
+        },
+        {
+            "required": false,
+            "id": "torch"
+        },
+        {
+            "required": false,
+            "id": "torchflower"
+        },
+        {
+            "required": false,
+            "id": "torchflower_crop"
+        },
+        {
+            "required": false,
+            "id": "trapped_chest"
+        },
+        {
+            "required": false,
+            "id": "trial_spawner"
+        },
+        {
+            "required": false,
+            "id": "tripwire"
+        },
+        {
+            "required": false,
+            "id": "tripwire_hook"
+        },
+        {
+            "required": false,
+            "id": "tube_coral"
+        },
+        {
+            "required": false,
+            "id": "tube_coral_block"
+        },
+        {
+            "required": false,
+            "id": "tube_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "tube_coral_wall_fan"
+        },
+        {
+            "required": false,
+            "id": "tuff"
+        },
+        {
+            "required": false,
+            "id": "tuff_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "tuff_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "tuff_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "tuff_bricks"
+        },
+        {
+            "required": false,
+            "id": "tuff_slab"
+        },
+        {
+            "required": false,
+            "id": "tuff_stairs"
+        },
+        {
+            "required": false,
+            "id": "tuff_wall"
+        },
+        {
+            "required": false,
+            "id": "turtle_egg"
+        },
+        {
+            "required": false,
+            "id": "twisting_vines"
+        },
+        {
+            "required": false,
+            "id": "twisting_vines_plant"
+        },
+        {
+            "required": false,
+            "id": "vault"
+        },
+        {
+            "required": false,
+            "id": "verdant_froglight"
+        },
+        {
+            "required": false,
+            "id": "vine"
+        },
+        {
+            "required": false,
+            "id": "void_air"
+        },
+        {
+            "required": false,
+            "id": "wall_torch"
+        },
+        {
+            "required": false,
+            "id": "warped_button"
+        },
+        {
+            "required": false,
+            "id": "warped_door"
+        },
+        {
+            "required": false,
+            "id": "warped_fence"
+        },
+        {
+            "required": false,
+            "id": "warped_fence_gate"
+        },
+        {
+            "required": false,
+            "id": "warped_fungus"
+        },
+        {
+            "required": false,
+            "id": "warped_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "warped_hyphae"
+        },
+        {
+            "required": false,
+            "id": "warped_nylium"
+        },
+        {
+            "required": false,
+            "id": "warped_planks"
+        },
+        {
+            "required": false,
+            "id": "warped_pressure_plate"
+        },
+        {
+            "required": false,
+            "id": "warped_roots"
+        },
+        {
+            "required": false,
+            "id": "warped_sign"
+        },
+        {
+            "required": false,
+            "id": "warped_slab"
+        },
+        {
+            "required": false,
+            "id": "warped_stairs"
+        },
+        {
+            "required": false,
+            "id": "warped_stem"
+        },
+        {
+            "required": false,
+            "id": "warped_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "warped_wall_hanging_sign"
+        },
+        {
+            "required": false,
+            "id": "warped_wall_sign"
+        },
+        {
+            "required": false,
+            "id": "warped_wart_block"
+        },
+        {
+            "required": false,
+            "id": "water"
+        },
+        {
+            "required": false,
+            "id": "water_cauldron"
+        },
+        {
+            "required": false,
+            "id": "waxed_chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_copper_block"
+        },
+        {
+            "required": false,
+            "id": "waxed_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "waxed_copper_door"
+        },
+        {
+            "required": false,
+            "id": "waxed_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "waxed_cut_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "waxed_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper_door"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_cut_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper_door"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_cut_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper_door"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_cut_copper"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "weathered_chiseled_copper"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper_door"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper_trapdoor"
+        },
+        {
+            "required": false,
+            "id": "weathered_cut_copper"
+        },
+        {
+            "required": false,
+            "id": "weathered_cut_copper_slab"
+        },
+        {
+            "required": false,
+            "id": "weathered_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "weeping_vines"
+        },
+        {
+            "required": false,
+            "id": "weeping_vines_plant"
+        },
+        {
+            "required": false,
+            "id": "wet_sponge"
+        },
+        {
+            "required": false,
+            "id": "wheat"
+        },
+        {
+            "required": false,
+            "id": "white_banner"
+        },
+        {
+            "required": false,
+            "id": "white_bed"
+        },
+        {
+            "required": false,
+            "id": "white_candle"
+        },
+        {
+            "required": false,
+            "id": "white_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "white_carpet"
+        },
+        {
+            "required": false,
+            "id": "white_concrete"
+        },
+        {
+            "required": false,
+            "id": "white_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "white_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "white_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "white_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "white_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "white_terracotta"
+        },
+        {
+            "required": false,
+            "id": "white_tulip"
+        },
+        {
+            "required": false,
+            "id": "white_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "white_wool"
+        },
+        {
+            "required": false,
+            "id": "wildflowers"
+        },
+        {
+            "required": false,
+            "id": "wither_rose"
+        },
+        {
+            "required": false,
+            "id": "wither_skeleton_skull"
+        },
+        {
+            "required": false,
+            "id": "wither_skeleton_wall_skull"
+        },
+        {
+            "required": false,
+            "id": "yellow_banner"
+        },
+        {
+            "required": false,
+            "id": "yellow_bed"
+        },
+        {
+            "required": false,
+            "id": "yellow_candle"
+        },
+        {
+            "required": false,
+            "id": "yellow_candle_cake"
+        },
+        {
+            "required": false,
+            "id": "yellow_carpet"
+        },
+        {
+            "required": false,
+            "id": "yellow_concrete"
+        },
+        {
+            "required": false,
+            "id": "yellow_concrete_powder"
+        },
+        {
+            "required": false,
+            "id": "yellow_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "yellow_shulker_box"
+        },
+        {
+            "required": false,
+            "id": "yellow_stained_glass"
+        },
+        {
+            "required": false,
+            "id": "yellow_stained_glass_pane"
+        },
+        {
+            "required": false,
+            "id": "yellow_terracotta"
+        },
+        {
+            "required": false,
+            "id": "yellow_wall_banner"
+        },
+        {
+            "required": false,
+            "id": "yellow_wool"
+        },
+        {
+            "required": false,
+            "id": "zombie_head"
+        },
+        {
+            "required": false,
+            "id": "zombie_wall_head"
+        }
+    ]
 }
