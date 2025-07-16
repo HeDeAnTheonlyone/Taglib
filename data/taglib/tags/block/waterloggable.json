@@ -1,10 +1,6 @@
 {
   "replace": false,
     "values": [
-        { "required": false, "id": "minecraft:small_amethyst_bud" },
-        { "required": false, "id": "minecraft:medium_amethyst_bud" },
-        { "required": false, "id": "minecraft:large_amethyst_bud" },
-        { "required": false, "id": "minecraft:amethyst_cluster" },
         { "required": false, "id": "minecraft:barrier" },
         { "required": false, "id": "minecraft:big_dripleaf" },
         { "required": false, "id": "minecraft:campfire" },
@@ -75,6 +71,7 @@
         { "required": false, "id": "#minecraft:slabs" },
         { "required": false, "id": "#minecraft:stairs" },
         { "required": false, "id": "#minecraft:trapdoors" },
-        { "required": false, "id": "#minecraft:walls" }
+        { "required": false, "id": "#minecraft:walls" },
+        { "required": false, "id": "#taglib:amethyst_clusters" }
     ]
 }
