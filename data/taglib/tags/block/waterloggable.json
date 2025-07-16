@@ -1,7 +1,6 @@
 {
   "replace": false,
     "values": [
-        { "required": false, "id": "minecraft:amethyst_cluster" },
         { "required": false, "id": "minecraft:barrier" },
         { "required": false, "id": "minecraft:big_dripleaf" },
         { "required": false, "id": "minecraft:campfire" },
@@ -24,11 +23,6 @@
         { "required": false, "id": "minecraft:dead_fire_coral_wall_fan" },
         { "required": false, "id": "minecraft:dead_horn_coral_wall_fan" },
         { "required": false, "id": "minecraft:dead_tube_coral_wall_fan" },
-        { "required": false, "id": "minecraft:brain_coral_fan" },
-        { "required": false, "id": "minecraft:bubble_coral_fan" },
-        { "required": false, "id": "minecraft:fire_coral_fan" },
-        { "required": false, "id": "minecraft:horn_coral_fan" },
-        { "required": false, "id": "minecraft:tube_coral_fan" },
         { "required": false, "id": "minecraft:decorated_pot" },
         { "required": false, "id": "minecraft:ender_chest" },
         { "required": false, "id": "minecraft:glow_lichen" },
@@ -69,6 +63,7 @@
         { "required": false, "id": "minecraft:trapped_chest" },
         { "required": false, "id": "#minecraft:candles" },
         { "required": false, "id": "#minecraft:corals" },
+        { "required": false, "id": "#minecraft:wall_corals"},
         { "required": false, "id": "#minecraft:fences" },
         { "required": false, "id": "#minecraft:leaves" },
         { "required": false, "id": "#minecraft:rails" },
@@ -76,6 +71,7 @@
         { "required": false, "id": "#minecraft:slabs" },
         { "required": false, "id": "#minecraft:stairs" },
         { "required": false, "id": "#minecraft:trapdoors" },
-        { "required": false, "id": "#minecraft:walls" }
+        { "required": false, "id": "#minecraft:walls" },
+        { "required": false, "id": "#taglib:amethyst_clusters" }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 48,
+        "pack_format": 1,
         "supported_formats": {"min_inclusive": 1, "max_inclusive": 1000000},
         "description": "A tag library by HeDeAn"
     }
