@@ -312,6 +312,18 @@
 		{
 			"required": false,
 			"id": "minecraft:lava"
-		}
+		},
+        		{
+			"required": false,
+			"id": "minecraft:leaf_litter"
+		},
+                		{
+			"required": false,
+			"id": "minecraft:bush"
+		},
+                		{
+			"required": false,
+			"id": "minecraft:firefly_bush"
+		},
 	]
 }
