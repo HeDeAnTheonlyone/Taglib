@@ -312,6 +312,26 @@
 		{
 			"required": false,
 			"id": "minecraft:lava"
-		}
+		},
+        		{
+			"required": false,
+			"id": "minecraft:leaf_litter"
+		},
+                		{
+			"required": false,
+			"id": "minecraft:bush"
+		},
+                		{
+			"required": false,
+			"id": "minecraft:firefly_bush"
+		},
+		                		{
+			"required": false,
+			"id": "minecraft:pale_moss_carpet"
+		},
+				                		{
+			"required": false,
+			"id": "minecraft:pale_hanging_moss"
+                                        }
 	]
 }
