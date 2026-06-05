@@ -19,7 +19,7 @@
 		},
 		{
 			"required": false,
-			"id": "minecraft:bundle"
+			"id": "#minecraft:bundles"
 		},
 		{
 			"required": false,

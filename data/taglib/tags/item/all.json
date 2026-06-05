@@ -51,6 +51,10 @@
         },
         {
             "required": false,
+            "id": "acacia_shelf"
+        },
+        {
+            "required": false,
             "id": "acacia_sign"
         },
         {
@@ -235,6 +239,10 @@
         },
         {
             "required": false,
+            "id": "bamboo_shelf"
+        },
+        {
+            "required": false,
             "id": "bamboo_sign"
         },
         {
@@ -359,6 +367,10 @@
         },
         {
             "required": false,
+            "id": "birch_shelf"
+        },
+        {
+            "required": false,
             "id": "birch_sign"
         },
         {
@@ -412,6 +424,10 @@
         {
             "required": false,
             "id": "black_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "black_harness"
         },
         {
             "required": false,
@@ -503,7 +519,15 @@
         },
         {
             "required": false,
+            "id": "blue_egg"
+        },
+        {
+            "required": false,
             "id": "blue_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "blue_harness"
         },
         {
             "required": false,
@@ -659,7 +683,15 @@
         },
         {
             "required": false,
+            "id": "brown_egg"
+        },
+        {
+            "required": false,
             "id": "brown_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "brown_harness"
         },
         {
             "required": false,
@@ -723,7 +755,15 @@
         },
         {
             "required": false,
+            "id": "bush"
+        },
+        {
+            "required": false,
             "id": "cactus"
+        },
+        {
+            "required": false,
+            "id": "cactus_flower"
         },
         {
             "required": false,
@@ -776,10 +816,6 @@
         {
             "required": false,
             "id": "cave_spider_spawn_egg"
-        },
-        {
-            "required": false,
-            "id": "chain"
         },
         {
             "required": false,
@@ -855,6 +891,10 @@
         },
         {
             "required": false,
+            "id": "cherry_shelf"
+        },
+        {
+            "required": false,
             "id": "cherry_sign"
         },
         {
@@ -923,6 +963,10 @@
         },
         {
             "required": false,
+            "id": "chiseled_resin_bricks"
+        },
+        {
+            "required": false,
             "id": "chiseled_sandstone"
         },
         {
@@ -960,6 +1004,10 @@
         {
             "required": false,
             "id": "clock"
+        },
+        {
+            "required": false,
+            "id": "closed_eyeblossom"
         },
         {
             "required": false,
@@ -1091,7 +1139,19 @@
         },
         {
             "required": false,
+            "id": "copper_axe"
+        },
+        {
+            "required": false,
+            "id": "copper_bars"
+        },
+        {
+            "required": false,
             "id": "copper_block"
+        },
+        {
+            "required": false,
+            "id": "copper_boots"
         },
         {
             "required": false,
@@ -1099,7 +1159,27 @@
         },
         {
             "required": false,
+            "id": "copper_chain"
+        },
+        {
+            "required": false,
+            "id": "copper_chest"
+        },
+        {
+            "required": false,
+            "id": "copper_chestplate"
+        },
+        {
+            "required": false,
             "id": "copper_door"
+        },
+        {
+            "required": false,
+            "id": "copper_golem_spawn_egg"
+        },
+        {
+            "required": false,
+            "id": "copper_golem_statue"
         },
         {
             "required": false,
@@ -1107,11 +1187,51 @@
         },
         {
             "required": false,
+            "id": "copper_helmet"
+        },
+        {
+            "required": false,
+            "id": "copper_hoe"
+        },
+        {
+            "required": false,
+            "id": "copper_horse_armor"
+        },
+        {
+            "required": false,
             "id": "copper_ingot"
         },
         {
             "required": false,
+            "id": "copper_lantern"
+        },
+        {
+            "required": false,
+            "id": "copper_leggings"
+        },
+        {
+            "required": false,
+            "id": "copper_nugget"
+        },
+        {
+            "required": false,
             "id": "copper_ore"
+        },
+        {
+            "required": false,
+            "id": "copper_pickaxe"
+        },
+        {
+            "required": false,
+            "id": "copper_shovel"
+        },
+        {
+            "required": false,
+            "id": "copper_sword"
+        },
+        {
+            "required": false,
+            "id": "copper_torch"
         },
         {
             "required": false,
@@ -1219,6 +1339,10 @@
         },
         {
             "required": false,
+            "id": "crimson_shelf"
+        },
+        {
+            "required": false,
             "id": "crimson_sign"
         },
         {
@@ -1311,6 +1435,10 @@
         },
         {
             "required": false,
+            "id": "cyan_harness"
+        },
+        {
+            "required": false,
             "id": "cyan_shulker_box"
         },
         {
@@ -1388,6 +1516,10 @@
         {
             "required": false,
             "id": "dark_oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "dark_oak_shelf"
         },
         {
             "required": false,
@@ -1675,6 +1807,10 @@
         },
         {
             "required": false,
+            "id": "dried_ghast"
+        },
+        {
+            "required": false,
             "id": "dried_kelp"
         },
         {
@@ -1815,7 +1951,19 @@
         },
         {
             "required": false,
+            "id": "exposed_copper_bars"
+        },
+        {
+            "required": false,
             "id": "exposed_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper_chain"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper_chest"
         },
         {
             "required": false,
@@ -1823,7 +1971,15 @@
         },
         {
             "required": false,
+            "id": "exposed_copper_golem_statue"
+        },
+        {
+            "required": false,
             "id": "exposed_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "exposed_copper_lantern"
         },
         {
             "required": false,
@@ -1840,6 +1996,10 @@
         {
             "required": false,
             "id": "exposed_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "exposed_lightning_rod"
         },
         {
             "required": false,
@@ -1884,6 +2044,10 @@
         {
             "required": false,
             "id": "fire_coral_fan"
+        },
+        {
+            "required": false,
+            "id": "firefly_bush"
         },
         {
             "required": false,
@@ -2155,6 +2319,10 @@
         },
         {
             "required": false,
+            "id": "gray_harness"
+        },
+        {
+            "required": false,
             "id": "gray_shulker_box"
         },
         {
@@ -2211,6 +2379,10 @@
         },
         {
             "required": false,
+            "id": "green_harness"
+        },
+        {
+            "required": false,
             "id": "green_shulker_box"
         },
         {
@@ -2252,6 +2424,10 @@
         {
             "required": false,
             "id": "hanging_roots"
+        },
+        {
+            "required": false,
+            "id": "happy_ghast_spawn_egg"
         },
         {
             "required": false,
@@ -2387,6 +2563,10 @@
         },
         {
             "required": false,
+            "id": "iron_chain"
+        },
+        {
+            "required": false,
             "id": "iron_chestplate"
         },
         {
@@ -2507,6 +2687,10 @@
         },
         {
             "required": false,
+            "id": "jungle_shelf"
+        },
+        {
+            "required": false,
             "id": "jungle_sign"
         },
         {
@@ -2568,6 +2752,10 @@
         {
             "required": false,
             "id": "lead"
+        },
+        {
+            "required": false,
+            "id": "leaf_litter"
         },
         {
             "required": false,
@@ -2643,6 +2831,10 @@
         },
         {
             "required": false,
+            "id": "light_blue_harness"
+        },
+        {
+            "required": false,
             "id": "light_blue_shulker_box"
         },
         {
@@ -2696,6 +2888,10 @@
         {
             "required": false,
             "id": "light_gray_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "light_gray_harness"
         },
         {
             "required": false,
@@ -2775,6 +2971,10 @@
         },
         {
             "required": false,
+            "id": "lime_harness"
+        },
+        {
+            "required": false,
             "id": "lime_shulker_box"
         },
         {
@@ -2848,6 +3048,10 @@
         {
             "required": false,
             "id": "magenta_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "magenta_harness"
         },
         {
             "required": false,
@@ -2932,6 +3136,10 @@
         {
             "required": false,
             "id": "mangrove_roots"
+        },
+        {
+            "required": false,
+            "id": "mangrove_shelf"
         },
         {
             "required": false,
@@ -3111,6 +3319,10 @@
         },
         {
             "required": false,
+            "id": "music_disc_lava_chicken"
+        },
+        {
+            "required": false,
             "id": "music_disc_mall"
         },
         {
@@ -3140,6 +3352,10 @@
         {
             "required": false,
             "id": "music_disc_strad"
+        },
+        {
+            "required": false,
+            "id": "music_disc_tears"
         },
         {
             "required": false,
@@ -3323,6 +3539,10 @@
         },
         {
             "required": false,
+            "id": "oak_shelf"
+        },
+        {
+            "required": false,
             "id": "oak_sign"
         },
         {
@@ -3367,6 +3587,10 @@
         },
         {
             "required": false,
+            "id": "open_eyeblossom"
+        },
+        {
+            "required": false,
             "id": "orange_banner"
         },
         {
@@ -3400,6 +3624,10 @@
         {
             "required": false,
             "id": "orange_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "orange_harness"
         },
         {
             "required": false,
@@ -3439,7 +3667,19 @@
         },
         {
             "required": false,
+            "id": "oxidized_copper_bars"
+        },
+        {
+            "required": false,
             "id": "oxidized_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper_chain"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper_chest"
         },
         {
             "required": false,
@@ -3447,7 +3687,15 @@
         },
         {
             "required": false,
+            "id": "oxidized_copper_golem_statue"
+        },
+        {
+            "required": false,
             "id": "oxidized_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "oxidized_copper_lantern"
         },
         {
             "required": false,
@@ -3464,6 +3712,10 @@
         {
             "required": false,
             "id": "oxidized_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "oxidized_lightning_rod"
         },
         {
             "required": false,
@@ -3536,6 +3788,10 @@
         {
             "required": false,
             "id": "pale_oak_sapling"
+        },
+        {
+            "required": false,
+            "id": "pale_oak_shelf"
         },
         {
             "required": false,
@@ -3648,6 +3904,10 @@
         {
             "required": false,
             "id": "pink_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "pink_harness"
         },
         {
             "required": false,
@@ -3955,6 +4215,10 @@
         },
         {
             "required": false,
+            "id": "purple_harness"
+        },
+        {
+            "required": false,
             "id": "purple_shulker_box"
         },
         {
@@ -4111,6 +4375,10 @@
         },
         {
             "required": false,
+            "id": "red_harness"
+        },
+        {
+            "required": false,
             "id": "red_mushroom"
         },
         {
@@ -4208,6 +4476,34 @@
         {
             "required": false,
             "id": "repeating_command_block"
+        },
+        {
+            "required": false,
+            "id": "resin_block"
+        },
+        {
+            "required": false,
+            "id": "resin_brick"
+        },
+        {
+            "required": false,
+            "id": "resin_brick_slab"
+        },
+        {
+            "required": false,
+            "id": "resin_brick_stairs"
+        },
+        {
+            "required": false,
+            "id": "resin_brick_wall"
+        },
+        {
+            "required": false,
+            "id": "resin_bricks"
+        },
+        {
+            "required": false,
+            "id": "resin_clump"
         },
         {
             "required": false,
@@ -4332,6 +4628,10 @@
         {
             "required": false,
             "id": "shield"
+        },
+        {
+            "required": false,
+            "id": "short_dry_grass"
         },
         {
             "required": false,
@@ -4591,6 +4891,10 @@
         },
         {
             "required": false,
+            "id": "spruce_shelf"
+        },
+        {
+            "required": false,
             "id": "spruce_sign"
         },
         {
@@ -4835,6 +5139,10 @@
         },
         {
             "required": false,
+            "id": "tall_dry_grass"
+        },
+        {
+            "required": false,
             "id": "tall_grass"
         },
         {
@@ -4844,6 +5152,14 @@
         {
             "required": false,
             "id": "terracotta"
+        },
+        {
+            "required": false,
+            "id": "test_block"
+        },
+        {
+            "required": false,
+            "id": "test_instance_block"
         },
         {
             "required": false,
@@ -5071,6 +5387,10 @@
         },
         {
             "required": false,
+            "id": "warped_shelf"
+        },
+        {
+            "required": false,
             "id": "warped_sign"
         },
         {
@@ -5103,6 +5423,10 @@
         },
         {
             "required": false,
+            "id": "waxed_copper_bars"
+        },
+        {
+            "required": false,
             "id": "waxed_copper_block"
         },
         {
@@ -5111,11 +5435,27 @@
         },
         {
             "required": false,
+            "id": "waxed_copper_chain"
+        },
+        {
+            "required": false,
+            "id": "waxed_copper_chest"
+        },
+        {
+            "required": false,
             "id": "waxed_copper_door"
         },
         {
             "required": false,
+            "id": "waxed_copper_golem_statue"
+        },
+        {
+            "required": false,
             "id": "waxed_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_copper_lantern"
         },
         {
             "required": false,
@@ -5143,7 +5483,19 @@
         },
         {
             "required": false,
+            "id": "waxed_exposed_copper_bars"
+        },
+        {
+            "required": false,
             "id": "waxed_exposed_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper_chain"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper_chest"
         },
         {
             "required": false,
@@ -5151,7 +5503,15 @@
         },
         {
             "required": false,
+            "id": "waxed_exposed_copper_golem_statue"
+        },
+        {
+            "required": false,
             "id": "waxed_exposed_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_exposed_copper_lantern"
         },
         {
             "required": false,
@@ -5171,6 +5531,14 @@
         },
         {
             "required": false,
+            "id": "waxed_exposed_lightning_rod"
+        },
+        {
+            "required": false,
+            "id": "waxed_lightning_rod"
+        },
+        {
+            "required": false,
             "id": "waxed_oxidized_chiseled_copper"
         },
         {
@@ -5179,7 +5547,19 @@
         },
         {
             "required": false,
+            "id": "waxed_oxidized_copper_bars"
+        },
+        {
+            "required": false,
             "id": "waxed_oxidized_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper_chain"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper_chest"
         },
         {
             "required": false,
@@ -5187,7 +5567,15 @@
         },
         {
             "required": false,
+            "id": "waxed_oxidized_copper_golem_statue"
+        },
+        {
+            "required": false,
             "id": "waxed_oxidized_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_oxidized_copper_lantern"
         },
         {
             "required": false,
@@ -5207,6 +5595,10 @@
         },
         {
             "required": false,
+            "id": "waxed_oxidized_lightning_rod"
+        },
+        {
+            "required": false,
             "id": "waxed_weathered_chiseled_copper"
         },
         {
@@ -5215,7 +5607,19 @@
         },
         {
             "required": false,
+            "id": "waxed_weathered_copper_bars"
+        },
+        {
+            "required": false,
             "id": "waxed_weathered_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper_chain"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper_chest"
         },
         {
             "required": false,
@@ -5223,7 +5627,15 @@
         },
         {
             "required": false,
+            "id": "waxed_weathered_copper_golem_statue"
+        },
+        {
+            "required": false,
             "id": "waxed_weathered_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "waxed_weathered_copper_lantern"
         },
         {
             "required": false,
@@ -5243,6 +5655,10 @@
         },
         {
             "required": false,
+            "id": "waxed_weathered_lightning_rod"
+        },
+        {
+            "required": false,
             "id": "wayfinder_armor_trim_smithing_template"
         },
         {
@@ -5255,7 +5671,19 @@
         },
         {
             "required": false,
+            "id": "weathered_copper_bars"
+        },
+        {
+            "required": false,
             "id": "weathered_copper_bulb"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper_chain"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper_chest"
         },
         {
             "required": false,
@@ -5263,7 +5691,15 @@
         },
         {
             "required": false,
+            "id": "weathered_copper_golem_statue"
+        },
+        {
+            "required": false,
             "id": "weathered_copper_grate"
+        },
+        {
+            "required": false,
+            "id": "weathered_copper_lantern"
         },
         {
             "required": false,
@@ -5280,6 +5716,10 @@
         {
             "required": false,
             "id": "weathered_cut_copper_stairs"
+        },
+        {
+            "required": false,
+            "id": "weathered_lightning_rod"
         },
         {
             "required": false,
@@ -5335,6 +5775,10 @@
         },
         {
             "required": false,
+            "id": "white_harness"
+        },
+        {
+            "required": false,
             "id": "white_shulker_box"
         },
         {
@@ -5360,6 +5804,10 @@
         {
             "required": false,
             "id": "wild_armor_trim_smithing_template"
+        },
+        {
+            "required": false,
+            "id": "wildflowers"
         },
         {
             "required": false,
@@ -5456,6 +5904,10 @@
         {
             "required": false,
             "id": "yellow_glazed_terracotta"
+        },
+        {
+            "required": false,
+            "id": "yellow_harness"
         },
         {
             "required": false,

@@ -659,7 +659,7 @@
         },
         {
             "required": false,
-            "id": "chain"
+            "id": "iron_chain"
         },
         {
             "required": false,

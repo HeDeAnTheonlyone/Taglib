@@ -5,7 +5,7 @@
         { "required": false, "id": "minecraft:big_dripleaf" },
         { "required": false, "id": "minecraft:campfire" },
         { "required": false, "id": "minecraft:calibrated_sculk_sensor" },
-        { "required": false, "id": "minecraft:chain" },
+        { "required": false, "id": "minecraft:iron_chain" },
         { "required": false, "id": "minecraft:chest" },
         { "required": false, "id": "minecraft:conduit" },
         { "required": false, "id": "minecraft:dead_brain_coral_fan" },

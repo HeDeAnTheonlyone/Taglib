@@ -1,6 +1,14 @@
 {
   "replace": false,
   "values": [
-    { "required": false, "id": "minecraft:chain" }
+    { "required": false, "id": "minecraft:iron_chain" },
+    { "required": false, "id": "minecraft:copper_chain" },
+    { "required": false, "id": "minecraft:exposed_copper_chain" },
+    { "required": false, "id": "minecraft:oxidized_copper_chain" },
+    { "required": false, "id": "minecraft:waxed_copper_chain" },
+    { "required": false, "id": "minecraft:waxed_exposed_copper_chain" },
+    { "required": false, "id": "minecraft:waxed_oxidized_copper_chain" },
+    { "required": false, "id": "minecraft:waxed_weathered_copper_chain" },
+    { "required": false, "id": "minecraft:weathered_copper_chain" }
   ]
 }

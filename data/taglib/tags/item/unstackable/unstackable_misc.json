@@ -55,6 +55,10 @@
 		},
 		{
 			"required": false,
+			"id": "#minecraft:creeper_drop_music_discs"
+		},
+		{
+			"required": false,
 			"id": "minecraft:music_disc_creator_music_box"
 		},
 		{
@@ -83,7 +87,15 @@
 		},
 		{
 			"required": false,
-			"id": "#minecraft:creeper_drop_music_discs"
+			"id": "minecraft:music_disc_lava_chicken"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_tears"
+		},
+		{
+			"required": false,
+			"id": "#minecraft:harnesses"
 		}
 	]
 }

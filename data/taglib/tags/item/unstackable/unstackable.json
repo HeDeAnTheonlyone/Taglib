@@ -11,107 +11,15 @@
 		},
 		{
 			"required": false,
+			"id": "#minecraft:enchantable/durability"
+		},
+		{
+			"required": false,
 			"id": "minecraft:wolf_armor"
 		},
 		{
 			"required": false,
-			"id": "minecraft:turtle_helmet"
-		},
-		{
-			"required": false,
-			"id": "minecraft:leather_helmet"
-		},
-		{
-			"required": false,
-			"id": "minecraft:leather_chestplate"
-		},
-		{
-			"required": false,
-			"id": "minecraft:leather_leggings"
-		},
-		{
-			"required": false,
-			"id": "minecraft:leather_boots"
-		},
-		{
-			"required": false,
-			"id": "minecraft:chainmail_helmet"
-		},
-		{
-			"required": false,
-			"id": "minecraft:chainmail_chestplate"
-		},
-		{
-			"required": false,
-			"id": "minecraft:chainmail_leggings"
-		},
-		{
-			"required": false,
-			"id": "minecraft:chainmail_boots"
-		},
-		{
-			"required": false,
-			"id": "minecraft:golden_helmet"
-		},
-		{
-			"required": false,
-			"id": "minecraft:golden_chestplate"
-		},
-		{
-			"required": false,
-			"id": "minecraft:golden_leggings"
-		},
-		{
-			"required": false,
-			"id": "minecraft:golden_boots"
-		},
-		{
-			"required": false,
-			"id": "minecraft:iron_helmet"
-		},
-		{
-			"required": false,
-			"id": "minecraft:iron_chestplate"
-		},
-		{
-			"required": false,
-			"id": "minecraft:iron_leggings"
-		},
-		{
-			"required": false,
-			"id": "minecraft:iron_boots"
-		},
-		{
-			"required": false,
-			"id": "minecraft:diamond_helmet"
-		},
-		{
-			"required": false,
-			"id": "minecraft:diamond_chestplate"
-		},
-		{
-			"required": false,
-			"id": "minecraft:diamond_leggings"
-		},
-		{
-			"required": false,
-			"id": "minecraft:diamond_boots"
-		},
-		{
-			"required": false,
-			"id": "minecraft:netherite_helmet"
-		},
-		{
-			"required": false,
-			"id": "minecraft:netherite_chestplate"
-		},
-		{
-			"required": false,
-			"id": "minecraft:netherite_leggings"
-		},
-		{
-			"required": false,
-			"id": "minecraft:netherite_boots"
+			"id": "#minecraft:harnesses"
 		},
 		{
 			"required": false,
@@ -123,39 +31,15 @@
 		},
 		{
 			"required": false,
+			"id": "minecraft:copper_horse_armor"
+		},
+		{
+			"required": false,
 			"id": "minecraft:iron_horse_armor"
 		},
 		{
 			"required": false,
 			"id": "minecraft:diamond_horse_armor"
-		},
-		{
-			"required": false,
-			"id": "minecraft:shield"
-		},
-		{
-			"required": false,
-			"id": "minecraft:trident"
-		},
-		{
-			"required": false,
-			"id": "minecraft:mace"
-		},
-		{
-			"required": false,
-			"id": "#minecraft:swords"
-		},
-		{
-			"required": false,
-			"id": "minecraft:bow"
-		},
-		{
-			"required": false,
-			"id": "minecraft:crossbow"
-		},
-		{
-			"required": false,
-			"id": "minecraft:trident"
 		},
 		{
 			"required": false,
@@ -211,10 +95,6 @@
 		},
 		{
 			"required": false,
-			"id": "minecraft:ominous_bottle"
-		},
-		{
-			"required": false,
 			"id": "minecraft:minecart"
 		},
 		{
@@ -239,71 +119,7 @@
 		},
 		{
 			"required": false,
-			"id": "minecraft:shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:black_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:blue_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:brown_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:cyan_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:gray_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:green_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:light_blue_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:light_gray_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:lime_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:magenta_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:orange_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:pink_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:purple_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:red_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:white_shulker_box"
-		},
-		{
-			"required": false,
-			"id": "minecraft:yellow_shulker_box"
+			"id": "#minecraft:shulker_boxes"
 		},
 		{
 			"required": false,
@@ -311,47 +127,11 @@
 		},
 		{
 			"required": false,
-			"id": "minecraft:flint_and_steel"
-		},
-		{
-			"required": false,
-			"id": "minecraft:fishing_rod"
-		},
-		{
-			"required": false,
 			"id": "minecraft:spyglass"
 		},
 		{
 			"required": false,
-			"id": "minecraft:shears"
-		},
-		{
-			"required": false,
-			"id": "minecraft:bundle"
-		},
-		{
-			"required": false,
-			"id": "#minecraft:pickaxes"
-		},
-		{
-			"required": false,
-			"id": "#minecraft:axes"
-		},
-		{
-			"required": false,
-			"id": "#minecraft:shovels"
-		},
-		{
-			"required": false,
-			"id": "#minecraft:hoes"
-		},
-		{
-			"required": false,
-			"id": "minecraft:carrot_on_a_stick"
-		},
-		{
-			"required": false,
-			"id": "minecraft:warped_fungus_on_a_stick"
+			"id": "#minecraft:bundles"
 		},
 		{
 			"required": false,
@@ -376,10 +156,6 @@
 		{
 			"required": false,
 			"id": "minecraft:totem_of_undying"
-		},
-		{
-			"required": false,
-			"id": "minecraft:elytra"
 		},
 		{
 			"required": false,
@@ -427,6 +203,10 @@
 		},
 		{
 			"required": false,
+			"id": "#minecraft:creeper_drop_music_discs"
+		},
+		{
+			"required": false,
 			"id": "minecraft:music_disc_creator_music_box"
 		},
 		{
@@ -455,7 +235,11 @@
 		},
 		{
 			"required": false,
-			"id": "#minecraft:creeper_drop_music_discs"
+			"id": "minecraft:music_disc_lava_chicken"
+		},
+		{
+			"required": false,
+			"id": "minecraft:music_disc_tears"
 		}
 	]
 }

@@ -61,7 +61,7 @@
         { "required": false, "id": "minecraft:carrot" },
         { "required": false, "id": "minecraft:carrot_on_a_stick" },
         { "required": false, "id": "minecraft:cauldron" },
-        { "required": false, "id": "minecraft:chain" },
+        { "required": false, "id": "minecraft:iron_chain" },
         { "required": false, "id": "minecraft:chainmail_boots" },
         { "required": false, "id": "minecraft:chainmail_chestplate" },
         { "required": false, "id": "minecraft:chainmail_helmet" },
